@@ -19,7 +19,7 @@
     {
       "work": "digesta",
       "path": "works/digesta/学说汇纂_下载与EPUB_2026-09-26/Digesta_Iustiniani_学说汇纂_中文全译本.epub",
-      "asset": "Digesta_Iustiniani_学说汇纂_中文全译本.epub",
+      "asset": "Digesta_Iustiniani_Chinese.epub",
       "bytes": 2532261,
       "sha256": "b2fe85064ab26188a8555c826dcd5e01fefd49b1bfe897270833f0257266ed05"
     },
@@ -75,7 +75,7 @@
   ],
   "bundle": {
     "asset": "corpus-iuris-civilis-zh-v2026.10.11-epub.zip",
-    "bytes": 14510907,
-    "sha256": "4898e11d4d57ac7f5467d314a95596de92d866c8aff43fc87521f1844dae3fc3"
+    "bytes": 14510864,
+    "sha256": "edb172a254a51a015a7340a928624f01888f044976c70f39833b1b88e1040aed"
   }
 }
