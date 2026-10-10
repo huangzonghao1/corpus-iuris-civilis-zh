@@ -1,0 +1,398 @@
+{
+  "bilingual": {
+    "epub": "./Novellae_Schoell_Kroll_Chinese_Bilingual.epub",
+    "zip_test": "passed",
+    "mimetype_first_uncompressed": true,
+    "xml_parse": "passed",
+    "single_nav_item": true,
+    "navigation_language": "zh-Hans",
+    "internal_href_missing": [],
+    "missing_fragments": [],
+    "navigation_links": 2341,
+    "expected_navigation_targets": 2320,
+    "navigation_targets_missing": [],
+    "navigation_fragment_links": 2320,
+    "size_bytes": 1398760,
+    "sha256": "2e17ded50bc66d3f5ef1d7ae1cc63e06f6797e4c985a804b3992b5f29ce7ea24"
+  },
+  "latin": {
+    "epub": "./Novellae_Schoell_Kroll_Latin.epub",
+    "zip_test": "passed",
+    "mimetype_first_uncompressed": true,
+    "xml_parse": "passed",
+    "single_nav_item": true,
+    "navigation_language": "la",
+    "internal_href_missing": [],
+    "missing_fragments": [],
+    "navigation_links": 3155,
+    "expected_navigation_targets": 2967,
+    "navigation_targets_missing": [],
+    "navigation_fragment_links": 2967,
+    "size_bytes": 967210,
+    "sha256": "a73e4f5f2d4f2b5658d7598c003ac4454e0390d42efd40ac3b53043b9bb9a4db"
+  },
+  "chinese": {
+    "epub": "./Novellae_Schoell_Kroll_Chinese.epub",
+    "zip_test": "passed",
+    "mimetype_first_uncompressed": true,
+    "xml_parse": "passed",
+    "single_nav_item": true,
+    "navigation_language": "zh-Hans",
+    "internal_href_missing": [],
+    "missing_fragments": [],
+    "navigation_links": 2341,
+    "expected_navigation_targets": 2320,
+    "navigation_targets_missing": [],
+    "navigation_fragment_links": 2320,
+    "size_bytes": 712991,
+    "sha256": "e7dba1b322979aeff417a9d7133270d6c351f5733a1dfb2a91a4e0e177100f4e"
+  },
+  "coverage": {
+    "source_documents_in_latin_edition": 187,
+    "source_navigation_anchor_targets": 2967,
+    "translation_heading_targets": 2320,
+    "removed_original_blocks": 1933,
+    "unmatched_source_blocks": 0,
+    "orphan_translation_markers_retained": 3
+  },
+  "latin_edition": {
+    "output": "./Novellae_Schoell_Kroll_Latin.epub",
+    "source_documents": 187,
+    "language": "la (fragmenta grc servata)"
+  },
+  "chinese_edition": {
+    "output": "./Novellae_Schoell_Kroll_Chinese.epub",
+    "translation_documents": 19,
+    "editable_markdown_directory": "./translations_chinese_only",
+    "removed_original_blocks": 1933,
+    "unmatched_source_blocks": 0,
+    "orphan_translation_markers_retained": 3,
+    "per_file": [
+      {
+        "file": "Appendix_001-009_Chinese.md",
+        "title": "《散见宪令附录》第一至九篇双语工作译稿",
+        "doc": "translation-Appendix_001-009_Chinese.xhtml",
+        "source_bytes": 67105,
+        "clean_markdown": "./translations_chinese_only/Appendix_001-009_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 38,
+          "translation_markers_following_removed_blocks": 38,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Edicta_001-012_Chinese.md",
+        "title": "《查士丁尼十三篇敕令》双语工作译稿（部分）",
+        "doc": "translation-Edicta_001-012_Chinese.xhtml",
+        "source_bytes": 34987,
+        "clean_markdown": "./translations_chinese_only/Edicta_001-012_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 32,
+          "translation_markers_following_removed_blocks": 32,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Edicta_008_Chinese.md",
+        "title": "《查士丁尼十三篇敕令》第八篇双语工作译稿",
+        "doc": "translation-Edicta_008_Chinese.xhtml",
+        "source_bytes": 15540,
+        "clean_markdown": "./translations_chinese_only/Edicta_008_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 10,
+          "translation_markers_following_removed_blocks": 10,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_001_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutio I 中译工作稿",
+        "doc": "translation-Epitome_Juliani_001_Chinese.xhtml",
+        "source_bytes": 18807,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_001_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 7,
+          "translation_markers_following_removed_blocks": 7,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_002_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutio II 中译工作稿",
+        "doc": "translation-Epitome_Juliani_002_Chinese.xhtml",
+        "source_bytes": 8639,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_002_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 10,
+          "translation_markers_following_removed_blocks": 10,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_003_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutio III 中译工作稿",
+        "doc": "translation-Epitome_Juliani_003_Chinese.xhtml",
+        "source_bytes": 6829,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_003_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 3,
+          "translation_markers_following_removed_blocks": 3,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_004_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutio IV 中译工作稿",
+        "doc": "translation-Epitome_Juliani_004_Chinese.xhtml",
+        "source_bytes": 14506,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_004_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 19,
+          "translation_markers_following_removed_blocks": 19,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_005_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutio V 中译工作稿",
+        "doc": "translation-Epitome_Juliani_005_Chinese.xhtml",
+        "source_bytes": 2950,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_005_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 3,
+          "translation_markers_following_removed_blocks": 3,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_006_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutio VI 中译工作稿",
+        "doc": "translation-Epitome_Juliani_006_Chinese.xhtml",
+        "source_bytes": 17549,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_006_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 15,
+          "translation_markers_following_removed_blocks": 15,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_007-018_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷（Constitutiones VII—XVIII，7—18）中文对读译稿",
+        "doc": "translation-Epitome_Juliani_007-018_Chinese.xhtml",
+        "source_bytes": 62698,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_007-018_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 34,
+          "translation_markers_following_removed_blocks": 34,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_019-030_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷（Constitutiones XIX—XXX，19—30）中文对读译稿",
+        "doc": "translation-Epitome_Juliani_019-030_Chinese.xhtml",
+        "source_bytes": 54849,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_019-030_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 43,
+          "translation_markers_following_removed_blocks": 43,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_031-045_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷（Constitutiones XXXI—XLV，31—45）中文对读译稿",
+        "doc": "translation-Epitome_Juliani_031-045_Chinese.xhtml",
+        "source_bytes": 123895,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_031-045_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 71,
+          "translation_markers_following_removed_blocks": 71,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_046-055_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷：Constitutiones XLVI–LV（46–55）",
+        "doc": "translation-Epitome_Juliani_046-055_Chinese.xhtml",
+        "source_bytes": 38947,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_046-055_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 19,
+          "translation_markers_following_removed_blocks": 19,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_056-080_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第一卷（Constitutiones LVI—LXXX，56—80）中文对读译稿",
+        "doc": "translation-Epitome_Juliani_056-080_Chinese.xhtml",
+        "source_bytes": 127496,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_056-080_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 108,
+          "translation_markers_following_removed_blocks": 108,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Epitome_Juliani_081-124_Chinese.md",
+        "title": "《尤利安新律拉丁摘要》第二卷（Constitutiones 81—124）中文对读译稿（阶段稿）",
+        "doc": "translation-Epitome_Juliani_081-124_Chinese.xhtml",
+        "source_bytes": 416896,
+        "clean_markdown": "./translations_chinese_only/Epitome_Juliani_081-124_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 257,
+          "translation_markers_following_removed_blocks": 257,
+          "translation_markers_without_source_block": 3
+        }
+      },
+      {
+        "file": "Novellae_001-056_Chinese.md",
+        "title": "《查士丁尼新律》双语逐段译稿：第1—56篇工作卷",
+        "doc": "translation-Novellae_001-056_Chinese.xhtml",
+        "source_bytes": 1110740,
+        "clean_markdown": "./translations_chinese_only/Novellae_001-056_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 630,
+          "translation_markers_following_removed_blocks": 630,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Novellae_057-112_Chinese.md",
+        "title": "《查士丁尼新律》57—112篇中文对读译稿",
+        "doc": "translation-Novellae_057-112_Chinese.xhtml",
+        "source_bytes": 655933,
+        "clean_markdown": "./translations_chinese_only/Novellae_057-112_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 270,
+          "translation_markers_following_removed_blocks": 270,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Novellae_089_Chinese.md",
+        "title": "《查士丁尼新律》第八十九篇中文对读译稿（阶段稿）",
+        "doc": "translation-Novellae_089_Chinese.xhtml",
+        "source_bytes": 57538,
+        "clean_markdown": "./translations_chinese_only/Novellae_089_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 17,
+          "translation_markers_following_removed_blocks": 17,
+          "translation_markers_without_source_block": 0
+        }
+      },
+      {
+        "file": "Novellae_113-168_Chinese.md",
+        "title": "《查士丁尼新律》113—168 篇中文对照译稿",
+        "doc": "translation-Novellae_113-168_Chinese.xhtml",
+        "source_bytes": 682986,
+        "clean_markdown": "./translations_chinese_only/Novellae_113-168_Chinese.md",
+        "strip_audit": {
+          "original_blocks_removed": 347,
+          "translation_markers_following_removed_blocks": 347,
+          "translation_markers_without_source_block": 0
+        }
+      }
+    ]
+  },
+  "bilingual_layout": "paired original/Chinese passages only; standalone source pages are in the Latin edition",
+  "epubcheck": "not available on PATH",
+  "calibre_conversion": {
+    "version": "ebook-convert (calibre 7.22.0)",
+    "results": {
+      "latin": {
+        "exit_status": 0,
+        "output": "/tmp/Novellae_Schoell_Kroll_Latin_QA.azw3",
+        "output_bytes": 2105376,
+        "source_epub_bytes": 967210
+      },
+      "chinese": {
+        "exit_status": 0,
+        "output": "/tmp/Novellae_Schoell_Kroll_Chinese_QA.azw3",
+        "output_bytes": 1969485,
+        "source_epub_bytes": 712991
+      },
+      "bilingual": {
+        "exit_status": 0,
+        "output": "/tmp/Novellae_Schoell_Kroll_Bilingual_QA.azw3",
+        "output_bytes": 3221270,
+        "source_epub_bytes": 1398760
+      }
+    },
+    "purpose": "Import and conversion smoke check; AZW3 files are temporary QA outputs."
+  },
+  "sample_checks": {
+    "latin:text/Nov01.xhtml": {
+      "characters": 20972,
+      "greek_characters": 0,
+      "replacement_character": false
+    },
+    "latin:text/Nov73.xhtml": {
+      "characters": 14932,
+      "greek_characters": 0,
+      "replacement_character": false
+    },
+    "latin:text/Nov135.xhtml": {
+      "characters": 3949,
+      "greek_characters": 3,
+      "replacement_character": false
+    },
+    "latin:text/Nov168.xhtml": {
+      "characters": 2070,
+      "greek_characters": 0,
+      "replacement_character": false
+    },
+    "latin:text/Ed2.xhtml": {
+      "characters": 4104,
+      "greek_characters": 0,
+      "replacement_character": false
+    },
+    "latin:text/App4.xhtml": {
+      "characters": 2625,
+      "greek_characters": 0,
+      "replacement_character": false
+    },
+    "latin:text/epitome_julien_2.xhtml": {
+      "characters": 251315,
+      "greek_characters": 0,
+      "replacement_character": false
+    },
+    "chinese:translations/translation-Novellae_001-056_Chinese.xhtml": {
+      "characters": 201819,
+      "han_characters": 156052,
+      "original_labels": 0,
+      "has_translation_label": true,
+      "replacement_character": false
+    },
+    "chinese:translations/translation-Novellae_113-168_Chinese.xhtml": {
+      "characters": 124278,
+      "han_characters": 95862,
+      "original_labels": 0,
+      "has_translation_label": true,
+      "replacement_character": false
+    },
+    "chinese:translations/translation-Appendix_001-009_Chinese.xhtml": {
+      "characters": 16074,
+      "han_characters": 9850,
+      "original_labels": 0,
+      "has_translation_label": true,
+      "replacement_character": false
+    },
+    "chinese:translations/translation-Epitome_Juliani_081-124_Chinese.xhtml": {
+      "characters": 88516,
+      "han_characters": 49722,
+      "original_labels": 0,
+      "has_translation_label": true,
+      "replacement_character": false
+    },
+    "bilingual:Novellae_001-056": {
+      "standalone_source_pages_embedded": 0,
+      "latin_passage_present": true,
+      "chinese_translation_present": true,
+      "adjacent_section_markers": true
+    }
+  }
+}

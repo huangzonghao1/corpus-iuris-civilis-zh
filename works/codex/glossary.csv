@@ -1,0 +1,275 @@
+﻿latin_term,preferred_chinese,context_note,status
+Codex Iustinianus,《查士丁尼法典》,全书书名；拉丁题名首次并列保留。,provisional
+Corpus Iuris Civilis,《民法大全》,丛书名；首次并列保留拉丁题名。,provisional
+liber,卷,全书层级；必要时保留 Liber I 等原编号。,provisional
+titulus,题,卷内层级；题名保留原编号。,provisional
+constitutio,敕令,皇帝立法文本的泛称；依具体文本功能细分。,provisional
+imperator,皇帝,罗马皇帝；不与现代国家元首制度作等同。,provisional
+restitutio in integrum,恢复原状救济,古典法上的衡平救济；首次可并列拉丁术语，避免等同于现代民法上的一般恢复原状。,provisional
+minor; minor annis viginti quinque,未成年人；未满二十五岁者,罗马法年龄语境通常指未满二十五岁者，依条文条件译出。,provisional
+actio,诉权；诉讼,依语境区分诉讼形式、程序权利与起诉行为；重要专名保留拉丁语。,provisional
+exceptio,抗辩,罗马程序法上的抗辩；与现代实体法抗辩不当然等同。,provisional
+rescriptum,皇帝复文,皇帝对请示或呈请所作的答复文本。,provisional
+iusiurandum; sacramentum,宣誓；誓言,依语法作动词或名词处理；不得与现代证据法规则等同。,provisional
+tutor; tutela,监护人；监护,罗马法上的监护关系，依语境区分人和制度。,provisional
+fideicommissum,信托遗赠,罗马法遗嘱处分方式；避免直接套用普通法信托。,provisional
+dilatio,期限展延,诉讼中的期限延长或延期；依据上下文选用。,provisional
+feriae,休庭日；法定休假日,司法审理停歇日；依语境说明其是否属于法定节日。,provisional
+suffragium,助力；请托性支持,为实现请求而提供的支持或援助，不译为选举投票。,provisional
+commonitorium,推荐状；告知文书,依语境可指载有支持或通知内容的书面文书。,provisional
+procurator,代理人,罗马法代理制度术语；依文书或诉讼语境细分。,provisional
+praeses provinciae,行省长官,行省治理及司法职务；不等同于现代行政职务。,provisional
+fiscus,国库,罗马帝国皇帝财政机关或国库，依条文语境确定。,provisional
+bonae fidei contractus,善意契约,罗马法契约类别术语；解释其诉讼与诚信义务语境。,provisional
+arbiter; compromissum,仲裁人；仲裁协议,罗马法仲裁程序；依原文分别译出仲裁人和提交仲裁的合意。,provisional
+usucapio,取得时效,罗马法通过持续占有取得所有权的制度。,provisional
+commodatum,使用借贷,无偿交付物品供他人使用并负返还义务的契约类型。,provisional
+pignus; hypotheca,质押；抵押,依物的交付与否和文本语境区分罗马法担保形态。,provisional
+actio pigneraticia,质权诉权,基于质权关系请求返还质押物或追究相关责任的诉权。,provisional
+chirographum,亲笔文书,私人亲笔书写的文书；与法院或官方文书区分。,provisional
+apocha; antapocha,收据；反向收据,收款凭证及其由受领人交付的对应凭证；保留拉丁术语以避免现代票据化。,provisional
+arrha,订金,为买卖承诺而交付的款项；依条文处理双倍返还或丧失。,provisional
+actio institoria,经理人诉权,针对被委任经营业务之人所订合同的罗马法诉权。,provisional
+actio exercitoria,船舶经营诉权,针对船舶经营业务中相关合同的罗马法诉权。,provisional
+peculium,特有财产,奴隶或家子管理的特定财产集合；不直接等同现代独立财产。,provisional
+dispensator,财务管理人,管理款项、账簿或支付事务的人员；依上下文细化。,provisional
+fructus,孳息,物所产生的收益；区分已经取得与应当取得者。,provisional
+actio de peculio,特有财产之诉,以奴隶或家子特有财产为责任限额的诉权。,provisional
+actio de in rem verso,利益归入之诉,以证明所得利益归入主人或家父事务为前提的诉权。,provisional
+actio quod iussu,依命令之诉,依据主人或家父授权订立交易而发生的诉权。,provisional
+actio furti,盗窃之诉,罗马法上针对盗窃行为的诉权。,provisional
+filius familias,家子,处于家父权下的儿子；并非仅指未成年子女。,provisional
+stipulatio,要式口约,以特定问答形式成立的口头债务约定。,provisional
+colonus,佃户,与土地经营、租佃身份相关；依具体法律地位译出。,provisional
+conductor,承租人,依租赁关系受领物或承接业务之人；语境可能涉及地产承租。,provisional
+actor; procurator,事务代理人；诉讼代理人,在监护诉讼中，actor指为被监护人事务受任处理事务者，procurator指诉讼代理人；其他语境仍依具体职能区分。,provisional
+actio tutelae; negotiorum gestorum actio,监护诉讼；事务管理之诉,罗马法上相应的责任诉讼，依当事人关系与案件语境使用。,provisional
+mandatum; actio mandati,委任；委任之诉,委任关系及据此发生的诉讼救济；与代理权限和费用责任相连。,provisional
+actio empti; actio venditi,买受之诉；出卖之诉,分别对应买卖中买受人及出卖人的诉权，依请求主体区分。,provisional
+actio pro socio,合伙之诉,合伙人之间用于结算、履行合伙义务及分配收益的诉权。,provisional
+emptio venditio,买卖,罗马法上的买卖合同关系；依条文判断成立、交付与风险承担。,provisional
+evictio,追夺,买受人因第三人权利而失去买卖标的物的情形及相关保障。,provisional
+capitatio praedii,地产人头税,地产所负担的税额，依当地税制语境解释。,provisional
+publicae pensitationes,公共赋税,由占有人或土地相关主体承担的公共缴纳义务。,provisional
+arrha sponsalicia; arrhae sponsaliciae,订婚定金,罗马法婚约中的特定给付及返还、罚则；不径直等同现代合同法定金。,provisional
+sponsalia,婚约；订婚关系,罗马法上的婚姻预约关系；与婚姻本身相区分。,provisional
+dos,嫁资,为婚姻提供的财产；与婚前赠与相区别。,provisional
+donatio ante nuptias,婚前赠与,罗马法婚前赠与制度；与嫁资相区别。,provisional
+actio rei uxoriae,嫁资返还之诉,历史诉权名称；在查士丁尼敕令中并入要式口约之诉。,provisional
+actio ex stipulatu,要式口约之诉,依据要式口约请求履行的罗马法诉权；依具体敕令确定其特别性质。,provisional
+curator; cura,管理人；管理,未成年人或其他需保护者的财产管理关系；与tutor/tutela区分。,provisional
+venia aetatis,提前成年许可,准许未达通常年龄者提前取得完全行为能力的许可。,provisional
+defensor civitatis,城市护民官,晚期罗马城市中的职官；依具体敕令说明权限，不套用现代监察制度。,provisional
+dos adventicia,外来嫁资,按旧法分类，非由妻方父亲或其他父系尊亲属提供的嫁资，通常包括女子本人或其他外人提供者；依具体条文确认来源主体。,provisional
+dos profecticia,父系嫁资,按旧法分类，由妻方父系尊亲属（通常为女方父亲）为其提供的嫁资；依具体条文确认来源主体。,provisional
+retentio; retentiones,保留扣除规则,嫁资返还诉讼中为特定事由扣留、抵扣嫁资的规则。,provisional
+lex Falcidia,法尔基迪亚法,限制遗赠总额并保障法定四分之一份额的罗马法。,provisional
+parapherna,副财产,嫁资以外由妻子保有的财产；避免误作另一份嫁资。,provisional
+exceptio non numeratae pecuniae,未交付款项抗辩,针对虽有债务文书记载但金钱并未实际交付的抗辩。,provisional
+alimenta; alimentum,生活供养；扶养,依具体关系指对子女、父母或配偶的扶养费用，不直接等同现代法上的单一扶养制度。,provisional
+concubina; concubinatus,妾；非婚同居关系,罗马法承认的非婚伴侣关系；依条文语境描述，避免与合法婚姻混同。,provisional
+actio communi dividundo,共有物分割之诉,请求分割共有物的诉权。,provisional
+actio utilis,准诉权,由裁判官扩展或类推给予的救济；依原有诉权作必要调整。,provisional
+actio in factum,事实之诉,针对具体事实情形授予的诉权；不与严格法诉权混同。,provisional
+actio iudicati,判决执行之诉,依据已作出的判决请求履行或执行的诉权。,provisional
+actio protutelae,临时监护之诉,针对未经正式任命但实际管理未成年人事务者的责任诉权。,provisional
+satisdatio; cautio rem pupilli salvam fore,担保；确保未成年人财产安全的担保,依监护人、管理人及相关程序语境说明担保对象。,provisional
+agnatus; agnatio,父系亲属；父系亲属关系,依罗马法父系亲属关系界定；与自然血缘亲属的范围不完全相同。,provisional
+cognatus; cognatio,血亲；血亲关系,基于自然血缘形成的亲属关系；与父系法律亲属关系区分。,provisional
+patruus; avunculus,父系伯叔；母舅,patruus为父亲的兄弟，avunculus为母亲的兄弟。,provisional
+vectigal,税收；税收承包权,依语境指公税、公共收入或承包征收相关事务。,provisional
+tutor testamentarius; tutor legitimus,遗嘱指定监护人；法定监护人,依监护人指定来源区分；另有经裁判官指定的类型。,provisional
+fideiussor; fideiussio,保证人；保证,罗马法债务担保关系；区分主债务人与保证人。,provisional
+stipulatio rem salvam fore,确保财产安全的要式口约,监护事务中确保未成年人财产得到保全的特别担保约款。,provisional
+usurae legitimae,法定利息,依法律规定的利率或标准计算的利息。,provisional
+lata culpa; latae culpae,重大过失,罗马法过失等级术语；按具体条文确定其责任范围。,provisional
+actio contraria; contrarium iudicium,反向诉权；反向之诉,在监护诉讼及相应反请求语境中，依原文的诉讼形式选译。,provisional
+confusio,债权债务混同,同一人兼具债权人与债务人身份而使债务在相应范围消灭。,provisional
+litis contestatio,争点确定,罗马诉讼程序阶段术语；不等同现代法庭审理中的单一庭审行为。,provisional
+adrogatio,自权人收养,收养自权人并使其进入收养人的家父权之下的制度。,provisional
+longi temporis praescriptio,长期时效抗辩,罗马法长期占有或经过一定期间所生的抗辩；具体期间和效力依文本确定。,provisional
+pubertas,法定成年年龄；青春期,涉及监护终止时指达到罗马法上的pubertas年龄；依语境避免误作现代成年年龄。,provisional
+suspectus tutor,可疑监护人,经请求主管机关审查、可能被撤换的监护人。,provisional
+servus fugitivus; fugitivus,逃亡奴隶；逃亡者,罗马法奴隶身份与逃亡相关规则；依语境区分身份与一般逃亡者。,provisional
+mancipium,奴隶,依罗马法身份语境译出；不在译文中将奴隶身份现代化。,provisional
+libertus; libertinus,释奴；自由释奴,已获释的原奴隶；依条文区分释放方式和身份。,provisional
+manumissio; manumittere,释奴；释放奴隶,奴隶获得自由的制度行为或释放行为。,provisional
+actio servi corrupti,诱使奴隶败坏之诉,针对诱使、败坏他人奴隶者的罗马法惩罚性诉权。,provisional
+condictio,返还请求诉权,特定债法请求形式；依债的来源和条文语境具体表述。,provisional
+vindicatio,返还所有物之诉,所有权人请求返还其物的对物诉权。,provisional
+furtum manifestum; furtum nec manifestum,显明盗窃；非显明盗窃,罗马法盗窃分类，决定相应惩罚幅度；不按现代犯罪现行犯规则简单等同。,provisional
+plagium,拐卖奴隶；诱拐人口,罗马法上非法诱拐、买卖奴隶或自由人的行为；依具体对象译出。,provisional
+operae libertorum; operae,释奴劳务义务；劳务,释奴可能对原主人负担的特定劳务；与一般劳动合同区分。,provisional
+res furtiva,赃物；被盗物,盗窃所得之物；涉及取得时效限制时保留罗马法语境。,provisional
+heres; hereditas,继承人；遗产,罗马法继承制度概念；依语境区分继承人身份、继承权和遗产。,provisional
+institutio heredis; heredem instituere,继承人指定；指定继承人,遗嘱中设定继承人的处分；与遗赠、信托遗赠区分。,provisional
+substitutio; substitutus,替补继承指定；替补继承人,遗嘱中在前位继承人不能或不愿继承时设定的后位安排。,provisional
+substitutio pupillaris,未成年继承人替补指定,为受监护未成年人设置的特别继承替补制度。,provisional
+exheredatio; exheredare,剥夺继承资格；剥夺继承资格,依遗嘱明示排除法定继承人；译文按罗马法制度说明。,provisional
+postumus; postuma,遗腹子；遗腹女,立遗嘱时尚未出生而后来出生的子女；依性别和上下文处理。,provisional
+bonorum possessio,遗产占有权；裁判官遗产承受,由裁判官法赋予的遗产承受地位；与市民法上的继承区分。,provisional
+ex asse; ex certa parte,全部遗产；确定份额,ex asse为全部遗产份额，ex certa parte为指定的确定份额。,provisional
+adire hereditatem; aditio hereditatis,接受遗产；遗产承受,继承人作出承受遗产的行为；与单纯被指定为继承人区分。,provisional
+legitimam portionem; legitima portio,法定份额,法律保障的最低遗产份额；依具体时期和文本确定数额。,provisional
+delatio hereditatis; hereditas delata,遗产开放继承；继承的开放,表示继承已向特定继承人开放或转归；与其后实际接受遗产相区分。,provisional
+pro herede gerere,以继承人身份处理遗产,对遗产实施足以表明接受继承的管理或处分行为；依具体条文辨别其效果。,provisional
+sui heredes; heres suus,自权继承人,家父死亡时处于其家父权之下、依法直接取得继承地位者；依条文范围处理。,provisional
+beneficium deliberandi; ius deliberandi,考虑期限利益；考虑是否接受遗产的权利,继承人获得一定期间决定接受或放弃继承的制度利益；依敕令变化说明其期间及效果。,provisional
+cretio,正式接受继承声明,古法接受继承时的正式声明手续；查士丁尼法典相关规定明确废止。,provisional
+uncia; uncia hereditatis,十二分之一份额,遗产份额的计量单位；十二份构成全部遗产。,provisional
+consanguineus; consanguinitas,同父血亲；同父血亲关系,罗马法继承语境常指同父兄弟姐妹之间的关系；按条文与一般血亲或父系亲属概念区分。,provisional
+ususfructus,用益权,对他人财产享有使用及取得收益的权利；与财产所有权区分。,provisional
+bona materna; bona materni generis,母系财产；母系来源财产,母亲或母系亲属来源的财产；依法律规定，所有权与家父的用益权可能分离。,provisional
+praemium emancipationis,解放奖励,父亲依特定法律安排解放处于家父权下子女时可取得的财产利益；份额依条文确定。,provisional
+manumissio vindicta,以权杖仪式释奴,罗马市民法上的正式释奴方式；不应误作现代诉讼程序，依制度语境说明。,provisional
+manumissio apud consilium,在评议会前释奴,奴隶在皇帝评议会或有权官员前经审理取得自由；与权杖仪式释奴区分。,provisional
+libertas directa; manumissio directa,直接授予的自由；直接释奴,遗嘱人以直接处分方式授予奴隶自由；与信托释奴区分。,provisional
+libertas fideicommissaria; manumissio fideicommissaria,信托方式授予的自由；信托释奴,立遗嘱人请求继承人或受遗赠人履行释奴；不得直接套用现代信托制度。,provisional
+statuliber; statuliberi,附条件获释奴隶,自由已被安排但须待条件成就；条件成就前仍处于奴隶身份。,provisional
+lex Aelia Sentia,《埃利亚—森提亚法》,罗马释奴法之一，对未成年人释奴、诈害债权人等设有限制。,provisional
+lex Fufia Caninia,《富菲亚—卡尼尼亚法》,限制遗嘱释奴数量的罗马法；查士丁尼《法典》7.3.1废止该法。,provisional
+ingenuus; ingenua,自由出生者,自出生即为自由人者；与经释奴取得自由的 libertinus 区分。,provisional
+ingenuitas,自由出生者身份,由出生取得的自由身份；与奴隶获释后形成的释奴人身份区分。,provisional
+adsertor; adsertoria lis,身份诉讼代言人；身份诉讼,古罗马自由身份之诉中的程序角色及相关诉讼；查士丁尼法典7.17废除此代言人要求。,provisional
+causa liberalis,自由身份之诉,审理当事人是否为自由人或奴隶的身份诉讼；与一般债务诉讼区分。,provisional
+postliminium,返归权,被敌人俘获者返回罗马后恢复原有身份与权利的制度；依条文说明具体效力。,provisional
+senatus consultum Claudianum,克劳狄元老院决议,罗马法关于自由妇女与奴隶关系的一项历史规则；查士丁尼法典7.24.1废止其适用。,provisional
+adscripticius,隶农,晚期罗马法中依附土地、受特定身份规则约束的农民；不能简单等同于自由佃户或奴隶。,provisional
+dominium ex iure Quiritium,奎里特法所有权,罗马市民法上的正式所有权；查士丁尼法典7.25废除其与其他所有权形态的旧区分。,provisional
+in bonis esse,属于某人财产,罗马法术语，指财产处于某人财产范围内；在旧法下与奎里特法所有权区别。,provisional
+usucapio pro emptore,基于买受的取得时效,以买受为取得原因的时效取得；须符合权源、善意、占有及期间等制度要件。,provisional
+usucapio pro donato,基于赠与的取得时效,以赠与为取得原因主张的时效取得；不得忽略赠与人无权处分等障碍。,provisional
+usucapio pro dote,基于嫁资的取得时效,以财物作为嫁资交付为原因的时效取得；依条文审查善意及物的瑕疵。,provisional
+possessio libertatis,自由身份占有状态,身份诉讼中现有自由或奴隶占有状态，影响谁负担诉讼行为与证明责任。,provisional
+status quaestio,身份争议；身份诉讼,关于当事人属于自由人或奴隶的身份争议；依诉讼语境译出。,provisional
+limenarcha,港务官,晚期罗马行政职官，具体权限依条文及上下文确定；保留拉丁原词以便复核。,provisional
+inquilinus,承租人；租户,依土地及住所语境指向他人租赁物的使用者；与取得所有权的占有人区分。,provisional
+causa lucrativa,无偿取得原因,基于赠与、遗赠等无对价方式取得财物的原因；与买卖等有偿原因区分。,provisional
+res mancipi; res nec mancipi,要式物；非要式物,旧罗马法对特定重要物与其他物的分类；查士丁尼法典7.31废除其法律区分。,provisional
+annalis exceptio,一年抗辩,源自意大利契约的一年时效抗辩；查士丁尼法典7.40.1予以废止。,provisional
+actio hypothecaria,抵押诉权,基于抵押权请求实现担保的对物诉权；期间及相对人依敕令区分。,provisional
+emphyteusis; ius emphyteuticum,永佃权,罗马法上的长期土地使用权；承受人仍负依该制度及契约返还土地的义务。,provisional
+alluvio; adluvium,河流添附,河流逐渐冲积土地所生的取得方式；与河道改变及暴力侵夺相区分。,provisional
+res iudicata,既判事项；既判力,已经由有权法院终局裁判的案件或权利；依语境区分裁判效力与执行程序。,provisional
+sportulae,法庭费用,罗马司法程序中的诉讼或传唤相关费用；依法令规定其金额及免除特权。,provisional
+calumnia; poena calumniae,诬告；诬告处罚,以不实指控或滥诉方式提起诉讼所受的罗马法制裁；不径直等同现代刑事诬告罪。,provisional
+interdictum; interdicta,裁判官特令,罗马法上的程序性救济命令；不径译为现代法意义上的一般禁令。,provisional
+interdictum quorum bonorum,遗产占有特令,准许遗产占有人请求交付遗产的裁判官特令；保留拉丁专名以区别一般遗产请求。,provisional
+interdictum quod legatorum,遗赠物特令,与遗嘱遗赠物占有有关的特令；具体适用依条文语境说明。,provisional
+actio in rem; actio in personam,对物之诉；对人之诉,分别以物或特定相对人作为请求基础的罗马法诉讼类型；不机械等同现代物权诉讼或债权诉讼。,provisional
+lex commissoria,流质条款,约定债务不履行时质物直接归债权人所有的条款；查士丁尼敕令废止该类约定。,provisional
+idiócheiron; idiochira,私人文书,拉丁文以希腊语称私人制作、非公文形式的契约文书；拼写依底本文本保留。,provisional
+acceptilatio,要式口头免债,以法定问答形式解除债务的罗马法制度；依条文保留原有债务更新及免责顺序。,provisional
+replicatio,反驳抗辩,原告针对被告抗辩提出的程序性回应；与 exceptio 区分。,provisional
+praescriptio; praescriptio peremptoria,先决抗辩；终局性先决抗辩,依罗马程序语境指程序开始时提出的先决抗辩或足以终结请求的抗辩；不一概译作现代诉讼时效。,provisional
+precarium,可随时请求返还的暂许占有,基于他人许可而取得、许可人可请求返还的占有关系；与使用借贷区分。,provisional
+maenianum; maeniana,外挑阳台；挑台,建筑物外墙伸出的平台或挑台；依文本保留拉丁术语并说明。,provisional
+iugum,土地税额核算单位,晚期罗马土地及赋税核算单位；不可直接换算为现代面积。,provisional
+siliqua; solidus,西里夸币；索里都斯金币,晚期罗马货币单位；原文比例与数额应照录，不作现代币值换算。,provisional
+patres civitatum,城市地方长老,城市地方治理中的身份或群体称谓；依语境说明，不径等同现代市议员。,provisional
+cessio bonorum; cedere creditoribus,向债权人让与财产,债务人将财产让与债权人以处理债务的罗马法救济；不当然表示债务免除。,provisional
+nominator,提名人；指定人,依具体条文区分作出提名、指定或提出人选者，避免将其与被提名人混同。,provisional
+notarius,书记员；文书员,可指记录、制作法律文书者；特定时期或身份关系未明时保留拉丁词并作校记。,provisional
+primipilus,首席百人队长,罗马军队百人队中的高级职务；不套用现代军衔。,provisional
+metaxarius,丝织品经营者,涉丝织或丝业之职业称谓；细分为商人、织工或其他身份仍依条文语境核定。,provisional
+praetorium pignus,裁判官质押,8.18相关条文中的质押称谓；制度边界仍按条文语境校核。,provisional
+vir praetorius,曾任法务官者,指曾担任法务官（praetor）者；与禁卫军长官 praefectus praetorio 区分，见 CJ XII 12.1.1。,provisional
+momentaria possessio,临时占有状态,临时性的占有救济或状态；依条文语境说明，不等同终局所有权。,provisional
+substitutus; substituti,替补继承人,在特定继承安排中作为后备受益人者；未成年人替补的制度范围依条文说明。,provisional
+adoptio; adoptare,他权人收养；收养,收养原处于他人家父权下的人；与 adrogatio 对自权人的收养相区别。,provisional
+emancipatio; emancipare,解放家子；使脱离家父权,罗马法上使家子脱离家父权的正式制度；不与释奴 manumissio 混同。,provisional
+patria potestas,家父权,罗马法家父对家内子女的权力关系；不等同现代监护权。,provisional
+sui iuris; alieni iuris,自权；处于他人家父权下,分别指不受他人家父权支配和受他人家父权支配的法律身份。,provisional
+querella inofficiosi testamenti; actio de inofficioso testamento,遗嘱违反义务之诉,近亲属因遗嘱违反应尽义务而请求救济的罗马法诉权；依条文语境说明。,provisional
+servus publicus,公有奴隶；公职经办人,由城市或公共机关所有、承担公共事务的奴隶；对其程序职能应依具体条文说明。,provisional
+duo rei stipulandi; duo rei promittendi,共同债权人；共同债务人,共同要式口约关系中的数名受诺人或承诺人；依单复数及条文结构区别。,provisional
+devotio,履行承诺；债务承认,依上下文可指履行义务或表明债务；不得脱离具体文书语境固定为单一概念。,provisional
+impubes,未达法定青春期年龄者,罗马法身份术语，依具体时期及法条确定年龄与能力后果。,provisional
+auctor,权利担保人；出卖人,依罗马买卖与权利担保语境区分；不以单一现代译名覆盖全部用法。,provisional
+stipulatio duplae,双倍赔偿要式口约,买受人遭第三人追夺时约定双倍赔偿的要式口约；依具体法条保留其保障功能。,provisional
+apoceryxis,希腊式断绝子女关系,古代亲属身份处分术语；具体效力及适用范围按相关敕令说明。,provisional
+crimen maiestatis,危害皇帝尊严罪,侵害皇帝尊严（maiestas）的公罪；亦常以“叛逆罪”概括，全文暂采用较贴近原词的译法。,provisional
+crimen expilatae hereditatis,侵夺遗产罪,非法侵取、隐匿或占有遗产所涉及的罗马刑事控告；与民事返还诉权区分。,provisional
+actio vi bonorum raptorum; vi bonorum raptorum,暴力劫夺之诉,因以暴力夺取财物而提起的诉讼；依条文区分一年内四倍额和其后单倍额。,provisional
+stellionatus; crimen stellionatus,诈伪罪,罗马法上的特定诈伪控告，常与重复设质、隐瞒财产权利等有关；不等同单一现代罪名。,provisional
+actio noxalis; noxalis actio,诺克萨诉讼,针对家父或奴隶主就受其权力支配者造成的侵害承担责任之诉；依具体关系说明。,provisional
+interdictum unde vi,因暴力驱逐而恢复占有的禁令,占有遭暴力剥夺时请求恢复的禁令救济；与相关刑事控告并行时依条文处理。,provisional
+actio ad exhibendum,出示物之诉,请求持有人出示特定物的程序性诉权；不直接等同返还物的实体诉权。,provisional
+actio negotiorum gestorum,事务管理之诉,基于他人事务管理关系产生的诉权；依条文确认管理人、本人及受益关系。,provisional
+crimen falsi; falsum,伪造罪,涉及伪造文书、遗嘱或其他法律材料的罗马刑事罪名；范围依各条而定。,provisional
+praevaricatio,徇私纵容；徇私控告罪,涉及控告方故意使被告脱罪或违背控告职责的程序性不当行为；具体罪名边界仍待核。,provisional
+praefectus Augustalis,奥古斯都行政长官,埃及行政体系中的高级官员称谓；保留拉丁职衔并据时期、管辖范围说明。,provisional
+commentariensis,监狱书记官；羁押记录官,负责登记或监管羁押人员的官署人员；各时期具体职掌仍依上下文核定。,provisional
+bucellarius; bucellarii,布凯拉里乌斯；私人随从武装,晚期罗马私人武装随从或依附武装人员；避免直接套用现代军职。,provisional
+Isauri,伊苏里亚人；伊苏里亚武装人员,依条文区分族称与其武装身份，不擅自认定为正规军编制。,provisional
+vis publica; lex Iulia de vi publica,公力暴行；《朱莉娅公力暴行法》,针对公共暴力的罗马刑事法规和罪名；与私力暴行区分。,provisional
+vis privata; lex Iulia de vi privata,私力暴行；《朱莉娅私力暴行法》,针对私人实施暴力的罗马刑事法规和罪名；与公力暴行区分。,provisional
+lex Cornelia testamentaria,《科尔内利亚遗嘱法》,关于遗嘱相关违法行为的罗马法律；保留法名并按条文说明适用。,provisional
+lex Visellia,《维塞利亚法》,相关敕令援引的罗马法律；具体构成及程序依条文校核。,provisional
+lex Fabia,《法比亚法》,罗马法中有关奴隶拐掠等事项的法律；依条文上下文确定所涉规则。,provisional
+raptus; raptores,劫掠；劫掠者,依第九卷相关条文指以暴力带走或侵害人身者，不限于现代绑架罪。,provisional
+sanctimonialis; sanctimoniales,奉献宗教生活的女性,与宗教身份相关的称谓；依条文语境译作修女或奉献宗教生活者。,provisional
+iure patrio,家父权式家庭纠正权,指家庭内部依家父权实施的纠正权限；不等同现代无限制惩戒权。,provisional
+nomen; cognomen; praenomen,氏族名；家族别名；个人名,罗马姓名构成术语；分别保留其历史层次，不套用现代姓氏分类。,provisional
+solidus,索里都斯金币,晚期罗马金币单位；保留数量，不换算现代币值。,provisional
+stationarius; stationarii,驻站官员,罗马行政或治安语境中的驻地职务称谓；具体编制待核，必要时保留拉丁文。,provisional
+tabularius; tabularii,簿记员；账簿官,负责制作、登记或认证账目与保证书的官署人员；具体职责依条文核定。,provisional
+exactor; exactores,征收人；税款追征官,负责追缴税款或国库欠款的官员；与列名指定责任者区分。,provisional
+rationalis; rationales,财政官员；财政主管,晚期帝国财政行政职官称谓；可涉及国库、税务或财政账户，保留制度语境。,provisional
+caesarianus; caesariani,国库官员,与皇帝国库相关的官署人员；不径等同一般行政官。,provisional
+susceptor; susceptores,实物税征收官,负责接收或征收物资、赋税的人员；依条文保留时期和职责边界。,provisional
+metoecus; metoeci,外来定居者,希腊语来源的身份称谓；在本书条文中指奉君主之命迁居他城者，准确身份仍待核。,provisional
+condicionalis servus; condicionales servi,条件奴隶,特定财政调查语境中的人员称谓；身份、证据能力及程序地位未明，保留拉丁术语。,provisional
+hasta fiscalis; hastae fiscales,国库拍卖；国库拍卖程序,以拍卖方式处分国库财产或债务人财产的程序；按原文保留公告、竞价和裁定层次。,provisional
+adiectio; adiectiones,加价；追加出价,国库拍卖中的提高报价或追加出价；须依具体条文确定程序效果。,provisional
+irenarchus; irenarchi,伊雷纳克斯治安官,晚期罗马地方治安职称；在财政条文中的职掌仍需语境核验。,provisional
+optio; optiones,副官；助理官,罗马官署或军队中的职称；具体层级和职能依条文判断。,provisional
+apocha; apochai,清讫凭证；收讫证明,用于证明公共负担、税款或职役已清偿的凭证；依条文区分其记载和保管方式。,provisional
+coemptio specierum; sitonia,公共征购物资；粮食征购义务,紧急情况下对谷物、大麦等物资的强制采购或分摊义务；依本书条文说明。,provisional
+collatio; descriptiones tributariae,赋税分摊；税额核定,按财产或责任份额登记并征收的公共负担；不直接等同现代税种。,provisional
+canon,年度定额；固定税额,晚期罗马财政语境中按年缴纳的固定核定额；依条文保留拉丁词。,provisional
+horreaticae species; species in horreis,公共粮仓储备物资,储存在公共粮仓中的粮食或其他物资；发放和保管须依条文处理。,provisional
+discussor; discussoribus,税务核查官,负责核查税额、欠款或征收凭证的官员；不等同现代审计职务。,provisional
+mensor; mensores,计量官,负责量度或核验粮食等储备数量的官员。,provisional
+modius,摩狄乌斯量器,罗马容量量器；保留数量和名称，不换算为现代单位，除非另有可靠依据。,provisional
+aer; aes,铜；铜赋,按铜材或铜额计征的财政负担；依具体条文判断物品、货币或税目含义。,provisional
+apparitor; apparitores,官署属员,为官署执行事务的人员；依具体职掌确定是否为随员、书记或其他属员。,provisional
+iugum; iuga,土地税额核算单位,晚期罗马土地及赋税核算单位；不直接换算为现代面积。,provisional
+decurio; decuriones,城市议员,地方议会成员；其身份通常连带公共职务和财政负担，不等同现代民选议员。,provisional
+curia; curiales,城市议员团体；城市议会,地方议员组成的城市治理团体；依法律语境区分机构与成员。,provisional
+munera curialia; civilia munera,城市公共职务与负担,城市议员须承担的行政职务及公共财政责任；依条文区分人身与金钱负担。,provisional
+duumvir; duumviri,双人长官,罗马城市行政中的两名共同执政官职；不等同于现代同名职称。,provisional
+aedilis; aedilitas,市政营造官；营造官职,罗马城市官员，负责公共设施或市政职能；依条文说明其身份。,provisional
+ius aureorum anulorum,金戒指权,授予释奴的特殊身份特权；具体效力及是否恢复自由出生身份依条文处理。,provisional
+manus iniectio,依法拘捕；法定拘束程序,古罗马法上的拘束或执行程序；遇到具体文本时保留拉丁术语并解释。,provisional
+hypomnematographus,备忘录书记；文书书记官,晚期罗马官署文书职称；准确职掌待结合制度材料核验。,provisional
+fascinum,官权标志（原文如此）,CJ10.32.53 的网页词形；可能涉及 fasces，但不静默校改。,provisional
+principes argentium,银币部门首长（暂译）,CJ10.32.67.3 所见职称；具体行政职掌不明，保留拉丁文。,provisional
+ex tribus maribus,ex tribus maribus（暂保留）,CJ10.32.67.6 所引旧法特许，制度背景不明，不作确定释义。,provisional
+cursus publicus,国家公共邮传制度,帝国公用交通与传递体系；不等同现代邮政。,provisional
+veredus; veredi,驿马；驿站马匹,公共邮传使用的马匹；依上下文区分马匹、役畜与递送安排。,provisional
+paraveredus; paraveredi,备用驿马；副驿马,公共交通制度术语；具体职责依条文语境确定。,provisional
+angaria; parangaria,强制运输差役；附加运输负担,帝国交通与运输义务；保留原词以区分负担类别。,provisional
+tractoria; tractoriae,供给凭证；差旅供给文书,官员出行或公用交通中的供给凭证；依条文语境细分。,provisional
+schola; scholae,宫廷编制团体；官署队伍,晚期罗马官署或宫廷人员组织；不一概译为现代学校。,provisional
+agens in rebus; agentes in rebus,帝国差遣官,帝国中央差遣与监督人员；不与现代警察或公务员完全等同。,provisional
+ducenarius; ducenarii,二百级官员（暂译）,官阶名称；不得仅据词形推定实际人数或编制。,provisional
+centenarius; centenarii,百级官员（暂译）,官阶名称；具体薪阶、职掌依官署语境核验。,provisional
+biarchus; biarchi,biarchus（暂保留）,晚期罗马军政职称；具体职掌不明，首次并列拉丁词。,provisional
+circitor; circitores,巡查官（暂译）,官署或军政巡查职称；依具体条文保留拉丁形式。,provisional
+subadiutor; subadiutores,副助官（暂译）,官署辅助职称；不推定其固定现代层级。,provisional
+chartularius; chartularii,文书官（暂译）,文书与官署职称；不同官署的职掌可能有别。,provisional
+melloproximus; melloproximi,melloproximus（暂保留）,晚期罗马官署职称，语源及职责待核；不作词源臆译。,provisional
+laterculensis; laterculenses,名册官（暂译）,与名册或名单有关的官署职称；准确职责依语境复核。,provisional
+curiosus; curiosi,巡察官（暂译）,可涉及中央监察或差遣职务；不径译为现代侦查人员。,provisional
+protector; protectores,近卫官；宫廷护卫职称,晚期罗马军政身份及荣誉职称；须依具体职务关系细译。,provisional
+obryziacus; obryziaci,精金检验官（暂译）,与纯金、金库或财政事务相关的职称；准确职责待核。,provisional
+salgama,腌藏食品；军需食品（暂译）,晚期罗马供给语境的物品名；准确类别待词汇资料核实。,provisional
+tiro; tirones,新募兵；新兵,军役语境术语；依条文区分新募人员与一般士兵。,provisional
+desertor; desertores,逃兵；逃役者,依条文区分逃离军役、擅离职守等法律状态。,provisional
+publicanus; publicani,包税人；公共承包人,承包公共税收或事务者；具体身份依法条确定。,provisional
+arcarius; arcarii,库吏；出纳官（暂译）,财政官署职称；不直接与现代会计职位等同。,provisional
+comes aerarii,国库长官（暂译）,晚期罗马财政职称；需结合时期及官署背景核验。,provisional
+parhippus; parhippi,备用马匹（暂译）,公共交通或军需用语；网页词形需与印本对校。,provisional
+cohortales,行省官署属员（cohortales）,晚期罗马行省长官辖下的官署人员；具体职掌依条文确定，不泛译为现代“基层官员”。,provisional
+mater familias,女家主,具有家主身份的女性；依语境保留拉丁词，不等同于现代家庭法概念。,provisional

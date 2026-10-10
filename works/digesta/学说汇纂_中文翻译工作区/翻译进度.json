@@ -1,0 +1,4570 @@
+{
+  "project": "Digesta Iustiniani / 学说汇纂中文全译本",
+  "source_epub": "../学说汇纂_下载与EPUB_2026-09-26/Digesta_Iustiniani_Mommsen_Krueger.epub",
+  "source_edition": "Grenoble-Alpes Mommsen–Krueger transcription",
+  "updated": "2026-09-27",
+  "status": "complete",
+  "translation_stage": "全译本已完成；术语统一、逐卷锚点与段落清单核对、EPUB结构及内部链接验证均通过。",
+  "completed_units": [
+    {
+      "locator": "D.1.1",
+      "title": "De iustitia et iure / 论正义与法",
+      "fragments_translated": 12,
+      "file": "译稿/第一卷/1.1-论正义与法.md",
+      "source_content_paragraphs": 45,
+      "notes": "Source-p count reconciled against normalized EPUB XHTML."
+    },
+    {
+      "locator": "D.1.2",
+      "title": "De origine iuris et omnium magistratuum et successione prudentium / 论法的起源、各级官职的起源及法学家的传承",
+      "fragments_translated": 55,
+      "files": [
+        "译稿/第一卷/1.2-法的起源与发展-上.md",
+        "译稿/第一卷/1.2-法的起源与发展-下.md",
+        "译稿/第一卷/1.2-法的起源与发展-终.md"
+      ],
+      "source_content_paragraphs": 60,
+      "notes": "Source-p count reconciled against normalized EPUB XHTML."
+    },
+    {
+      "locator": "D.1.3",
+      "title": "De legibus senatusque consultis et longa consuetudine / 论法律、元老院决议与长期习惯",
+      "fragments_translated": 41,
+      "source_content_paragraphs": 125,
+      "file": "译稿/第一卷/1.3-法律元老院决议与长期习惯.md",
+      "notes": "初稿完成；D.1.3.32 的序言与第1段均保留；疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.1.4",
+      "title": "De constitutionibus principum / 论元首敕令",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 15,
+      "file": "译稿/第一卷/1.4-论元首敕令.md",
+      "notes": "初稿完成；D.1.4.1 的序言及第1、2段均保留。"
+    },
+    {
+      "locator": "D.1.5",
+      "title": "De statu hominum / 论人的身份",
+      "fragments_translated": 27,
+      "source_content_paragraphs": 88,
+      "file": "译稿/第一卷/1.5-论人的身份.md",
+      "notes": "初稿完成；译文保留原文编号；身份关系、出生规则及若干底本文字问题见译校疑难表。"
+    },
+    {
+      "locator": "D.1.6",
+      "title": "De his qui sui vel alieni iuris sunt / 论自权人与他权人",
+      "fragments_translated": 11,
+      "source_content_paragraphs": 37,
+      "file": "译稿/第一卷/1.6-论自权人与他权人.md",
+      "notes": "初稿完成；1.6.1 与 1.6.8 的分项编号保留；待通篇一致性复核。"
+    },
+    {
+      "locator": "D.1.7",
+      "title": "De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur / 论收养、解放及其他解除家父权的方式",
+      "fragments_translated": 46,
+      "source_content_paragraphs": 159,
+      "files": [
+        "译稿/第一卷/1.7-论收养与解放-上.md",
+        "译稿/第一卷/1.7-论收养与解放-中.md",
+        "译稿/第一卷/1.7-论收养与解放-下.md",
+        "译稿/第一卷/1.7-论收养与解放-终.md"
+      ],
+      "notes": "初稿完成；分题编号覆盖与底本一致；疑难事项见译校疑难表。"
+    },
+    {
+      "locator": "D.1.8",
+      "title": "De divisione rerum et qualitate / 论物的分类与性质",
+      "fragments_translated": 11,
+      "source_content_paragraphs": 50,
+      "files": [
+        "译稿/第一卷/1.8-论物的分类与性质.md"
+      ],
+      "notes": "初稿完成；分题编号覆盖与底本一致；疑难事项见译校疑难表。"
+    },
+    {
+      "locator": "D.1.9",
+      "title": "De senatoribus / 论元老",
+      "fragments_translated": 12,
+      "source_content_paragraphs": 42,
+      "file": "译稿/第一卷/1.9-论元老.md",
+      "notes": "初稿完成；D.1.9.9 婚姻效力表述保留疑难标记。"
+    },
+    {
+      "locator": "D.1.10",
+      "title": "De officio consulis / 论执政官的职务",
+      "fragments_translated": 1,
+      "source_content_paragraphs": 6,
+      "file": "译稿/第一卷/1.10-论执政官的职务.md",
+      "notes": "初稿完成；正文与分项编号已对照底本。"
+    },
+    {
+      "locator": "D.1.11",
+      "title": "De officio praefecti praetorio / 论禁卫军长官的职务",
+      "fragments_translated": 1,
+      "source_content_paragraphs": 6,
+      "file": "译稿/第一卷/1.11-论禁卫军长官的职务.md",
+      "notes": "初稿完成；正文与分项编号已对照底本。"
+    },
+    {
+      "locator": "D.1.12",
+      "title": "De officio praefecti urbi / 论城市长官的职务",
+      "fragments_translated": 3,
+      "source_content_paragraphs": 24,
+      "file": "译稿/第一卷/1.12-论城市长官职务.md",
+      "notes": "初稿完成；已保留全部分项编号和明确标注的底本疑难。"
+    },
+    {
+      "locator": "D.1.13",
+      "title": "De officio quaestoris / 论财务官的职务",
+      "fragments_translated": 1,
+      "source_content_paragraphs": 8,
+      "file": "译稿/第一卷/1.13-论财务官职务.md",
+      "notes": "初稿完成；已保留全部分项编号和明确标注的底本疑难。"
+    },
+    {
+      "locator": "D.1.14",
+      "title": "De officio praetorum / 论裁判官的职务",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 13,
+      "file": "译稿/第一卷/1.14-论裁判官职务.md",
+      "notes": "初稿完成；分题覆盖与底本一致；未决文本问题见译校疑难表。"
+    },
+    {
+      "locator": "D.1.15",
+      "title": "De officio praefecti vigilum / 论夜巡长官的职务",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 18,
+      "file": "译稿/第一卷/1.15-论夜巡长官职务.md",
+      "notes": "初稿完成；分题覆盖与底本一致；未决文本问题见译校疑难表。"
+    },
+    {
+      "locator": "D.1.16",
+      "title": "De officio proconsulis et legati / 论行省总督与副官的职务",
+      "fragments_translated": 16,
+      "source_anchors": 41,
+      "source_content_paragraphs": 68,
+      "files": [
+        "译稿/第一卷/1.16-论行省总督与副官职务-上.md",
+        "译稿/第一卷/1.16-论行省总督与副官职务-下.md"
+      ],
+      "notes": "初稿完成；已逐项对照41个底本锚点（16个法学家片段及其分项）；D.1.16.12底本文句未完，希腊语转写等疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.1.17",
+      "title": "De officio praefecti Augustalis / 论奥古斯都长官的职务",
+      "fragments_translated": 1,
+      "source_content_paragraphs": 4,
+      "file": "译稿/第一卷/1.17-论奥古斯都长官职务.md",
+      "notes": "初稿完成；标题和正文分别保留奥古斯都长官、埃及长官称谓，待术语通篇核对。"
+    },
+    {
+      "locator": "D.1.18",
+      "title": "De officio praesidis / 论行省长官的职务",
+      "fragments_translated": 21,
+      "source_anchors": 35,
+      "source_content_paragraphs": 75,
+      "files": [
+        "译稿/第一卷/1.18-论行省长官职务-上.md",
+        "译稿/第一卷/1.18-论行省长官职务-下.md"
+      ],
+      "notes": "初稿完成；覆盖21个法学家片段、全部14个序言/分项段落；疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.1.19",
+      "title": "De officio procuratoris Caesaris vel rationalis / 论皇帝代理官或财务官的职务",
+      "fragments_translated": 3,
+      "source_anchors": 9,
+      "source_content_paragraphs": 14,
+      "file": "译稿/第一卷/1.19-论皇帝代理官职务.md",
+      "notes": "初稿完成；3个片段及全部序言、分项均已翻译；D.1.19.3.1–2的语境疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.1.20",
+      "title": "De officio iuridici / 论司法官的职务",
+      "fragments_translated": 2,
+      "source_anchors": 2,
+      "source_content_paragraphs": 7,
+      "file": "译稿/第一卷/1.20-论司法官职务.md",
+      "notes": "初稿完成；两个片段及作者出处均已翻译，术语表已增补司法官。"
+    },
+    {
+      "locator": "D.1.21",
+      "title": "De officio eius, cui mandata est iurisdictio / 论受托行使司法管辖权者的职务",
+      "fragments_translated": 5,
+      "source_anchors": 13,
+      "source_content_paragraphs": 20,
+      "file": "译稿/第一卷/1.21-论受托行使司法管辖权者.md",
+      "notes": "初稿完成；5个片段、序言及全部分项均已译；Papinianus正文与Paulus注分别保留，概念及程序疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.1.22",
+      "title": "De officio adsessorum / 论司法顾问的职务",
+      "fragments_translated": 6,
+      "source_anchors": 6,
+      "source_content_paragraphs": 19,
+      "file": "译稿/第一卷/1.22-论司法顾问职务.md",
+      "notes": "初稿完成；6个片段及作者出处均已翻译；相关制度用语及薪俸语境见译校疑难表。"
+    },
+    {
+      "locator": "D.2.1",
+      "title": "De iurisdictione / 论司法管辖权",
+      "fragments_translated": 20,
+      "source_anchors": 35,
+      "source_content_paragraphs": 70,
+      "files": [
+        "译稿/第二卷/2.1-论司法管辖权-上.md",
+        "译稿/第二卷/2.1-论司法管辖权-下.md"
+      ],
+      "notes": "初稿完成；覆盖20个片段、9个编号分项和4个序言段；底本锚点数逐项核对，疑难见译校疑难表。 底本结构复核计数：35个锚点、70个段落。"
+    },
+    {
+      "locator": "D.2.2",
+      "title": "Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur / 论任何人为他人所定之法，自己亦须适用同一法",
+      "fragments_translated": 4,
+      "source_anchors": 17,
+      "source_content_paragraphs": 22,
+      "file": "译稿/第二卷/2.2-论对他人所定之法亦适用于己.md",
+      "notes": "初稿完成；覆盖4个片段、9个编号分项和2个序言段；疑难见译校疑难表。 底本结构复核计数：17个锚点、22个段落。"
+    },
+    {
+      "locator": "D.2.3",
+      "title": "Si quis ius dicenti non obtemperaverit / 论不服从行使司法权者的命令",
+      "fragments_translated": 1,
+      "source_anchors": 8,
+      "source_content_paragraphs": 8,
+      "file": "译稿/第二卷/2.3-论不服从司法命令.md",
+      "notes": "初稿完成；序言及4个分项均已翻译；动产执行例及期间问题见译校疑难表。 底本结构复核计数：8个锚点、8个段落。"
+    },
+    {
+      "locator": "D.2.4",
+      "title": "De in ius vocando / 论传唤到庭",
+      "fragments_translated": 25,
+      "source_anchors": 50,
+      "source_content_paragraphs": 95,
+      "files": [
+        "译稿/第二卷/2.4-论传唤到庭-上.md",
+        "译稿/第二卷/2.4-论传唤到庭-中.md",
+        "译稿/第二卷/2.4-论传唤到庭-续.md",
+        "译稿/第二卷/2.4-论传唤到庭-后续.md",
+        "译稿/第二卷/2.4-论传唤到庭-终.md"
+      ],
+      "notes": "初稿完成；覆盖25个片段、19个编号分项和4个序言段；锚点数与底本一致；疑难见译校疑难表。 底本结构复核计数：50个锚点、95个段落。"
+    },
+    {
+      "locator": "D.2.5",
+      "title": "Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit / 论受传唤者未到庭，或传唤了告示禁止传唤之人",
+      "fragments_translated": 3,
+      "source_anchors": 7,
+      "source_content_paragraphs": 11,
+      "file": "译稿/第二卷/2.5-论受传唤者未到庭.md",
+      "notes": "初稿完成；3个片段及序言、分项均已译；到庭担保、豁免和不确定之诉见译校疑难表。 底本结构复核计数：7个锚点、11个段落。"
+    },
+    {
+      "locator": "D.2.6",
+      "title": "In ius vocati ut eant aut satis vel cautum dent / 论被传唤者应到庭或提供担保",
+      "fragments_translated": 4,
+      "source_anchors": 6,
+      "source_content_paragraphs": 13,
+      "file": "译稿/第二卷/2.6-论被传唤者到庭与担保.md",
+      "notes": "初稿完成；四个片段及连续句均已译；担保人资力与特殊关系人规则见译校疑难表。 底本结构复核计数：6个锚点、13个段落。"
+    },
+    {
+      "locator": "D.2.7",
+      "title": "Ne quis eum qui in ius vocabitur vi eximat / 论不得强行带离将被传唤到庭之人",
+      "fragments_translated": 6,
+      "source_anchors": 23,
+      "source_content_paragraphs": 30,
+      "file": "译稿/第二卷/2.7-论不得强行带离被传唤者.md",
+      "notes": "初稿完成；6个片段及全部可见编号均已翻译；D.2.7.4.2底本无锚点，已登记。 底本结构复核计数：23个锚点、30个段落。"
+    },
+    {
+      "locator": "D.2.8",
+      "title": "Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur / 论应提供担保、宣誓承诺或依其承诺承担责任者",
+      "fragments_translated": 16,
+      "source_anchors": 44,
+      "source_content_paragraphs": 70,
+      "files": [
+        "译稿/第二卷/2.8-担保与承诺-上.md",
+        "译稿/第二卷/2.8-担保与承诺-续.md",
+        "译稿/第二卷/2.8-担保与承诺-终.md"
+      ],
+      "notes": "初稿完成；16个片段、42个底本锚点及全部序言/分项均已翻译；D.2.8.11及2.8.15.4的措辞疑点见译校疑难表。 已在底本核对中发现2.8.9及2.8.11转录疑点，译文标注并列入疑难表。 底本结构复核计数：44个锚点、70个段落。"
+    },
+    {
+      "locator": "D.2.9",
+      "title": "Si ex noxali causa agatur, quemadmodum caveatur / 论提起诺克萨之诉时如何提供担保",
+      "fragments_translated": 6,
+      "source_anchors": 12,
+      "source_content_paragraphs": 21,
+      "file": "译稿/第二卷/2.9-论诺克萨诉讼中的担保.md",
+      "notes": "初稿完成；6个片段、序言/分项及11个编号锚点均已译；法学家之间关于诺克萨交付效果的意见差异已保留。 底本结构复核计数：12个锚点、21个段落。"
+    },
+    {
+      "locator": "D.2.10",
+      "title": "De eo per quem factum erit quominus quis in iudicio sistat / 论因某人所为而致他人不能到庭",
+      "fragments_translated": 3,
+      "source_anchors": 17,
+      "source_content_paragraphs": 20,
+      "file": "译稿/第二卷/2.10-论阻止他人到庭.md",
+      "notes": "初稿完成；3个片段、全部6个第一片段分项和16个编号锚点均已译；底本的引号异文已标注。 底本结构复核计数：17个锚点、20个段落。"
+    },
+    {
+      "locator": "D.2.11",
+      "title": "Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit / 论未遵守为到庭而作出的担保者",
+      "fragments_translated": 15,
+      "source_anchors": 43,
+      "source_content_paragraphs": 66,
+      "file": "译稿/第二卷/2.11-论未遵守到庭担保.md",
+      "notes": "初稿完成；15个法学家片段、全部可见序言与分项、42个编号锚点均已译；底本引号异文与若干程序疑点见译校疑难表。 底本结构复核计数：43个锚点、66个段落。"
+    },
+    {
+      "locator": "D.2.12",
+      "title": "De feriis et dilationibus et diversis temporibus / 论休庭日、延期及各种期限",
+      "fragments_translated": 10,
+      "source_anchors": 18,
+      "source_content_paragraphs": 35,
+      "file": "译稿/第二卷/2.12-论休庭日与期限.md",
+      "notes": "初稿完成；10个法学家片段、全部序言/分项及17个编号锚点均已翻译；休庭日事项清单和集市名义收费等疑点见译校疑难表。 底本结构复核计数：18个锚点、35个段落。"
+    },
+    {
+      "locator": "D.2.13",
+      "title": "De edendo / 论出示（诉讼依据与账簿）",
+      "fragments_translated": 13,
+      "source_anchors": 51,
+      "source_content_paragraphs": 69,
+      "file": "译稿/第二卷/2.13-论出示与银行账目.md",
+      "notes": "初稿完成；13个法学家片段及全部序言/分项已译；账簿出示、银行家/货币兑换人职务及多主体责任疑点见译校疑难表。 底本结构复核计数：51个锚点、69个段落。"
+    },
+    {
+      "locator": "D.2.14",
+      "title": "De pactis / 论协议",
+      "fragments_translated": 62,
+      "source_anchors": 157,
+      "source_content_paragraphs": 259,
+      "files": [
+        "译稿/第二卷/2.14-论协议-上.md",
+        "译稿/第二卷/2.14-论协议-续一.md",
+        "译稿/第二卷/2.14-论协议-续二.md",
+        "译稿/第二卷/2.14-论协议-续三.md",
+        "译稿/第二卷/2.14-论协议-中.md",
+        "译稿/第二卷/2.14-论协议-续四.md",
+        "译稿/第二卷/2.14-论协议-续五.md",
+        "译稿/第二卷/2.14-论协议-续六.md",
+        "译稿/第二卷/2.14-论协议-续七.md",
+        "译稿/第二卷/2.14-论协议-续八.md",
+        "译稿/第二卷/2.14-论协议-续九.md"
+      ],
+      "notes": "初稿完成；2.14.1–2.14.62共62个片段全部译毕；本题锚点、段落及标题覆盖待与底本再作系统核对；疑难见译校疑难表。 底本结构复核计数：157个锚点、259个段落。"
+    },
+    {
+      "locator": "D.2.15",
+      "title": "De transactionibus / 论和解",
+      "fragments_translated": 17,
+      "source_anchors": 55,
+      "source_content_paragraphs": 84,
+      "files": [
+        "译稿/第二卷/2.15-论和解-上.md",
+        "译稿/第二卷/2.15-论和解-续一.md",
+        "译稿/第二卷/2.15-论和解-续二.md",
+        "译稿/第二卷/2.15-论和解-续三.md"
+      ],
+      "notes": "初稿完成；2.15.1–2.15.17共17个片段已译，2.15.8含25个分项；全题编号及段落覆盖待系统核对，疑难见译校疑难表。 底本结构复核计数：55个锚点、84个段落。"
+    },
+    {
+      "locator": "D.3.1",
+      "title": "De postulando / 论提出诉讼请求",
+      "fragments_translated": 11,
+      "source_anchors": 31,
+      "source_content_paragraphs": 49,
+      "files": [
+        "译稿/第三卷/3.1-论提出诉讼请求-上.md",
+        "译稿/第三卷/3.1-论提出诉讼请求-续.md"
+      ],
+      "notes": "初稿完成；3.1.1–3.1.11共11个法学家片段及31个底本锚点均已译；全题锚点与段落覆盖待系统核对，疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.3.2",
+      "title": "De his qui notantur infamia / 论被标记为不名誉者",
+      "fragments_translated": 25,
+      "source_anchors": 68,
+      "source_content_paragraphs": 109,
+      "files": [
+        "译稿/第三卷/3.2-论不名誉-上.md",
+        "译稿/第三卷/3.2-论不名誉-续一.md",
+        "译稿/第三卷/3.2-论不名誉-续二.md",
+        "译稿/第三卷/3.2-论不名誉-续三.md",
+        "译稿/第三卷/3.2-论不名誉-续四.md",
+        "译稿/第三卷/3.2-论不名誉-续五.md",
+        "译稿/第三卷/3.2-论不名誉-终.md"
+      ],
+      "notes": "初稿完成；25个片段及原编号已译，跨片段续句已衔接；已登记不名誉污名、军人退伍、诉讼和解、婚姻服丧、监护/家父权、刑罚及临时占有等疑难事项。 覆盖核对通过：25个片段、66个正文定位锚点和109个底本段落均已匹配；68个总锚点数还包括章节导航锚。"
+    },
+    {
+      "locator": "D.3.3",
+      "title": "De procuratoribus et defensoribus / 论诉讼代理人与诉讼辩护人",
+      "fragments_translated": 78,
+      "source_anchors": 159,
+      "source_content_paragraphs": 295,
+      "files": [
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-上.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续一.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续二.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续三.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续四.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续五.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续六.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续七.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续八.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续九.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续十.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续十一.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续十二.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续十三.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续十四.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-续十五.md",
+        "译稿/第三卷/3.3-诉讼代理人与辩护人-终.md"
+      ],
+      "notes": "初稿完成并经底本核对；78个片段、158个正文定位锚点和295个底本段落均已覆盖；68个总锚点统计含章节标题/导航锚。首次核查发现并补译D.3.3.8.2后，编号已复核。术语与规则疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.3.4",
+      "title": "Quod cuiuscumque universitatis nomine vel contra eam agatur / 论以任何团体名义或针对任何团体提起的诉讼",
+      "fragments_translated": 10,
+      "source_anchors": 22,
+      "source_content_paragraphs": 39,
+      "files": [
+        "译稿/第三卷/3.4-团体诉讼-上.md",
+        "译稿/第三卷/3.4-团体诉讼-续.md"
+      ],
+      "notes": "初稿完成并经底本核对；10个片段、21个章节/分项定位锚点及39个底本段落均已覆盖；总锚点数含导航锚。三分之二出席条件经上下文与辅助译本核验；疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.3.5",
+      "title": "De negotiis gestis / 论管理他人事务（无因管理）",
+      "fragments_translated": 48,
+      "source_anchors": 121,
+      "source_content_paragraphs": 202,
+      "files": [
+        "译稿/第三卷/3.5-无因管理-上.md",
+        "译稿/第三卷/3.5-无因管理-续一.md",
+        "译稿/第三卷/3.5-无因管理-续二.md",
+        "译稿/第三卷/3.5-无因管理-续三.md",
+        "译稿/第三卷/3.5-无因管理-续四.md",
+        "译稿/第三卷/3.5-无因管理-续五.md",
+        "译稿/第三卷/3.5-无因管理-续六.md",
+        "译稿/第三卷/3.5-无因管理-续七.md",
+        "译稿/第三卷/3.5-无因管理-续八.md",
+        "译稿/第三卷/3.5-无因管理-续九.md",
+        "译稿/第三卷/3.5-无因管理-续十.md",
+        "译稿/第三卷/3.5-无因管理-续十一.md",
+        "译稿/第三卷/3.5-无因管理-续十二.md",
+        "译稿/第三卷/3.5-无因管理-续十三.md",
+        "译稿/第三卷/3.5-无因管理-续十四.md",
+        "译稿/第三卷/3.5-无因管理-续十五.md",
+        "译稿/第三卷/3.5-无因管理-续十六.md",
+        "译稿/第三卷/3.5-无因管理-续十七.md",
+        "译稿/第三卷/3.5-无因管理-续十八.md",
+        "译稿/第三卷/3.5-无因管理-续十九.md",
+        "译稿/第三卷/3.5-无因管理-续二十.md",
+        "译稿/第三卷/3.5-无因管理-续二十一.md"
+      ],
+      "notes": "48个片段全部翻译；120个正文定位锚点、105个正文段落、48个片段标题及出处行均已对照底本核对；原文疑误、复杂诉权和待复核解释见译校疑难表。全书通篇一致性复核仍待进行。"
+    },
+    {
+      "locator": "D.3.6",
+      "title": "De calumniatoribus / 论诬告者",
+      "fragments_translated": 9,
+      "source_anchors": 24,
+      "source_content_paragraphs": 38,
+      "files": [
+        "译稿/第三卷/3.6-论诬告者-上.md",
+        "译稿/第三卷/3.6-论诬告者-续.md"
+      ],
+      "notes": "九个片段、23个正文定位锚点及19个实质正文段落均已对照底本核对；章节题名和法学家出处行已纳入译稿标题。诬告、返还及罚则问题见译校疑难表。全书通篇一致性复核仍待进行。"
+    },
+    {
+      "locator": "D.4.1",
+      "title": "De in integrum restitutionibus / 论恢复原状救济",
+      "fragments_translated": 8,
+      "source_anchors": 11,
+      "source_content_paragraphs": 26,
+      "files": [
+        "译稿/第四卷/4.1-论恢复原状救济.md"
+      ],
+      "notes": "八个法学家片段、十个正文定位锚点及九个实质正文段落均已与底本核对；题名含常规目录别名锚点亦保留。年龄利益、军人家子继承、缺席救济及恢复原诉讼等疑难见译校疑难表。全书通篇一致性复核仍待进行。"
+    },
+    {
+      "locator": "D.4.2",
+      "title": "Quod metus causa gestum erit / 论因胁迫而实施的行为",
+      "fragments_translated": 23,
+      "source_anchors": 75,
+      "source_content_paragraphs": 111,
+      "files": [
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-上.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续一.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续二.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续三.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续四.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续五.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续六.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续七.md",
+        "译稿/第四卷/4.2-论因胁迫而实施的行为-续八.md"
+      ],
+      "notes": "初稿完成并经底本结构核对：23个法学家片段、全部74个语义锚点及1个章节导航别名均保留；底本111个段落（含23个片段题头、23个出处行和64个正文段落）均已处理。正文疑难与译法取舍见译校疑难表；全书术语一致性复核仍待进行。"
+    },
+    {
+      "locator": "D.4.3",
+      "title": "De dolo malo / 论恶意欺诈",
+      "fragments_translated": 40,
+      "source_anchors": 87,
+      "source_content_paragraphs": 157,
+      "files": [
+        "译稿/第四卷/4.3-论恶意欺诈-并行稿.md"
+      ],
+      "notes": "初稿完成并经底本结构核对：40个片段、86个语义锚点及1个章节目录别名全部匹配；底本157个段落（含40个题头、40个出处行和76个正文段落）均已处理。六处译疑已列入译校疑难表；术语表已补充恶意欺诈、事实诉讼等用语；全书术语一致性复核仍待进行。"
+    },
+    {
+      "locator": "D.4.4",
+      "title": "De minoribus viginti quinque annis / 论未满二十五岁者",
+      "fragments_translated": 50,
+      "source_anchors": 147,
+      "source_content_paragraphs": 224,
+      "files": [
+        "译稿/第四卷/4.4-论未满二十五岁者-上.md",
+        "译稿/第四卷/4.4-论未满二十五岁者-下.md"
+      ],
+      "notes": "初稿完成并经整题核对：50个片段、147个锚点均与底本一致；224个底本段落已译。疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.4.5",
+      "title": "De capite minutis / 论身份减等者",
+      "fragments_translated": 11,
+      "source_anchors": 28,
+      "source_content_paragraphs": 45,
+      "files": [
+        "译稿/第四卷/4.5-论身份减等.md"
+      ],
+      "notes": "初稿完成并经底本结构核对：11个法学家片段、27个语义锚点及1个导航别名均保留；底本45个段落（含题名、片段题头、出处行和22个正文段落）均已处理。D.4.5.2.pr.底本疑误及暂定读法已列入译校疑难表；全书术语一致性复核仍待进行。"
+    },
+    {
+      "locator": "D.4.6",
+      "title": "Ex quibus causis maiores viginti quinque annis in integrum restituuntur / 论年满二十五岁者依哪些事由得以恢复原状",
+      "fragments_translated": 46,
+      "source_anchors": 112,
+      "source_content_paragraphs": 186,
+      "files": [
+        "译稿/第四卷/4.6-论年满二十五岁者恢复原状的事由-上.md",
+        "译稿/第四卷/4.6-论年满二十五岁者恢复原状的事由-下.md"
+      ],
+      "notes": "初稿完成并经整题核对：46个片段、112个锚点均匹配；186个底本段落已译。网页转录疑误及尚待核句见译校疑难表。"
+    },
+    {
+      "locator": "D.4.7",
+      "title": "De alienatione iudicii mutandi causa facta / 论为改变诉讼而实施的财产转让",
+      "fragments_translated": 12,
+      "source_anchors": 37,
+      "source_content_paragraphs": 55,
+      "file": "译稿/第四卷/4.7-论为改变诉讼而实施的财产转让.md",
+      "notes": "初稿完成并核对：12个片段、37个锚点均匹配；底本含题名共55段。D.4.7.9文字疑误见译校疑难表。"
+    },
+    {
+      "locator": "D.4.8",
+      "title": "De receptis: qui arbitrium receperint ut sententiam dicant / 论接受仲裁并应作出裁决者",
+      "fragments_translated": 52,
+      "source_anchors": 148,
+      "source_content_paragraphs": 234,
+      "file": "译稿/第四卷/4.8-论接受仲裁并应作出裁决者.md",
+      "notes": "初稿完成并核对：52个片段、148个锚点均匹配；底本含题名共234段。七处译疑已列入译校疑难表。"
+    },
+    {
+      "locator": "D.4.9",
+      "title": "Nautae caupones stabularii ut recepta restituant / 论船主、客店主人及马厩主人返还其所受领之物",
+      "fragments_translated": 7,
+      "source_anchors": 41,
+      "source_content_paragraphs": 48,
+      "file": "译稿/第四卷/4.9-论船主客店主人及马厩主人返还所受领之物.md",
+      "notes": "初稿完成并核对：7个片段、41个锚点均匹配；底本含题名共48段。D.4.9.1.3及4.9.7.2疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.5.1",
+      "title": "De iudiciis: ubi quisque agere vel conveniri debeat / 论诉讼应在何处提起及何地应诉",
+      "expected_fragments": 82,
+      "completed_fragments": [],
+      "files": [
+        "译稿/第五卷/5.1-论诉讼应在何处提起及何地应诉.md"
+      ],
+      "status": "初稿完成并整题锚点/段落核验。",
+      "fragments_translated": 82,
+      "source_anchors": 147,
+      "source_content_paragraphs": 291,
+      "notes": "1–82 完整并已整题核对：底本 291 个段落节点，147 个源锚点逐项匹配；译稿另保留卷内导航别名 id=1。D.5.1.80、D.5.1.82 译疑见译校疑难表。"
+    },
+    {
+      "locator": "D.5.2",
+      "title": "De inofficioso testamento / 论违反亲属义务的遗嘱",
+      "fragments_translated": 32,
+      "source_anchors": 99,
+      "source_content_paragraphs": 146,
+      "file": "译稿/第五卷/5.2-论遗嘱违反亲属义务.md",
+      "notes": "1–32 初稿完成并整合；目前 99 个源锚点均与译稿相符。D.5.2.20 缺文及其他译疑见译校疑难表。"
+    },
+    {
+      "locator": "D.5.3",
+      "title": "De hereditatis petitione / 论遗产请求之诉",
+      "fragments_translated": 58,
+      "source_anchors": 185,
+      "source_content_paragraphs": 278,
+      "file": "译稿/第五卷/5.3-论遗产请求之诉.md",
+      "notes": "初稿完成并整题锚点核对：1–58 全部覆盖；已剔除合稿中一处无源锚点的空白 17a 占位。疑义见译校疑难表。"
+    },
+    {
+      "locator": "D.5.4",
+      "title": "Si pars hereditatis petatur / 论遗产的一部分被请求时",
+      "expected_fragments": 10,
+      "completed_fragments": [],
+      "files": [
+        "译稿/第五卷/5.4-论遗产的一部分被请求时.md"
+      ],
+      "status": "初稿完成并整题锚点/段落核验。",
+      "fragments_translated": 10,
+      "source_anchors": 22,
+      "source_content_paragraphs": 38,
+      "notes": "初稿完成并整题核对：10 个片段、22 个源锚点均匹配；底本共 38 个段落标签。D.5.4.3、D.5.4.10 译疑列入译校疑难表。"
+    },
+    {
+      "locator": "D.5.5",
+      "title": "De possessoria hereditatis petitione / 论遗产占有请求之诉",
+      "fragments_translated": 2,
+      "source_anchors": 4,
+      "source_content_paragraphs": 7,
+      "file": "译稿/第五卷/5.5-论遗产占有之诉.md",
+      "notes": "题名、两段正文、作者出处及全部源锚点均已核对；正文共 2 段。"
+    },
+    {
+      "locator": "D.5.6",
+      "title": "De fideicommissaria hereditatis petitione / 论遗嘱信托遗产请求之诉",
+      "fragments_translated": 3,
+      "source_anchors": 8,
+      "source_content_paragraphs": 12,
+      "file": "译稿/第五卷/5.6-论遗嘱信托遗产请求之诉.md",
+      "notes": "3 个片段、题名、出处和正文均已翻译；源锚点已逐项核对。5.6.1 底本引号疑点见译校疑难表。 Source-p count reconciled against normalized EPUB XHTML."
+    },
+    {
+      "locator": "D.6.1",
+      "title": "De rei vindicatione / 论所有物返还之诉",
+      "fragments_translated": 80,
+      "source_anchors": 138,
+      "source_content_paragraphs": 279,
+      "file": "译稿/第六卷/6.1-论所有物返还之诉.md",
+      "notes": "80 个分题均已译；279 个底本段落节点、119 段正文及 138 个源锚点完成核对。因底本未给 6.1.80 独立锚点，译稿增设导航锚点；译疑均已登记。"
+    },
+    {
+      "locator": "D.6.2",
+      "title": "De publiciana in rem actione / 论普布利基安对物之诉",
+      "fragments_translated": 17,
+      "source_anchors": 70,
+      "source_content_paragraphs": 97,
+      "file": "译稿/第六卷/6.2-论普布利基安对物之诉.md",
+      "notes": "17 个片段题头、70 个源锚点和 97 个底本段落节点已核对；其中译文正文 62 段。译疑已登记。"
+    },
+    {
+      "locator": "D.6.3",
+      "title": "Si ager vectigalis, id est emphyteuticarius, petatur / 论请求租税地（即永佃地）",
+      "fragments_translated": 3,
+      "source_anchors": 6,
+      "source_content_paragraphs": 10,
+      "file": "译稿/第六卷/6.3-论请求租税地即永佃地.md",
+      "notes": "3 个片段、6 个译稿锚点和 9 个底本段落节点已核对；底本未给 6.3.3 独立锚点，译稿补设导航锚点并已登记。 Source-p count reconciled against normalized EPUB XHTML."
+    },
+    {
+      "locator": "D.7.1",
+      "title": "De usu fructu et quemadmodum quis utatur fruatur / 论用益权及其行使",
+      "fragments_translated": 74,
+      "source_anchors": 182,
+      "source_content_paragraphs": 301,
+      "file": "译稿/第七卷/7.1-论用益权及其行使.md",
+      "notes": "1–74 全部片段及作者出处已译；301 个底本段落节点（含题名、出处）及 182 个源锚点均已核对，其中正文 152 段。D.7.1.51 疑义已登记。"
+    },
+    {
+      "locator": "D.7.2",
+      "title": "De usu fructu adcrescendo / 论用益权的增益",
+      "fragments_translated": 12,
+      "source_anchors": 25,
+      "source_content_paragraphs": 45,
+      "file": "译稿/第七卷/7.2-论用益权的增益.md",
+      "notes": "12 个片段、45 个底本段落节点（其中正文 20 段）及全部 25 个导航/正文锚点已核对。D.7.2.10 译疑已登记。"
+    },
+    {
+      "locator": "D.7.3",
+      "title": "Quando dies usus fructus legati cedat / 论遗赠用益权起算日",
+      "fragments_translated": 1,
+      "source_anchors": 8,
+      "source_content_paragraphs": 8,
+      "file": "译稿/第七卷/7.3-论遗赠用益权起算日.md",
+      "notes": "1 个片段、8 个底本段落节点（其中正文 5 段）及全部 8 个导航/正文锚点已核对。"
+    },
+    {
+      "locator": "D.7.4",
+      "title": "Quibus modis usus fructus vel usus amittitur / 论用益权或使用权消灭的方式",
+      "fragments_translated": 31,
+      "source_anchors": 64,
+      "source_content_paragraphs": 118,
+      "file": "译稿/第七卷/7.4-论用益权或使用权消灭的方式.md",
+      "notes": "31 个片段、118 个底本段落节点（其中正文 55 段）及 64 个源锚点均已核对；三处译疑已登记。"
+    },
+    {
+      "locator": "D.7.5",
+      "title": "De usu fructu earum rerum, quae usu consumuntur vel minuuntur / 论通常因使用而消耗或减少的物之用益权",
+      "fragments_translated": 12,
+      "source_anchors": 23,
+      "source_content_paragraphs": 42,
+      "file": "译稿/第七卷/7.5-论通常因使用而消耗或减少的物之用益权.md",
+      "notes": "12 个片段、42 个底本段落节点（其中正文 17 段）、12 条作者出处及全部 23 个导航/正文锚点已核对；D.7.5.8 译疑已登记。"
+    },
+    {
+      "locator": "D.7.6",
+      "title": "Si usus fructus petetur vel ad alium pertinere negetur / 论请求用益权或否认用益权归他人",
+      "fragments_translated": 6,
+      "source_anchors": 20,
+      "source_content_paragraphs": 29,
+      "file": "译稿/第七卷/7.6-论请求用益权或否认用益权归他人.md",
+      "notes": "6 个片段、29 个底本段落节点（其中正文 17 段）和 20 个源锚点已核对。底本 7.6.6 题号嵌在前段末尾，译稿保留并登记；7.6.5.4a 译疑已登记。"
+    },
+    {
+      "locator": "D.7.7",
+      "title": "De operis servorum / 论奴隶劳务",
+      "fragments_translated": 6,
+      "source_anchors": 12,
+      "source_content_paragraphs": 22,
+      "file": "译稿/第七卷/7.7-论奴隶劳务之用益权.md",
+      "notes": "6 个片段、22 个底本段落节点（其中正文 9 段）及 12 个源锚点均已核对。D.7.7.4、7.7.6.pr. 译疑已登记。"
+    },
+    {
+      "locator": "D.7.8",
+      "title": "De usu et habitatione / 论使用权与居住权",
+      "fragments_translated": 23,
+      "source_anchors": 57,
+      "source_content_paragraphs": 92,
+      "file": "译稿/第七卷/7.8-论使用权与居住权.md",
+      "notes": "23 个片段、92 个底本段落节点（其中正文 45 段）及 57 个源锚点均已核对。三处译疑已登记。"
+    },
+    {
+      "locator": "D.7.9",
+      "title": "Usufructuarius quemadmodum caveat / 论用益权人如何提供担保",
+      "fragments_translated": 38,
+      "source_content_paragraphs": 56,
+      "notes": "source-p 658-713 continuous; 38 source anchors verified in exact order.",
+      "file": "译稿/第七卷/7.9-论用益权人如何提供担保.md",
+      "anchors_verified": 38
+    },
+    {
+      "locator": "D.8.1",
+      "title": "De servitutibus / 论役权",
+      "fragments_translated": 20,
+      "source_anchors": 34,
+      "source_content_paragraphs": 68,
+      "file": "译稿/第八卷/8.1-论役权.md",
+      "notes": "20 个片段、68 个底本段落节点（其中正文 27 段）及 34 个源锚点均已核对；D.8.1.18 的出处与正文疑点已登记。"
+    },
+    {
+      "locator": "D.8.2",
+      "title": "De servitutibus praediorum urbanorum / 论城市不动产地役权",
+      "fragments_translated": 41,
+      "source_anchors": 76,
+      "source_content_paragraphs": 145,
+      "file": "译稿/第八卷/8.2-论城市不动产地役权.md",
+      "notes": "41 个分题、145 个底本段落节点（其中正文 61 段）及 76 个源/导航锚点均已核对；无缺漏、额外或重复锚点。五处译疑已登记。"
+    },
+    {
+      "locator": "D.8.3",
+      "title": "De servitutibus praediorum rusticorum / 论乡村不动产地役权",
+      "fragments_translated": 38,
+      "source_anchors": 71,
+      "source_content_paragraphs": 136,
+      "file": "译稿/第八卷/8.3-论乡村不动产地役权.md",
+      "notes": "38 个分题、136 个底本段落节点（含题名、出处与正文）及 71 个源锚点均已核对；底本文字及术语疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.8.4",
+      "title": "Communia praediorum tam urbanorum quam rusticorum / 论城市与乡村不动产共有",
+      "fragments_translated": 18,
+      "source_anchors": 33,
+      "source_content_paragraphs": 63,
+      "file": "译稿/第八卷/8.4-论城市与乡村不动产共有.md",
+      "notes": "18 个分题、63 个底本段落节点（其中正文 26 段）及 33 个锚点均已核对；两处词句疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.8.5",
+      "title": "Si servitus vindicetur vel ad alium pertinere negetur / 论地役权之诉与否认之诉",
+      "fragments_translated": 21,
+      "source_anchors": 63,
+      "source_content_paragraphs": 95,
+      "file": "译稿/第八卷/8.5-论地役权之诉与否认之诉.md",
+      "notes": "21 个分题、95 个底本段落节点（含题名、出处与正文）及 63 个源锚点全部核对；三处译疑已登记。"
+    },
+    {
+      "locator": "D.8.6",
+      "title": "Quemadmodum servitutes amittuntur / 论地役权的消灭方式",
+      "fragments_translated": 25,
+      "source_anchors": 46,
+      "source_content_paragraphs": 88,
+      "file": "译稿/第八卷/8.6-论地役权的消灭方式.md",
+      "notes": "25 个分题、88 个底本段落节点及 46 个源锚点均已核对；锚点无遗漏或重复。已统一保罗《箴言集》题名；数处句法疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.9.1",
+      "title": "Si quadrupes pauperiem fecisse dicatur / 论四足动物致害之诉",
+      "fragments_translated": 5,
+      "source_anchors": 26,
+      "source_content_paragraphs": 34,
+      "file": "译稿/第九卷/9.1-论四足动物致害.md",
+      "notes": "5 个主片段、34 个底本段落节点（其中正文 23 段）及 26 个锚点全部核对；*pauperies* 等术语疑点已登记。"
+    },
+    {
+      "locator": "D.9.2",
+      "title": "Ad legem Aquiliam / 论阿奎利亚法",
+      "fragments_translated": 57,
+      "source_anchors": 202,
+      "source_content_paragraphs": 288,
+      "file": "译稿/第九卷/9.2-论阿奎利亚法.md",
+      "notes": "57 个片段、288 个底本段落节点及 202 个本节锚点均已核对，无缺漏、重复或额外锚点；另保留导航锚点 2。底本无希腊文。"
+    },
+    {
+      "locator": "D.9.3",
+      "title": "De his, qui effuderint vel deiecerint / 论倾倒或抛掷物致害",
+      "fragments_translated": 7,
+      "source_anchors": 37,
+      "source_content_paragraphs": 48,
+      "file": "译稿/第九卷/9.3-论倾倒或抛掷物致害.md",
+      "notes": "7 个主片段、48 个底本段落节点（其中正文 33 段）及 37 个局部锚点均已核对；源文 3 个 pr 锚点的句点按底本保留。"
+    },
+    {
+      "locator": "D.9.4",
+      "title": "De noxalibus actionibus / 论诺克萨诉讼",
+      "fragments_translated": 43,
+      "source_anchors": 94,
+      "source_content_paragraphs": 166,
+      "file": "译稿/第九卷/9.4-论诺克萨诉讼.md",
+      "notes": "43 个片段、166 个底本段落节点（含标题）、94 个内容锚点及导航锚点 4 均已核对；底本无希腊文。疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.10.1",
+      "title": "Finium regundorum / 论界限确定之诉",
+      "fragments_translated": 13,
+      "source_anchors": 30,
+      "source_content_paragraphs": 53,
+      "file": "译稿/第十卷/10.1-论界限确定之诉.md",
+      "notes": "13 个主片段、53 个底本段落节点及 30 个锚点均已核对；希腊文转写和拉丁释文疑点已登记。"
+    },
+    {
+      "locator": "D.10.2",
+      "title": "Familiae erciscundae / 论遗产分割",
+      "fragments_translated": 57,
+      "source_anchors": 156,
+      "source_content_paragraphs": 255,
+      "file": "译稿/第十卷/10.2-论遗产分割.md",
+      "notes": "全节首稿及终审核对完成；锚点顺序与底本一致，正文段落节点140/140。"
+    },
+    {
+      "locator": "D.10.3",
+      "title": "Communi dividundo / 论共有物分割",
+      "fragments_translated": 31,
+      "source_anchors": 90,
+      "source_content_paragraphs": 141,
+      "file": "译稿/第十卷/10.3-论共有物分割.md",
+      "notes": "全节首稿及覆盖核对完成；78个正文段落已译，锚点与底本一致。"
+    },
+    {
+      "locator": "D.10.4",
+      "title": "Ad exhibendum / 论出示之诉",
+      "fragments_translated": 20,
+      "source_anchors": 71,
+      "source_content_paragraphs": 105,
+      "file": "译稿/第十卷/10.4-论出示之诉.md",
+      "notes": "20 个主片段、105 个底本段落节点（其中正文 64 段）及 71 个本节锚点均已核对；另保留导航锚点 4，无缺漏或重复。"
+    },
+    {
+      "locator": "D.11.1",
+      "title": "De interrogationibus in iure faciendis et interrogatoriis actionibus / 论司法官前的询问及询问之诉",
+      "fragments_translated": 22,
+      "source_anchors": 64,
+      "source_content_paragraphs": 97,
+      "file": "译稿/第十一卷/11.1-论司法官前询问及询问之诉.md",
+      "notes": "22 个片段、97 个底本段落节点（含题名、作者出处与正文）及 64 个本节锚点全部核对；希腊语转写 *pros epos* 及数处程序疑义已登记。"
+    },
+    {
+      "locator": "D.11.2",
+      "title": "De quibus rebus ad eundem iudicem eatur / 论哪些事项应由同一法官审理",
+      "fragments_translated": 2,
+      "source_anchors": 3,
+      "source_content_paragraphs": 7,
+      "file": "译稿/第十一卷/11.2-论同一法官审理的事项.md",
+      "notes": "2 个片段、7 个底本段落节点及 3 个锚点均已核对，另保留卷级导航锚点 2。D.11.2.2 的 *idonei* 译疑已登记。"
+    },
+    {
+      "locator": "D.11.3",
+      "title": "De servo corrupto / 论诱坏他人奴隶之诉",
+      "fragments_translated": 17,
+      "source_anchors": 50,
+      "source_content_paragraphs": 77,
+      "file": "译稿/第十一卷/11.3-论诱坏他人奴隶之诉.md",
+      "notes": "全节首稿完成；段落节点和锚点按底本顺序核对，疑难已记录。"
+    },
+    {
+      "locator": "D.11.4",
+      "title": "De fugitivis / 论逃亡者",
+      "fragments_translated": 5,
+      "source_anchors": 16,
+      "source_content_paragraphs": 25,
+      "file": "译稿/第十一卷/11.4-论逃亡者.md",
+      "notes": "5 个片段、25 个底本段落节点（其中正文 14 段）及 16 个本节锚点均已核对；导航锚点 4 亦保留。"
+    },
+    {
+      "locator": "D.11.5",
+      "title": "De aleatoribus / 论赌博者",
+      "fragments_translated": 4,
+      "source_anchors": 15,
+      "source_content_paragraphs": 20,
+      "file": "译稿/第十一卷/11.5-论赌博者.md",
+      "notes": "全节首稿完成；20个底本段落节点及15个局部锚点已逐项核对；导航锚点5保留。"
+    },
+    {
+      "locator": "D.11.6",
+      "title": "Si mensor falsum modum dixerit / 论测量员虚报测量结果",
+      "fragments_translated": 7,
+      "source_anchors": 28,
+      "source_content_paragraphs": 37,
+      "file": "译稿/第十一卷/11.6-论测量员虚报测量.md",
+      "notes": "全节首稿完成；37个底本段落节点及28个局部锚点已核对；导航锚点6保留。"
+    },
+    {
+      "locator": "D.11.7",
+      "title": "De religiosis et sumptibus funerum et ut funus ducere liceat / 论宗教性场所、殡葬费用及准许举行葬礼",
+      "fragments_translated": 46,
+      "source_anchors": 112,
+      "source_content_paragraphs": 190,
+      "file": "译稿/第十一卷/11.7-论殡葬费用之诉.md",
+      "notes": "全节首稿及覆盖核对完成；46个主片段、190个段落节点、113个原锚点（含导航锚点7）均已审计。希腊语转写 kenotaphion 已保留。"
+    },
+    {
+      "locator": "D.11.8",
+      "title": "De mortuo inferendo et sepulchro aedificando / 论安葬死者与建造墓冢",
+      "fragments_translated": 5,
+      "source_anchors": 21,
+      "source_content_paragraphs": 28,
+      "file": "译稿/第十一卷/11.8-论安葬死者与建造墓冢.md",
+      "notes": "全节译稿及覆盖核对完成；22个锚点包括导航锚点8，局部锚点21个，顺序与底本一致。"
+    },
+    {
+      "locator": "D.12.1",
+      "title": "De rebus creditis si certum petetur et de condictione / 论信用给付之物、确定请求及返还之诉",
+      "fragments_translated": 42,
+      "source_anchors": 80,
+      "source_content_paragraphs": 153,
+      "file": "译稿/第十二卷/12.1-论信用给付之物确定请求及返还之诉.md",
+      "notes": "全节首稿及结构核对完成；153个底本段落节点、80个局部锚点均已覆盖。"
+    },
+    {
+      "locator": "D.12.2",
+      "title": "De iureiurando sive voluntario sive necessario sive iudiciali / 论宣誓：自愿宣誓、必要宣誓或司法宣誓",
+      "fragments_translated": 42,
+      "source_anchors": 113,
+      "source_content_paragraphs": 185,
+      "file": "译稿/第十二卷/12.2-论自愿必要及司法宣誓.md",
+      "notes": "全节译文完成并校订；42个分题、185个源段落节点均有对应；114个锚点（含导航锚点2）顺序完全一致。"
+    },
+    {
+      "locator": "D.12.3",
+      "title": "De in litem iurando / 论诉讼标的宣誓",
+      "fragments_translated": 11,
+      "source_anchors": 22,
+      "source_content_paragraphs": 42,
+      "file": "译稿/第十二卷/12.3-论诉讼标的宣誓.md",
+      "notes": "全节首稿及结构核对完成；42个源段落节点、22个局部锚点及导航锚点3均已保留。"
+    },
+    {
+      "locator": "D.12.4",
+      "title": "De condictione causa data causa non secuta / 论给付目的未实现之返还诉讼",
+      "fragments_translated": 16,
+      "source_anchors": 38,
+      "source_content_paragraphs": 65,
+      "file": "译稿/第十二卷/12.4-论给付目的未实现之返还诉讼.md",
+      "notes": "全节译稿完成；65个源段落节点、16个分题均有对应；39个锚点（含导航锚点4）顺序完全一致。"
+    },
+    {
+      "locator": "D.12.5",
+      "title": "De condictione ob turpem vel iniustam causam / 论因不道德或不法原因而提起的返还诉讼",
+      "fragments_translated": 9,
+      "source_anchors": 23,
+      "source_content_paragraphs": 37,
+      "file": "译稿/第十二卷/12.5-论因不道德或不法原因的返还诉讼.md",
+      "notes": "全节译稿完成；37个段落节点均有对应，24个源锚点（含导航锚点5）按原顺序保留。"
+    },
+    {
+      "locator": "D.12.6",
+      "title": "De condictione indebiti / 论不当给付返还之诉",
+      "fragments_translated": 67,
+      "source_anchors": 140,
+      "source_content_paragraphs": 257,
+      "file": "译稿/第十二卷/12.6-论不当给付返还之诉.md",
+      "notes": "全节译稿完成；257个源段落节点、67个分题均有对应；141个锚点（含导航锚点6）顺序完全一致。"
+    },
+    {
+      "locator": "D.12.7",
+      "title": "De condictione sine causa / 论无原因返还之诉",
+      "fragments_translated": 5,
+      "source_anchors": 12,
+      "source_content_paragraphs": 20,
+      "file": "译稿/第十二卷/12.7-论无原因返还之诉.md",
+      "notes": "全节译稿完成；20个段落节点均有对应，13个源锚点（含导航锚点7）按原顺序保留。"
+    },
+    {
+      "locator": "D.13.1",
+      "title": "De condictione furtiva / 论盗窃返还之诉",
+      "fragments_translated": 20,
+      "source_anchors": 38,
+      "source_content_paragraphs": 73,
+      "file": "译稿/第十三卷/13.1-论盗窃返还之诉.md",
+      "notes": "全节译稿完成；20个分题、73个源段落节点均有对应；39个锚点（含导航锚点1）顺序完全一致。"
+    },
+    {
+      "locator": "D.13.2",
+      "title": "De condictione ex lege / 论基于法律的返还之诉",
+      "fragments_translated": 1,
+      "source_anchors": 2,
+      "source_content_paragraphs": 4,
+      "file": "译稿/第十三卷/13.2-论基于法律的返还之诉.md",
+      "notes": "全节译稿完成；底本4个段落节点均有对应；3个锚点（含导航锚点2）顺序完全一致。"
+    },
+    {
+      "locator": "D.13.3",
+      "title": "De condictione triticiaria / 论谷物返还之诉",
+      "fragments_translated": 4,
+      "source_anchors": 7,
+      "source_content_paragraphs": 14,
+      "file": "译稿/第十三卷/13.3-论谷物返还之诉.md",
+      "notes": "全节译稿完成；14个源段落节点、4个分题均有对应；8个锚点（含导航锚点3）顺序完全一致。"
+    },
+    {
+      "locator": "D.13.4",
+      "title": "De eo quod certo loco / 论应于特定地点给付之物",
+      "fragments_translated": 10,
+      "source_anchors": 24,
+      "source_content_paragraphs": 41,
+      "file": "译稿/第十三卷/13.4-论应于特定地点给付之物.md",
+      "notes": "全节译稿完成；41个源段落节点、10个分题均有对应；25个锚点（含导航锚点4）顺序完全一致。"
+    },
+    {
+      "locator": "D.13.5",
+      "title": "De pecunia constituta / 论约定金钱债务",
+      "fragments_translated": 31,
+      "source_anchors": 80,
+      "source_content_paragraphs": 131,
+      "file": "译稿/第十三卷/13.5-论约定金钱债务.md",
+      "notes": "全节译稿完成；131个源段落节点均有对应；81个锚点（含导航锚点5）顺序完全一致。"
+    },
+    {
+      "locator": "D.13.6",
+      "title": "Commodati vel contra / 论借用物之诉及其反诉",
+      "fragments_translated": 23,
+      "source_anchors": 72,
+      "source_content_paragraphs": 108,
+      "file": "译稿/第十三卷/13.6-论借用物之诉及其反诉.md",
+      "notes": "全节译稿完成；108个源段落节点均有对应；73个锚点（含导航锚点6）顺序完全一致。"
+    },
+    {
+      "locator": "D.13.7",
+      "title": "De pigneraticia actione vel contra / 论质权之诉及其反诉",
+      "fragments_translated": 43,
+      "source_anchors": 105,
+      "source_content_paragraphs": 174,
+      "file": "译稿/第十三卷/13.7-论质权之诉及其反诉.md",
+      "notes": "全节译稿完成并补齐D.13.7.43.1；174个源段落节点均有对应；106个锚点（含导航锚点7）顺序完全一致。"
+    },
+    {
+      "locator": "D.14.1",
+      "title": "De exercitoria actione / 论船舶经营之诉",
+      "fragments_translated": 7,
+      "source_anchors": 47,
+      "source_content_paragraphs": 56,
+      "file": "译稿/第十四卷/14.1-论船舶经营之诉.md",
+      "notes": "全节译稿完成；56个源段落节点均有对应；48个锚点（含导航锚点1）顺序完全一致。"
+    },
+    {
+      "locator": "D.14.2",
+      "title": "De lege Rodia [Rhodia] de iactu / 论罗得海法抛货",
+      "fragments_translated": 10,
+      "source_anchors": 28,
+      "source_content_paragraphs": 44,
+      "file": "译稿/第十四卷/14.2-论罗得海法抛货.md",
+      "notes": "全节译稿完成；44个源段落节点均有对应；29个锚点（含导航锚点2）顺序完全一致。"
+    },
+    {
+      "locator": "D.14.3",
+      "title": "De institoria actione / 论店铺经理之诉",
+      "fragments_translated": 20,
+      "source_anchors": 65,
+      "source_content_paragraphs": 99,
+      "file": "译稿/第十四卷/14.3-论店铺经理之诉.md",
+      "notes": "全节译稿完成；99个源段落节点均有对应；66个锚点（含导航锚点3）顺序完全一致。"
+    },
+    {
+      "locator": "D.14.4",
+      "title": "De tributoria actione / 论分配之诉",
+      "fragments_translated": 12,
+      "source_anchors": 51,
+      "source_content_paragraphs": 70,
+      "file": "译稿/第十四卷/14.4-论分配之诉.md",
+      "notes": "译稿完成；70个源段落节点均有对应；52个锚点（含导航锚点4）顺序完全一致。"
+    },
+    {
+      "locator": "D.14.5",
+      "title": "Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur / 论与受他人权力支配者订立交易之诉",
+      "fragments_translated": 8,
+      "source_anchors": 20,
+      "source_content_paragraphs": 33,
+      "file": "译稿/第十四卷/14.5-论与受他人权力支配者订立交易之诉.md",
+      "notes": "全节译稿完成；33个源段落节点均有对应；21个锚点（含导航锚点5）顺序完全一致。"
+    },
+    {
+      "locator": "D.14.6",
+      "title": "De senatus consulto Macedoniano / 论马其顿元老院决议",
+      "fragments_translated": 20,
+      "source_anchors": 53,
+      "source_content_paragraphs": 89,
+      "file": "译稿/第十四卷/14.6-论马其顿元老院决议.md",
+      "notes": "译稿完成；89个源段落节点均有对应；54个锚点（含导航锚点6）顺序完全一致；拉丁元老院决议原文及异文均保留。"
+    },
+    {
+      "locator": "D.15.1",
+      "title": "De peculio / 论特有产",
+      "fragments_translated": 58,
+      "source_anchors": 181,
+      "source_content_paragraphs": 274,
+      "file": "译稿/第十五卷/15.1-论特有产.md",
+      "notes": "译稿完成；274个源段落节点均有对应；182个锚点（含导航锚点1）顺序完全一致；疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.15.2",
+      "title": "Quando de peculio actio annalis est / 论特有产之诉何时适用一年期间",
+      "fragments_translated": 3,
+      "source_anchors": 17,
+      "source_content_paragraphs": 21,
+      "file": "译稿/第十五卷/15.2-论特有产之诉的一年期间.md",
+      "notes": "主代理初译及校订完成；21个源段落节点均有对应；18个锚点（含导航锚点2）顺序完全一致；术语与疑难已记录。"
+    },
+    {
+      "locator": "D.15.3",
+      "title": "De in rem verso / 论利益归入之诉",
+      "fragments_translated": 21,
+      "source_anchors": 61,
+      "source_content_paragraphs": 96,
+      "file": "译稿/第十五卷/15.3-论利益归入之诉.md",
+      "notes": "译稿完成；96个源段落节点均有对应；62个锚点（含导航锚点3）顺序完全一致；译名统一为“利益归入之诉”。"
+    },
+    {
+      "locator": "D.15.4",
+      "title": "Quod iussu / 论基于命令之诉",
+      "fragments_translated": 5,
+      "source_anchors": 21,
+      "source_content_paragraphs": 28,
+      "file": "译稿/第十五卷/15.4-论基于命令之诉.md",
+      "notes": "译稿完成；28个源段落节点均有对应；22个锚点顺序完全一致；疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.16.1",
+      "title": "Ad senatus consultum Velleianum / 论韦莱亚努斯元老院决议",
+      "fragments_translated": 32,
+      "source_anchors": 97,
+      "source_content_paragraphs": 145,
+      "files": [
+        "译稿/第十六卷/16.1-论韦莱亚努斯元老院决议-上.md",
+        "译稿/第十六卷/16.1-论韦莱亚努斯元老院决议-下.md"
+      ],
+      "notes": "上下篇译稿完成；145个源段落节点均有对应；98个锚点（含导航锚点1）顺序完全一致；疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.16.2",
+      "title": "De compensationibus / 论抵销",
+      "fragments_translated": 24,
+      "source_anchors": 37,
+      "source_content_paragraphs": 80,
+      "file": "译稿/第十六卷/16.2-论抵销.md",
+      "notes": "译稿完成；80个源段落节点均有对应；38个锚点（含导航锚点2）顺序完全一致；术语及疑难已记录。"
+    },
+    {
+      "locator": "D.16.3",
+      "title": "Depositi vel contra / 论寄托之诉及其反诉",
+      "fragments_translated": 34,
+      "source_anchors": 111,
+      "source_content_paragraphs": 167,
+      "file": "译稿/第十六卷/16.3-论寄托之诉及其反诉.md",
+      "notes": "初稿完成；译文锚点顺序与底本111个条文锚点一致（另含导航锚点3）；底本分题段落节点166个均已覆盖。疑难已列入译校疑难表。 Source-p count reconciled against normalized EPUB XHTML."
+    },
+    {
+      "locator": "D.17.1",
+      "title": "Mandati vel contra / 论委任之诉及其反诉",
+      "fragments_translated": 62,
+      "source_anchors": 220,
+      "source_content_paragraphs": 317,
+      "files": [
+        "译稿/第十七卷/17.1-论委任之诉及其反诉-上.md",
+        "译稿/第十七卷/17.1-论委任之诉及其反诉-下.md"
+      ],
+      "notes": "初稿完成；62个主片段、317个底本段落节点及220个条文锚点均已覆盖，另含导航锚点1；锚点顺序与底本一致。术语及未决问题见译校疑难表。"
+    },
+    {
+      "locator": "D.17.2",
+      "title": "Pro socio / 论合伙之诉",
+      "fragments_translated": 84,
+      "source_anchors": 174,
+      "source_content_paragraphs": 322,
+      "file": "译稿/第十七卷/17.2-论合伙之诉.md",
+      "notes": "初稿完成；84个法学家片段、321个底本段落节点、174个条文锚点均已覆盖且锚点顺序一致；正文段落逐段核对相符。术语与疑难见译校疑难表。 Source-p count reconciled against normalized EPUB XHTML."
+    },
+    {
+      "locator": "D.18.1",
+      "title": "De contrahenda emptione et de pactis inter emptorem et venditorem compositis et quae res venire non possunt / 论买卖的订立、买卖双方约定及不得出卖之物",
+      "fragments_translated": 81,
+      "source_anchors": 171,
+      "source_content_paragraphs": 305,
+      "files": [
+        "译稿/第十八卷/18.1-论买卖订立及约定-上.md",
+        "译稿/第十八卷/18.1-论买卖订立及约定-下.md"
+      ],
+      "notes": "初稿完成；81个分题、305个底本段落节点及171个条文锚点均已覆盖，锚点顺序与底本一致。译文对应142个正文段落和81条出处；希腊文转写、方括号释义及完整标题均已处理。术语与待核点见译校疑难表。"
+    },
+    {
+      "locator": "D.18.2",
+      "title": "De in diem addictione / 论期限内出现更优条件的出售",
+      "fragments_translated": 20,
+      "source_anchors": 44,
+      "source_content_paragraphs": 77,
+      "file": "译稿/第十八卷/18.2-论期限内出现更优条件的出售.md",
+      "notes": "初稿完成；77个底本段落节点均已翻译；44个条文锚点与底本顺序一致，另含导航锚点2；待通篇术语及疑难复核。"
+    },
+    {
+      "locator": "D.18.3",
+      "title": "De lege commissoria / 论解除约款",
+      "fragments_translated": 8,
+      "source_anchors": 17,
+      "source_content_paragraphs": 31,
+      "file": "译稿/第十八卷/18.3-论解除约款.md",
+      "notes": "初稿完成；31个底本段落节点、17个条文锚点均已覆盖，另含导航锚点3；锚点顺序一致。D.18.3.8 底本文字疑误及译法见译校疑难表。"
+    },
+    {
+      "locator": "D.18.4",
+      "title": "De hereditate vel actione vendita / 论遗产或诉权的出卖",
+      "fragments_translated": 25,
+      "source_anchors": 53,
+      "source_content_paragraphs": 99,
+      "file": "译稿/第十八卷/18.4-论遗产或诉权的出卖.md",
+      "notes": "初稿完成；25个片段、99个底本段落节点及53个条文锚点均已覆盖，锚点顺序一致；方括号异文已保留。疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.18.5",
+      "title": "De rescindenda venditione et quando licet ab emptione discedere / 论买卖的解除及何时可以退出买卖",
+      "fragments_translated": 10,
+      "source_anchors": 18,
+      "source_content_paragraphs": 35,
+      "file": "译稿/第十八卷/18.5-论买卖解除及何时得退出买卖.md",
+      "notes": "初稿完成；10个主片段、35个底本段落节点及18个条文锚点均已覆盖，锚点顺序一致。术语与待核点见译校疑难表。"
+    },
+    {
+      "locator": "D.18.6",
+      "title": "De periculo et commodo rei venditae / 论买卖标的物的风险与利益",
+      "fragments_translated": 20,
+      "source_anchors": 40,
+      "source_content_paragraphs": 73,
+      "file": "译稿/第十八卷/18.6-论买卖标的物的风险与利益.md",
+      "notes": "初稿完成；20个片段、73个底本段落节点及40个条文锚点均已译核；正文32个文本段落逐段对应，锚点顺序完全一致。疑难与术语见译校疑难表。"
+    },
+    {
+      "locator": "D.18.7",
+      "title": "De servis exportandis: vel si ita mancipium venierit ut manumittatur vel contra / 论奴隶输出及以释奴为条件的买卖",
+      "fragments_translated": 10,
+      "source_anchors": 13,
+      "source_content_paragraphs": 32,
+      "file": "译稿/第十八卷/18.7-论奴隶输出及以释奴为条件的买卖.md",
+      "notes": "初稿完成；10个片段、32个底本段落节点及13个条文锚点均已覆盖，另有导航锚点7；锚点顺序一致。D.18.7.1、.5、.10 疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.19.1",
+      "title": "De actionibus empti venditi / 论买受之诉与出卖之诉",
+      "fragments_translated": 55,
+      "source_anchors": 180,
+      "source_content_paragraphs": 268,
+      "file": "译稿/第十九卷/19.1-论买受之诉与出卖之诉.md",
+      "notes": "初稿完成并经底本结构复核；55个主片段、268个源段落节点及180个非导航锚点均已覆盖，另含导航锚点1；锚点顺序一致。四处底本文字或指称疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.19.2",
+      "title": "Locati conducti / 论租赁之诉",
+      "fragments_translated": 62,
+      "source_anchors": 175,
+      "source_content_paragraphs": 275,
+      "file": "译稿/第十九卷/19.2-论租赁之诉.md",
+      "notes": "上下篇已合并为全题译稿；62个片段、275个源段落节点及175个非导航锚点均已覆盖，另含导航锚点2；176个锚点顺序与底本一致。D.19.2.15.9 底本句末中断，另有租赁责任疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.19.3",
+      "title": "De aestimatoria / 论估价之诉",
+      "fragments_translated": 3,
+      "source_anchors": 5,
+      "source_content_paragraphs": 8,
+      "file": "译稿/第十九卷/19.3-论估价之诉.md",
+      "notes": "初稿完成并经底本结构核对：8个段落节点、5个非导航锚点均已覆盖；另保留导航锚点3，锚点顺序一致。估价之诉与准用之诉的术语及报酬约定问题见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.19.4",
+      "title": "De rerum permutatione / 论物之互易",
+      "fragments_translated": 2,
+      "source_anchors": 8,
+      "source_content_paragraphs": 11,
+      "file": "译稿/第十九卷/19.4-论物之互易.md",
+      "notes": "初稿完成并经底本结构核对：11个段落节点、8个非导航锚点均已覆盖；另含导航锚点4，锚点顺序一致。互易中 pretium/merx 的论证疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.19.5",
+      "title": "De praescriptis verbis et in factum actionibus / 论以限定词句提出之诉与事实之诉",
+      "fragments_translated": 26,
+      "source_anchors": 57,
+      "source_content_paragraphs": 100,
+      "file": "译稿/第十九卷/19.5-论以限定词句提出之诉与事实之诉.md",
+      "notes": "初稿完成并经底本结构复核：26个主片段、100个源段落节点及57个非导航锚点均已覆盖；另含导航锚点5，58个锚点顺序与底本完全一致。术语及关键法律关系疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.20.1",
+      "title": "De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum / 论质押与抵押及其成立方式和相关约定",
+      "fragments_translated": 35,
+      "source_anchors": 89,
+      "source_content_paragraphs": 147,
+      "file": "译稿/第二十卷/20.1-论质押与抵押及其成立方式和相关约定.md",
+      "notes": "初稿完成并经底本结构核对：35个片段、147个源段落节点及89个非导航锚点均已覆盖，另含导航锚点1；90个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.20.2",
+      "title": "In quibus causis pignus vel hypotheca tacite contrahitur / 论何种情形默示成立质押或抵押",
+      "fragments_translated": 10,
+      "source_anchors": 17,
+      "source_content_paragraphs": 35,
+      "file": "译稿/第二十卷/20.2-论何种情形默示成立质押或抵押.md",
+      "notes": "初稿完成并经底本结构核对；35个段落节点及17个非导航锚点均已覆盖，另含导航锚点5；18个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.20.3",
+      "title": "Quae res pignori vel hypothecae datae obligari non possunt / 论不得设质或抵押之物",
+      "fragments_translated": 5,
+      "source_anchors": 9,
+      "source_content_paragraphs": 18,
+      "file": "译稿/第二十卷/20.3-论不得设质或抵押之物.md",
+      "notes": "初稿完成并经底本结构核对；5个片段、18个段落节点及9个非导航锚点均已覆盖，另含导航锚点6；10个锚点顺序一致。题名拼写及两处法律问题见译校疑难表。"
+    },
+    {
+      "locator": "D.20.4",
+      "title": "Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum succedunt / 论质押或抵押中何者优先及代位于先顺位债权人地位者",
+      "fragments_translated": 21,
+      "source_anchors": 53,
+      "source_content_paragraphs": 88,
+      "file": "译稿/第二十卷/20.4-论质押或抵押中的优先顺位.md",
+      "notes": "初稿完成并经底本结构核对：21个片段、88个源段落节点及53个非导航锚点均已覆盖，另含导航锚点4；54个锚点顺序完全一致。质押顺位及代位范围的疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.20.5",
+      "title": "De distractione pignorum et hypothecarum / 论质押与抵押物的变卖",
+      "fragments_translated": 14,
+      "source_anchors": 24,
+      "source_content_paragraphs": 49,
+      "file": "译稿/第二十卷/20.5-论质押与抵押物的变卖.md",
+      "notes": "初稿完成并经底本结构核对：14个片段、49个源段落节点及24个非导航锚点均已覆盖，另含导航锚点5；25个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.20.6",
+      "title": "Quibus modis pignus vel hypotheca solvitur / 论质押或抵押以何种方式消灭",
+      "fragments_translated": 15,
+      "source_anchors": 61,
+      "source_content_paragraphs": 82,
+      "file": "译稿/第二十卷/20.6-论质押或抵押以何种方式消灭.md",
+      "notes": "初稿完成并经底本结构核对：15个片段、82个源段落节点及61个非导航锚点均已覆盖，另含导航锚点1；62个锚点顺序一致。疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.21.1",
+      "title": "De aedilicio edicto et redhibitione et quanti minoris / 论市政官告示、解除买卖及减价之诉",
+      "fragments_translated": 65,
+      "source_anchors": 259,
+      "source_content_paragraphs": 360,
+      "file": "译稿/第二十一卷/21.1-论市政官告示解除买卖及减价之诉.md",
+      "notes": "上下两段初稿已合并并经底本结构核对：360个源段落节点、259个非导航锚点均已覆盖，另含导航锚点1；260个锚点顺序完全一致。译文保留原编号；文本疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.21.2",
+      "title": "De evictionibus et duplae stipulatione / 论追夺与双倍担保要式承诺",
+      "fragments_translated": 76,
+      "source_anchors": 167,
+      "source_content_paragraphs": 292,
+      "file": "译稿/第二十一卷/21.2-论追夺与双倍担保要式承诺.md",
+      "notes": "上下两段初稿已合并并经底本结构核对：292个源段落节点、167个非导航锚点均已覆盖，另含导航锚点2；168个锚点顺序完全一致。译文保留原编号；疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.21.3",
+      "title": "De exceptione rei venditae et traditae / 论已出售并交付之物的抗辩",
+      "fragments_translated": 3,
+      "source_anchors": 12,
+      "source_content_paragraphs": 16,
+      "file": "译稿/第二十一卷/21.3-论已出售并交付之物的抗辩.md",
+      "notes": "初稿完成并经底本结构核对：3个片段、16个源段落节点及12个非导航锚点均已覆盖，另含导航锚点1；13个锚点顺序一致。疑点将在术语与全书校订阶段继续复核。"
+    },
+    {
+      "locator": "D.22.1",
+      "title": "De usuris et fructibus et causis et omnibus accessionibus et mora / 论利息、孳息、孳息原因、一切附加利益及迟延",
+      "fragments_translated": 49,
+      "source_anchors": 124,
+      "source_content_paragraphs": 202,
+      "file": "译稿/第二十二卷/22.1-论孳息利息及迟延.md",
+      "notes": "上下两段初稿已合并并经底本结构核对：202个源段落节点、124个非导航锚点均已覆盖，另含导航锚点1；125个锚点顺序一致。译文疑点已记录，待全书术语和法律语境复核。"
+    },
+    {
+      "locator": "D.22.2",
+      "title": "De nautico faenore / 论航海借贷",
+      "fragments_translated": 9,
+      "source_anchors": 14,
+      "source_content_paragraphs": 30,
+      "file": "译稿/第二十二卷/22.2-论航海借贷.md",
+      "notes": "初稿完成并经底本结构核对：9个分题、30个源段落节点及14个非导航锚点均已覆盖，另含导航锚点1；15个锚点顺序一致。疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.22.3",
+      "title": "De probationibus et praesumptionibus / 论证明与推定",
+      "fragments_translated": 29,
+      "source_anchors": 47,
+      "source_content_paragraphs": 100,
+      "file": "译稿/第二十二卷/22.3-论证明与推定.md",
+      "notes": "初稿完成并经底本结构核对：100个源段落节点、47个非导航锚点均已覆盖，另含导航锚点3；48个锚点顺序一致。文本疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.22.4",
+      "title": "De fide instrumentorum et amissione eorum / 论文书证及其灭失",
+      "fragments_translated": 6,
+      "source_anchors": 7,
+      "source_content_paragraphs": 19,
+      "file": "译稿/第二十二卷/22.4-论文书证及其灭失.md",
+      "notes": "初稿完成；19个源段落节点、7个非导航锚点及导航锚点4均已保留，8个锚点顺序一致。D.22.4.3 的程序事实表述待校。"
+    },
+    {
+      "locator": "D.22.5",
+      "title": "De testibus / 论证人",
+      "fragments_translated": 25,
+      "source_anchors": 44,
+      "source_content_paragraphs": 89,
+      "file": "译稿/第二十二卷/22.5-论证人.md",
+      "notes": "初稿完成并经底本结构核对：89个源段落节点、44个非导航锚点均已覆盖，另含导航锚点5；45个锚点顺序一致。疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.22.6",
+      "title": "De iuris et facti ignorantia / 论法律与事实上的不知",
+      "fragments_translated": 10,
+      "source_anchors": 25,
+      "source_content_paragraphs": 42,
+      "file": "译稿/第二十二卷/22.6-论法律与事实上的不知.md",
+      "notes": "初稿完成并经底本结构核对：42个源段落节点、25个非导航锚点均已覆盖，另含导航锚点6；26个锚点顺序一致。疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.23.1",
+      "title": "De sponsalibus / 论婚约",
+      "fragments_translated": 18,
+      "source_anchors": 25,
+      "source_content_paragraphs": 58,
+      "file": "译稿/第二十三卷/23.1-论婚约.md",
+      "notes": "初稿完成并经底本结构核对：58个源段落节点、25个非导航锚点均已覆盖，另含导航锚点1；26个锚点顺序一致。疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.23.2",
+      "title": "De ritu nuptiarum / 论婚姻仪式",
+      "fragments_translated": 68,
+      "source_anchors": 164,
+      "source_content_paragraphs": 280,
+      "file": "译稿/第二十三卷/23.2-论婚姻仪式.md",
+      "notes": "初稿完成并合并上下两部分；逐段核对280个源段落节点与164个非导航锚点，另含导航锚点2；底本锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.23.3",
+      "title": "De iure dotium / 论嫁资法",
+      "fragments_translated": 85,
+      "source_anchors": 179,
+      "source_content_paragraphs": 325,
+      "file": "译稿/第二十三卷/23.3-论嫁资法.md",
+      "notes": "初稿完成并经底本结构核对：325个源段落节点、179个非导航锚点均已覆盖，另含导航锚点3；180个锚点顺序一致。疑点见术语表、译校疑难表。"
+    },
+    {
+      "locator": "D.23.4",
+      "title": "De pactis dotalibus / 论嫁资约定",
+      "fragments_translated": 32,
+      "source_anchors": 57,
+      "source_content_paragraphs": 114,
+      "file": "译稿/第二十三卷/23.4-论嫁资约定.md",
+      "notes": "初稿完成；逐段核对114个源段落节点与57个非导航锚点，另含导航锚点4；底本锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.23.5",
+      "title": "De fundo dotali / 论嫁资土地",
+      "fragments_translated": 18,
+      "source_anchors": 42,
+      "source_content_paragraphs": 70,
+      "file": "译稿/第二十三卷/23.5-论嫁资土地.md",
+      "notes": "初稿完成并经底本结构核对：70个源段落节点、42个非导航锚点均已覆盖，另含导航锚点5；43个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.24.1",
+      "title": "De donationibus inter virum et uxorem / 论夫妻间赠与",
+      "fragments_translated": 67,
+      "source_anchors": 211,
+      "source_content_paragraphs": 320,
+      "file": "译稿/第二十四卷/24.1-论夫妻间赠与.md",
+      "notes": "初稿完成并经底本结构核对：320个源段落节点、211个非导航锚点均已覆盖，另含导航锚点1；212个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.24.2",
+      "title": "De divortiis et repudiis / 论离婚与婚姻解除",
+      "fragments_translated": 11,
+      "source_anchors": 19,
+      "source_content_paragraphs": 39,
+      "file": "译稿/第二十四卷/24.2-论离婚与婚姻解除.md",
+      "notes": "初稿完成并经底本结构核对：39个源段落节点、19个非导航锚点均已覆盖，另含导航锚点2；20个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.24.3",
+      "title": "Soluto matrimonio dos quemadmodum petatur / 论婚姻解除后如何请求返还嫁资",
+      "fragments_translated": 67,
+      "source_anchors": 165,
+      "source_content_paragraphs": 280,
+      "file": "译稿/第二十四卷/24.3-婚姻解除后如何请求返还嫁资.md",
+      "notes": "初稿完成并经底本结构核对：280个源段落节点、165个非导航锚点均已覆盖，另含导航锚点3；166个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.25.1",
+      "title": "De impensis in res dotales factis / 论对嫁资物所作费用",
+      "fragments_translated": 16,
+      "source_anchors": 32,
+      "source_content_paragraphs": 59,
+      "file": "译稿/第二十五卷/25.1-论对嫁资物所作费用.md",
+      "notes": "初稿完成并经底本结构核对：59个源段落节点、32个非导航锚点均已覆盖，另含导航锚点1；33个锚点顺序一致。D.25.1.5 底本异文已保留；疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.25.2",
+      "title": "De actione rerum amotarum / 论移取财物之诉",
+      "fragments_translated": 30,
+      "source_anchors": 64,
+      "source_content_paragraphs": 116,
+      "file": "译稿/第二十五卷/25.2-论移取财物之诉.md",
+      "notes": "初稿完成并经底本结构核对：116个源段落节点、64个非导航锚点均已覆盖，另含导航锚点2；65个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.25.3",
+      "title": "De agnoscendis et alendis liberis vel parentibus vel patronis vel libertis / 论承认与扶养",
+      "fragments_translated": 9,
+      "source_anchors": 63,
+      "source_content_paragraphs": 77,
+      "file": "译稿/第二十五卷/25.3-论承认与扶养.md",
+      "notes": "初稿完成并经底本结构核对：77个源段落节点、63个非导航锚点均已覆盖，另含导航锚点3；64个锚点顺序一致。疑难项待汇入译校疑难表。"
+    },
+    {
+      "locator": "D.25.4",
+      "title": "De inspiciendo ventre custodiendoque partu / 论妊娠检查与分娩监护",
+      "fragments_translated": 4,
+      "source_anchors": 23,
+      "source_content_paragraphs": 29,
+      "file": "译稿/第二十五卷/25.4-论妊娠检查与分娩监护.md",
+      "notes": "初稿完成并经底本结构核对：29个源段落节点、23个非导航锚点均已覆盖，另含导航锚点4；24个锚点顺序一致。长篇裁判官告示全文译出。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.25.5",
+      "title": "Si ventris nomine muliere in possessionem missa eadem possessio dolo malo ad alium translata esse dicatur / 论孕腹名义占有的恶意转移",
+      "fragments_translated": 2,
+      "source_anchors": 11,
+      "source_content_paragraphs": 13,
+      "file": "译稿/第二十五卷/25.5-论孕腹名义占有的恶意转移.md",
+      "notes": "初稿完成并经底本结构核对：13个源段落节点（源文件第282–294段）、11个非导航锚点均已覆盖，另含导航锚点5；12个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.25.6",
+      "title": "Si mulier ventris nomine in possessione calumniae causa esse dicetur / 论以胎儿名义恶意占有",
+      "fragments_translated": 1,
+      "source_anchors": 15,
+      "source_content_paragraphs": 16,
+      "file": "译稿/第二十五卷/25.6-论以胎儿名义恶意占有.md",
+      "notes": "初稿完成并经底本结构核对：16个源段落节点、15个非导航锚点均已覆盖，另含导航锚点6；16个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.25.7",
+      "title": "De concubinis / 论姘居关系",
+      "fragments_translated": 5,
+      "source_anchors": 13,
+      "source_content_paragraphs": 21,
+      "file": "译稿/第二十五卷/25.7-论姘居关系.md",
+      "notes": "初稿完成并经底本结构核对：21个源段落节点、13个非导航锚点均已覆盖，另含导航锚点7；14个锚点顺序一致。疑点待汇入译校疑难表。"
+    },
+    {
+      "locator": "D.26.1",
+      "title": "De tutelis / 论监护",
+      "fragments_translated": 18,
+      "source_anchors": 47,
+      "source_content_paragraphs": 75,
+      "file": "译稿/第二十六卷/26.1-论监护.md",
+      "notes": "初稿完成并经底本结构核对：75个源段落节点、47个非导航锚点均已覆盖，另含导航锚点1；48个锚点顺序一致。D.26.1.50底本文字疑误见译校疑难表。"
+    },
+    {
+      "locator": "D.26.2",
+      "title": "De testamentaria tutela / 论遗嘱监护",
+      "fragments_translated": 34,
+      "source_anchors": 81,
+      "source_content_paragraphs": 135,
+      "file": "译稿/第二十六卷/26.2-论遗嘱监护.md",
+      "notes": "初稿完成并经底本结构核对：135个源段落节点、81个非导航锚点均已覆盖，另含导航锚点2；82个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.3",
+      "title": "De confirmando tutore vel curatore / 论监护人或保佐人的确认",
+      "fragments_translated": 11,
+      "source_anchors": 22,
+      "source_content_paragraphs": 40,
+      "file": "译稿/第二十六卷/26.3-论监护人与保佐人的确认.md",
+      "notes": "初稿完成并经底本结构核对：40个源段落节点（源文件第211–250段）、22个非导航锚点均已覆盖，另含导航锚点3；23个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.4",
+      "title": "De legitimis tutoribus / 论法定监护人",
+      "fragments_translated": 11,
+      "source_anchors": 35,
+      "source_content_paragraphs": 53,
+      "file": "译稿/第二十六卷/26.4-论法定监护人.md",
+      "notes": "初稿完成并经底本结构核对：53个源段落节点、35个非导航锚点均已覆盖，另含导航锚点4；36个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.5",
+      "title": "De tutoribus et curatoribus datis ab his qui ius dandi habent, et qui et in quibus causis specialiter dari possunt / 论有权者指定监护人或保佐人",
+      "fragments_translated": 29,
+      "source_anchors": 56,
+      "source_content_paragraphs": 106,
+      "file": "译稿/第二十六卷/26.5-论监护人与保佐人的指定.md",
+      "notes": "初稿完成并经底本结构核对：106个源段落节点（源文件第304–409段）、56个非导航锚点均已覆盖，另含导航锚点5；57个锚点顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.6",
+      "title": "Qui petant tutores vel curatores et ubi petantur / 论请求指定监护人或保佐人的主体与地点",
+      "fragments_translated": 4,
+      "source_anchors": 17,
+      "source_content_paragraphs": 23,
+      "file": "译稿/第二十六卷/26.6-论监护人与保佐人的请求.md",
+      "notes": "初稿完成并经底本结构核对：23个源段落节点、17个非导航锚点均已覆盖，另含导航锚点6；18个锚点顺序一致。希腊文、拉丁释义与敕令引文均保留。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.7",
+      "title": "De administratione et periculo tutorum et curatorum / 论监护人与保佐人的管理及责任",
+      "fragments_translated": 61,
+      "source_anchors": 199,
+      "source_content_paragraphs": 298,
+      "file": "译稿/第二十六卷/26.7-论监护人与保佐人的管理及责任.md",
+      "notes": "初稿完成并经底本结构核对：298个源段落节点、200个总锚点（含导航锚点1个），199个正文锚点均已保留且顺序一致；源段落标记连续覆盖本标题全部298段。术语和疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.26.8",
+      "title": "De auctoritate et consensu tutorum et curatorum / 论监护人与保佐人的认可及同意",
+      "fragments_translated": 21,
+      "source_anchors": 41,
+      "source_content_paragraphs": 81,
+      "file": "译稿/第二十六卷/26.8-论监护人与保佐人的认可及同意.md",
+      "notes": "初稿完成并经底本结构核对：覆盖底本源段落731–811，共81段；42个总锚点中含导航锚点1个，其余41个均已保留且顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.9",
+      "title": "Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt / 论未成年人何时得因监护人或保佐人的行为提起诉讼或被诉",
+      "fragments_translated": 7,
+      "source_anchors": 10,
+      "source_content_paragraphs": 25,
+      "file": "译稿/第二十六卷/26.8-论监护人与保佐人的认可及同意.md",
+      "notes": "初稿完成并经底本结构核对：覆盖底本源段落812–836，共25段；11个总锚点中含导航锚点1个，其余10个均已保留且顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.26.10",
+      "title": "De suspectis tutoribus et curatoribus / 论有嫌疑的监护人和保佐人",
+      "fragments_translated": 12,
+      "source_anchors": 50,
+      "source_content_paragraphs": 70,
+      "file": "译稿/第二十六卷/26.8-论监护人与保佐人的认可及同意.md",
+      "notes": "初稿完成并经底本结构核对：覆盖底本源段落837–906，共70段；51个总锚点中含导航锚点1个，其余50个均已保留且顺序一致。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.1",
+      "title": "De excusationibus / 论监护职责的免责事由",
+      "fragments_translated": 46,
+      "source_anchors": 198,
+      "source_content_paragraphs": 265,
+      "files": [
+        "译稿/第二十七卷/27.1-论免责事由-上.md",
+        "译稿/第二十七卷/27.1-论免责事由-下.md"
+      ],
+      "notes": "初稿完成并经底本结构核对：上下两稿覆盖全节265个源段落；199个总锚点（含导航锚点1个）全部按顺序保留，源段落标记连续覆盖001–265。待核术语与疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.2",
+      "title": "Ubi pupillus educari vel morari debeat et de alimentis ei praestandis / 论受监护未成年人应在何处受教育或居住及其供养",
+      "fragments_translated": 6,
+      "source_anchors": 22,
+      "source_content_paragraphs": 31,
+      "file": "译稿/第二十七卷/27.2-论未成年人居所教育与供养.md",
+      "notes": "初稿完成并经底本结构核对：31个源段落节点、23个总锚点（含导航锚点1个）；其余22个锚点均已保留且顺序一致。D.27.2.4 句法及监护诉讼责任方向见译校疑难表。"
+    },
+    {
+      "locator": "D.27.3",
+      "title": "De tutelae et rationibus distrahendis et utili curationis causa actione / 论监护诉讼、账目侵吞之诉及因保佐而提起的利益诉讼",
+      "fragments_translated": 25,
+      "source_anchors": 72,
+      "source_content_paragraphs": 115,
+      "file": "译稿/第二十七卷/27.3-论监护诉讼.md",
+      "notes": "初稿完成并经底本结构核对：115个源段落、73个总锚点（含导航锚点1个）；72个正文锚点和001–115段落标记顺序准确。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.4",
+      "title": "De contraria tutelae et utili actione / 论反向监护之诉及利益诉讼",
+      "fragments_translated": 6,
+      "source_anchors": 26,
+      "source_content_paragraphs": 36,
+      "file": "译稿/第二十七卷/27.4-论反向监护之诉.md",
+      "notes": "初稿完成并经底本结构核对：36个源段落、27个总锚点（含导航锚点1个）；26个正文锚点和001–036段落标记顺序准确。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.5",
+      "title": "De eo qui pro tutore prove curatore negotia gessit / 论以监护人或保佐人身份管理事务者",
+      "fragments_translated": 5,
+      "source_anchors": 16,
+      "source_content_paragraphs": 25,
+      "file": "译稿/第二十七卷/27.5-论事务管理人.md",
+      "notes": "初稿完成并经底本结构核对：25个源段落、17个总锚点（含导航锚点1个）；16个正文锚点和001–025段落标记顺序准确。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.6",
+      "title": "Quod falso tutore auctore gestum esse dicatur / 论据称经虚假监护人授权实施的行为",
+      "fragments_translated": 12,
+      "source_anchors": 32,
+      "source_content_paragraphs": 52,
+      "file": "译稿/第二十七卷/27.6-论虚假监护人授权行为.md",
+      "notes": "初稿完成并经底本结构核对：52个源段落节点、33个总锚点（含导航锚点1个），其余32个锚点顺序准确；疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.7",
+      "title": "De fideiussoribus et nominatoribus et heredibus tutorum et curatorum / 论监护人与保佐人的保证人、指定人与继承人",
+      "fragments_translated": 8,
+      "source_anchors": 17,
+      "source_content_paragraphs": 30,
+      "file": "译稿/第二十七卷/27.7-论保证人与指定人.md",
+      "notes": "初稿完成并经底本结构核对：30个源段落、18个总锚点（含导航锚点1个）；17个正文锚点及段落标记顺序准确。术语疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.8",
+      "title": "De magistratibus conveniendis / 论对官员提起诉讼",
+      "fragments_translated": 9,
+      "source_anchors": 28,
+      "source_content_paragraphs": 45,
+      "file": "译稿/第二十七卷/27.8-论对官员提起诉讼.md",
+      "notes": "初稿完成并经底本结构核对：45个源段落、29个总锚点（含导航锚点1个）；28个正文锚点及段落标记顺序准确。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.9",
+      "title": "De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis / 论未经裁定不得处分受监护或保佐者的财物",
+      "fragments_translated": 14,
+      "source_anchors": 56,
+      "source_content_paragraphs": 78,
+      "file": "译稿/第二十七卷/27.9-论监护或保佐财产处分.md",
+      "notes": "初稿完成并经底本结构核对：78个源段落；底本57个锚点（含导航锚点1个）均按顺序保留。题名锚点与底本一致，无额外重复锚点。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.27.10",
+      "title": "De curatoribus furioso et aliis extra minores dandis / 论为精神失常者及未成年人以外之人指定保佐人",
+      "fragments_translated": 17,
+      "source_anchors": 32,
+      "source_content_paragraphs": 61,
+      "file": "译稿/第二十七卷/27.10-论为精神失常者等指定保佐人.md",
+      "notes": "初稿完成并经底本结构核对：61个源段落、33个总锚点（含导航锚点1个）；32个正文锚点和源段落标记顺序准确。疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.28.1",
+      "title": "Qui testamenta facere possunt et quemadmodum testamenta fiant / 论何人可以订立遗嘱及遗嘱的订立方式",
+      "fragments_translated": 31,
+      "source_anchors": 71,
+      "source_content_paragraphs": 124,
+      "file": "译稿/第二十八卷/28.1-论遗嘱能力与订立方式.md",
+      "notes": "初稿完成并经底本结构核对：124个源段落、72个总锚点（含导航锚点1个）；71个正文锚点和001–124标记均与底本顺序一致。题名拼写及个别术语疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.28.2",
+      "title": "De liberis et postumis heredibus instituendis vel exheredandis / 论指定子女及遗腹人为继承人或剥夺其继承权",
+      "fragments_translated": 32,
+      "source_anchors": 82,
+      "source_content_paragraphs": 136,
+      "file": "译稿/第二十八卷/28.2-论指定或剥夺子女继承人身份.md",
+      "notes": "初稿完成并经底本结构核对：136个源段落、83个总锚点（含导航锚点1个）；82个正文锚点和001–136标记均按底本顺序覆盖。底本疑误及术语待核项见译校疑难表。"
+    },
+    {
+      "locator": "D.28.3",
+      "title": "De iniusto rupto irrito facto testamento / 论不合法、被撤销或无效的遗嘱",
+      "fragments_translated": 20,
+      "source_anchors": 49,
+      "source_content_paragraphs": 84,
+      "file": "译稿/第二十八卷/28.3-论不合法撤销与失效遗嘱.md",
+      "notes": "初稿完成并经底本结构核对：84个源段落、50个总锚点（含导航锚点1个）；49个正文锚点和001–084标记顺序准确。遗腹人及遗嘱撤销疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.28.4",
+      "title": "De his quae in testamento delentur inducuntur vel inscribuntur / 论遗嘱文字的删去、涂改与插写",
+      "fragments_translated": 4,
+      "source_anchors": 11,
+      "source_content_paragraphs": 18,
+      "file": "译稿/第二十八卷/28.4-论遗嘱文字删改与插写.md",
+      "notes": "初稿完成并经底本结构核对：18个源段落、12个总锚点（含导航锚点1个）；11个正文锚点及001–018标记顺序准确。删改遗嘱与无遗嘱继承效果的疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.28.5",
+      "title": "De heredibus instituendis / 论遗嘱指定继承人",
+      "fragments_translated": 93,
+      "source_anchors": 233,
+      "source_content_paragraphs": 383,
+      "files": [
+        "译稿/第二十八卷/28.5-论遗嘱指定继承人-01.md",
+        "译稿/第二十八卷/28.5-论遗嘱指定继承人-02.md",
+        "译稿/第二十八卷/28.5-论遗嘱指定继承人-03.md",
+        "译稿/第二十八卷/28.5-论遗嘱指定继承人-04.md"
+      ],
+      "notes": "初稿完成并经底本结构核对：383个源段落、233个锚点；四段译稿 source-p 001–383 连续，所有锚点顺序与底本一致。遗产份额计算、遗嘱替补及个别疑文见译校疑难表。"
+    },
+    {
+      "locator": "D.28.6",
+      "title": "De vulgari et pupillari substitutione / 论普通替补与未适婚人替补继承",
+      "fragments_translated": 48,
+      "source_anchors": 115,
+      "source_content_paragraphs": 192,
+      "file": "译稿/第二十八卷/28.6-论普通替补与未适婚人替补继承.md",
+      "notes": "初稿完成并经底本结构核对：192个源段落、115个锚点；source-p 001–192 连续，锚点顺序与底本一致。替补顺位及遗产份额计算疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.28.7",
+      "title": "De condicionibus institutionum / 论指定继承人的条件",
+      "fragments_translated": 28,
+      "source_anchors": 52,
+      "source_content_paragraphs": 100,
+      "file": "译稿/第二十八卷/28.7-论指定继承人的条件.md",
+      "notes": "初稿完成并经底本结构核对：100个源段落、52个锚点；source-p 001–100 连续，锚点顺序与底本一致。条件句法、遗嘱信托及孙辈替补继承疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.28.8",
+      "title": "De iure deliberandi / 论考虑期间",
+      "fragments_translated": 11,
+      "source_anchors": 22,
+      "source_content_paragraphs": 40,
+      "file": "译稿/第二十八卷/28.8-论考虑期间.md",
+      "notes": "初稿完成并经底本结构核对：40个源段落、22个锚点；source-p 001–040 连续，锚点顺序与底本一致。省略谓语及自由民身份等疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.29.1",
+      "title": "De testamento militis / 论军人遗嘱",
+      "fragments_translated": 36,
+      "source_anchors": 105,
+      "source_content_paragraphs": 176,
+      "file": "译稿/第二十九卷/29.1-论军人遗嘱.md",
+      "notes": "初稿完成并经底本结构核对：176个源段落、105个锚点；source-p 001–176 连续，所有锚点顺序与底本一致。军人遗嘱期限及个别拉丁文疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.29.2",
+      "title": "De adquirenda vel omittenda hereditate / 论取得或抛弃继承",
+      "fragments_translated": 99,
+      "source_anchors": 220,
+      "source_content_paragraphs": 388,
+      "files": [
+        "译稿/第二十九卷/29.2-论取得或抛弃继承-01.md",
+        "译稿/第二十九卷/29.2-论取得或抛弃继承-02.md"
+      ],
+      "notes": "初稿完成并经底本结构核对：388个源段落、220个锚点；两部分题内 source-p 001–388 连续，全部锚点与底本顺序一致。继承接受、拒绝及遗腹人等疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.29.3",
+      "title": "Testamenta quemadmodum aperiantur inspiciantur et describantur / 论遗嘱如何开启、查看及抄录",
+      "fragments_translated": 12,
+      "source_anchors": 30,
+      "source_content_paragraphs": 50,
+      "file": "译稿/第二十九卷/29.3-论遗嘱开启查看与抄录.md",
+      "notes": "初稿完成并经底本结构核对：50个源段落、30个锚点；source-p 001–050 连续，所有锚点顺序与底本一致。遗嘱文书检查范围及副本效力见译校疑难表。"
+    },
+    {
+      "locator": "D.29.4",
+      "title": "Si quis omissa causa testamenti ab intestato vel alio modo possideat hereditatem / 论舍弃遗嘱而按无遗嘱或其他依据占有遗产",
+      "fragments_translated": 30,
+      "source_anchors": 82,
+      "source_content_paragraphs": 129,
+      "file": "译稿/第二十九卷/29.4-论舍弃遗嘱而占有遗产.md",
+      "notes": "初稿完成并经底本结构核对：129个源段落、82个锚点；source-p 001–129 连续，锚点顺序与底本一致。告示适用、遗赠顺位及继承份额疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.29.5",
+      "title": "De senatus consulto Silaniano et Claudiano: quorum testamenta ne aperiantur / 论西拉努斯与克劳狄乌斯元老院决议：不得开启其遗嘱之人的遗嘱",
+      "fragments_translated": 27,
+      "source_content_paragraphs": 166,
+      "source_anchors": 122,
+      "file": "译稿/第二十九卷/29.5-论西拉努斯与克劳狄乌斯元老院决议.md",
+      "notes": "初稿完成；全局源 P744–P909 的166个段落、122个锚点已逐项核对。疑难事项见译校疑难表。"
+    },
+    {
+      "locator": "D.29.6",
+      "title": "Si quis aliquem testari prohibuerit vel coegerit / 论禁止或强迫他人立遗嘱",
+      "fragments_translated": 3,
+      "source_anchors": 11,
+      "source_content_paragraphs": 14,
+      "file": "译稿/第二十九卷/29.6-论禁止或强迫他人立遗嘱.md",
+      "notes": "初稿完成并经底本结构核对：14个源段落、11个锚点；source-p 连续，锚点顺序与底本一致。失权遗产术语见译校疑难表。"
+    },
+    {
+      "locator": "D.29.7",
+      "title": "De iure codicillorum / 论遗嘱附录",
+      "fragments_translated": 20,
+      "source_anchors": 48,
+      "source_content_paragraphs": 80,
+      "file": "译稿/第二十九卷/29.7-论遗嘱附录.md",
+      "notes": "初稿完成并经底本结构核对：80个源段落、48个锚点；source-p 连续，锚点顺序与底本一致。底本文字疑误及残句见译校疑难表。"
+    },
+    {
+      "locator": "D.30.1",
+      "title": "De legatis et fideicommissis / 论遗赠与遗嘱信托",
+      "fragments_translated": 128,
+      "source_content_paragraphs": 647,
+      "source_anchors": 450,
+      "files": [
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-01.md",
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-02.md",
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-03.md",
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-04.md",
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-06.md",
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-05.md",
+        "译稿/第三十卷/30.1-论遗赠与遗嘱信托-07.md"
+      ],
+      "notes": "初稿完成；source-p 1–647连续覆盖，450个锚点与底本顺序完全一致；分段编号与文件名不按源段落顺序排列，合并时按source-p排序。疑难事项见译校疑难表。"
+    },
+    {
+      "locator": "D.31.1",
+      "title": "De legatis et fideicommissis / 论遗赠与遗嘱信托",
+      "fragments_translated": 89,
+      "source_content_paragraphs": 419,
+      "source_anchors": 277,
+      "files": [
+        "译稿/第三十一卷/31.1-论遗赠与遗嘱信托-01.md",
+        "译稿/第三十一卷/31.1-论遗赠与遗嘱信托-02.md",
+        "译稿/第三十一卷/31.1-论遗赠与遗嘱信托-03.md",
+        "译稿/第三十一卷/31.1-论遗赠与遗嘱信托-04.md"
+      ],
+      "notes": "初稿完成；source-p 1–419连续覆盖，277个锚点与底本顺序完全一致。分段完成后按source-p核对合并。疑难事项见译校疑难表。"
+    },
+    {
+      "locator": "D.32.1",
+      "title": "De legatis et fideicommissis / 论遗赠与遗嘱信托",
+      "fragments_translated": 103,
+      "source_content_paragraphs": 528,
+      "source_anchors": 370,
+      "files": [
+        "译稿/第三十二卷/32.1-论遗赠与遗嘱信托-01.md",
+        "译稿/第三十二卷/32.1-论遗赠与遗嘱信托-02.md",
+        "译稿/第三十二卷/32.1-论遗赠与遗嘱信托-03.md",
+        "译稿/第三十二卷/32.1-论遗赠与遗嘱信托-04.md"
+      ],
+      "notes": "初稿完成；source-p 1–528连续覆盖，370个锚点与底本顺序完全一致。希腊文转写及拉丁释文均保留；疑难事项见译校疑难表。"
+    },
+    {
+      "locator": "D.33.1",
+      "title": "De annuis legatis et fideicommissis / 论按年给付的遗赠与遗嘱信托",
+      "fragments_translated": 55,
+      "source_content_paragraphs": 96,
+      "anchors_verified": 55,
+      "notes": "初稿完成；source-p 001–096 连续，55 个原文锚点（含独立题名锚点）顺序一致；疑难见译校疑难表。",
+      "file": "译稿/第三十三卷/33.1-论按年给付的遗赠与遗嘱信托.md"
+    },
+    {
+      "locator": "D.33.2",
+      "title": "De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis / 论通过遗赠或遗嘱信托设定的使用权、用益权、收益、居住权与劳务",
+      "fragments_translated": 70,
+      "source_content_paragraphs": 147,
+      "anchors_verified": 70,
+      "files": [
+        "译稿/第三十三卷/D33-source-p097-212.md",
+        "译稿/第三十三卷/D33-source-p213-424.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.3",
+      "title": "De servitute legata / 论地役权的遗赠",
+      "fragments_translated": 9,
+      "source_content_paragraphs": 22,
+      "anchors_verified": 9,
+      "files": [
+        "译稿/第三十三卷/D33-source-p213-424.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.4",
+      "title": "De dote praelegata / 论预先遗赠的嫁资",
+      "fragments_translated": 47,
+      "source_content_paragraphs": 75,
+      "anchors_verified": 47,
+      "files": [
+        "译稿/第三十三卷/D33-source-p213-424.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.5",
+      "title": "De optione vel electione legata / 论选择权或选择的遗赠",
+      "fragments_translated": 37,
+      "source_content_paragraphs": 76,
+      "anchors_verified": 37,
+      "files": [
+        "译稿/第三十三卷/D33-source-p213-424.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.6",
+      "title": "De tritico vino vel oleo legato / 论小麦、葡萄酒或橄榄油的遗赠",
+      "fragments_translated": 32,
+      "source_content_paragraphs": 58,
+      "anchors_verified": 32,
+      "files": [
+        "译稿/第三十三卷/D33-source-p213-424.md",
+        "译稿/第三十三卷/D33-source-p425-636.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.7",
+      "title": "De instructo vel instrumento legato / 论配置物与器具的遗赠",
+      "fragments_translated": 138,
+      "source_content_paragraphs": 179,
+      "anchors_verified": 138,
+      "files": [
+        "译稿/第三十三卷/D33-source-p425-636.md",
+        "译稿/第三十三卷/33.7-33.10-源段637-848.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.8",
+      "title": "De peculio legato / 论特有产的遗赠",
+      "fragments_translated": 56,
+      "source_content_paragraphs": 101,
+      "anchors_verified": 56,
+      "files": [
+        "译稿/第三十三卷/33.7-33.10-源段637-848.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.9",
+      "title": "De penu legata / 论食品储备的遗赠",
+      "fragments_translated": 30,
+      "source_content_paragraphs": 40,
+      "anchors_verified": 30,
+      "files": [
+        "译稿/第三十三卷/33.7-33.10-源段637-848.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.33.10",
+      "title": "De suppellectile legata / 论家具的遗赠",
+      "fragments_translated": 32,
+      "source_content_paragraphs": 54,
+      "anchors_verified": 32,
+      "files": [
+        "译稿/第三十三卷/33.7-33.10-源段637-848.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.34.1",
+      "title": "De alimentis vel cibariis legatis / 论遗赠的生活给养与食物给养",
+      "fragments_translated": 60,
+      "source_content_paragraphs": 94,
+      "anchors_verified": 60,
+      "notes": "初稿完成；source-p 001–094 连续，60 个原文锚点顺序一致；底本文字与句法疑难见译校疑难表。",
+      "file": "译稿/第三十四卷/34.1-论遗赠的生活给养.md"
+    },
+    {
+      "locator": "D.34.2",
+      "title": "De auro argento mundo ornamentis unguentis veste vel vestimentis et statuis legatis / 论金银、妆具、装饰品、香料、衣物及雕像的遗赠",
+      "fragments_translated": 124,
+      "source_content_paragraphs": 188,
+      "anchors_verified": 124,
+      "files": [
+        "译稿/第三十四卷/34.2-论遗赠的金银器具装饰品香料衣物及雕像.md"
+      ],
+      "notes": "逐段覆盖与底本锚点顺序已核对。"
+    },
+    {
+      "locator": "D.34.3",
+      "title": "De liberatione legata / 论以遗赠方式免除债务",
+      "fragments_translated": 92,
+      "source_content_paragraphs": 142,
+      "anchors_verified": 92,
+      "files": [
+        "译稿/第三十四卷/34.3-论以遗赠方式免除债务-01.md",
+        "译稿/第三十四卷/34.3-论以遗赠方式免除债务-02.md",
+        "译稿/第三十四卷/34.3-论以遗赠方式免除债务-03.md",
+        "译稿/第三十四卷/34.3-论以遗赠方式免除债务-04.md"
+      ],
+      "notes": "source-p 283–424 连续覆盖，92 个原文锚点已按顺序与底本核对。"
+    },
+    {
+      "locator": "D.34.4",
+      "title": "De adimendis vel transferendis legatis vel fideicommissis / 论遗赠与遗嘱信托的撤回或转移",
+      "fragments_translated": 73,
+      "source_content_paragraphs": 125,
+      "anchors_verified": 73,
+      "file": "译稿/第三十四卷/34.4-论遗赠与遗嘱信托的撤回或转移.md",
+      "notes": "底本 source-p 425–549 全部覆盖，锚点顺序已核对。"
+    },
+    {
+      "locator": "D.34.5",
+      "title": "De rebus dubiis / 论疑义事项",
+      "fragments_translated": 58,
+      "source_content_paragraphs": 106,
+      "anchors_verified": 58,
+      "file": "译稿/第三十四卷/34.5-论疑义事项.md",
+      "notes": "source-p 550–655 连续覆盖，58 个原文锚点与底本顺序一致。"
+    },
+    {
+      "locator": "D.34.6",
+      "title": "De his quae poenae causa relinquuntur / 论以惩罚为目的的遗赠",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 7,
+      "anchors_verified": 4,
+      "file": "译稿/第三十四卷/34.6-34.7-论惩罚目的的遗赠与卡托规则.md",
+      "notes": "底本 source-p 656–662 全部覆盖，锚点顺序已核对。"
+    },
+    {
+      "locator": "D.34.7",
+      "title": "De regula Catoniana / 论卡托规则",
+      "fragments_translated": 10,
+      "source_content_paragraphs": 18,
+      "anchors_verified": 10,
+      "file": "译稿/第三十四卷/34.6-34.7-论惩罚目的的遗赠与卡托规则.md",
+      "notes": "底本 source-p 663–680 全部覆盖，锚点顺序已核对。"
+    },
+    {
+      "locator": "D.34.8",
+      "title": "De his quae pro non scriptis habentur / 论视为未书写的事项",
+      "fragments_translated": 12,
+      "source_content_paragraphs": 19,
+      "anchors_verified": 12,
+      "file": "译稿/第三十四卷/34.8-34.9-论视为未书写及不适格人被剥夺的遗赠.md",
+      "notes": "source-p 681–699；与 D.34.9 合并文件，锚点顺序经合并审计。"
+    },
+    {
+      "locator": "D.34.9",
+      "title": "De his quae ut indignis auferuntur / 论从不适格者处剥夺的遗赠",
+      "fragments_translated": 64,
+      "source_content_paragraphs": 109,
+      "anchors_verified": 64,
+      "file": "译稿/第三十四卷/34.8-34.9-论视为未书写及不适格人被剥夺的遗赠.md",
+      "notes": "source-p 700–808；与 D.34.8 合并文件，锚点顺序经合并审计。"
+    },
+    {
+      "locator": "D.35.1",
+      "title": "De condicionibus et demonstrationibus et causis et modis eorum, quae in testamento scribuntur / 论遗嘱所载条件、说明、原因与方式",
+      "fragments_translated": 233,
+      "source_content_paragraphs": 422,
+      "anchors_verified": 233,
+      "files": [
+        "译稿/第三十五卷/35.1-论遗嘱所载条件说明原因与方式-01.md",
+        "译稿/第三十五卷/35.1-论遗嘱所载条件说明原因与方式-02.md",
+        "译稿/第三十五卷/35.1-论遗嘱所载条件说明原因与方式-03.md",
+        "译稿/第三十五卷/35.1-论遗嘱所载条件说明原因与方式-04.md"
+      ],
+      "notes": "source-p 001–422 连续覆盖；233 个原文锚点与底本顺序逐项一致。疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.35.2",
+      "title": "Ad legem Falcidiam / 论《法尔基第法》",
+      "fragments_translated": 249,
+      "source_content_paragraphs": 402,
+      "anchors_verified": 249,
+      "file": "译稿/第三十五卷/35.2-论法尔基第法.md",
+      "notes": "source-p 423–824 连续覆盖，249 个原文锚点与底本顺序一致；复杂份额计算与底本文字疑误见译校疑难表。"
+    },
+    {
+      "locator": "D.35.3",
+      "title": "Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur / 论被称为超过法尔基第法许可限额的遗赠",
+      "fragments_translated": 42,
+      "source_content_paragraphs": 56,
+      "anchors_verified": 42,
+      "file": "译稿/第三十五卷/35.3-论法尔基第法许可限额之外的遗赠.md",
+      "notes": "source-p 825–880 连续覆盖，42 个原文锚点数量与顺序一致；P846 源段截断及 D.35.3.7、.5 解释疑点列入译校疑难表。"
+    },
+    {
+      "locator": "D.36.1",
+      "title": "Ad senatus consultum Trebellianum / 论特雷贝利安元老院决议",
+      "fragments_translated": 318,
+      "source_content_paragraphs": 447,
+      "anchors_verified": 318,
+      "files": [
+        "译稿/第三十六卷/36.1-论特雷贝利安元老院决议-01.md",
+        "译稿/第三十六卷/36.1-论特雷贝利安元老院决议-02.md"
+      ],
+      "notes": "source-p 001–447 分两段连续覆盖；318 个锚点与底本顺序一致。底本缺损、异文及若干遗产返还与替补继承问题见译校疑难表。"
+    },
+    {
+      "locator": "D.36.2",
+      "title": "Quando dies legatorum vel fideicommissorum cedat / 论遗赠或遗嘱信托履行期何时届至",
+      "fragments_translated": 86,
+      "source_content_paragraphs": 134,
+      "anchors_verified": 86,
+      "files": [
+        "译稿/第三十六卷/36.2-论遗赠与遗嘱信托履行期-01.md",
+        "译稿/第三十六卷/36.2-论遗赠与遗嘱信托履行期-02.md",
+        "译稿/第三十六卷/36.2-论遗赠与遗嘱信托履行期-03.md"
+      ],
+      "notes": "source-p 448–581 连续覆盖；86 个原文锚点与底本顺序一致。个别句法与遗赠金额疑点列入译校疑难表。"
+    },
+    {
+      "locator": "D.36.3",
+      "title": "Ut legatorum seu fideicommissorum servandorum causa caveatur / 为保障遗赠或遗嘱信托履行而提供担保",
+      "fragments_translated": 56,
+      "source_content_paragraphs": 85,
+      "anchors_verified": 56,
+      "file": "译稿/第三十六卷/36.3-论为保障遗赠或遗嘱信托履行而提供担保.md",
+      "notes": "source-p 582–666 连续覆盖，56 个原文锚点顺序一致；程序与担保疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.36.4",
+      "title": "Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat / 论为保障遗赠或遗嘱信托履行而准予占有遗产",
+      "fragments_translated": 65,
+      "source_content_paragraphs": 92,
+      "anchors_verified": 65,
+      "file": "译稿/第三十六卷/36.4-论为保障遗赠或遗嘱信托履行而准予占有.md",
+      "notes": "source-p 667–758 连续覆盖，65 个源锚点与底本顺序一致；担保请求关系及残文见译校疑难表。"
+    },
+    {
+      "locator": "D.37.1",
+      "title": "De bonorum possessionibus / 论遗产占有",
+      "fragments_translated": 36,
+      "source_content_paragraphs": 63,
+      "anchors_verified": 36,
+      "file": "译稿/第三十七卷/37.1-论遗产占有.md",
+      "notes": "source-p 001–063 连续覆盖，36 个锚点与底本顺序一致；D.37.1.6.pr. 底本疑字见译校疑难表。"
+    },
+    {
+      "locator": "D.37.2",
+      "title": "Si tabulae testamenti extabunt / 论遗嘱书板仍然存在时",
+      "fragments_translated": 3,
+      "source_content_paragraphs": 4,
+      "anchors_verified": 3,
+      "file": "译稿/第三十七卷/37.2-论遗嘱书板仍然存在时.md",
+      "notes": "source-p 064–067 连续覆盖，3 个锚点与底本顺序一致。"
+    },
+    {
+      "locator": "D.37.3",
+      "title": "De bonorum possessione furioso infanti muto surdo caeco competente / 论精神失常者、婴儿、哑者、聋者及盲人可取得的遗产占有",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 7,
+      "anchors_verified": 4,
+      "file": "译稿/第三十七卷/37.3-论精神失常者婴儿聋哑盲人可取得的遗产占有.md",
+      "notes": "source-p 068–074 连续覆盖，4 个锚点与底本顺序一致。"
+    },
+    {
+      "locator": "D.37.4",
+      "title": "De bonorum possessione contra tabulas / 论违遗嘱的遗产占有",
+      "fragments_translated": 100,
+      "source_content_paragraphs": 128,
+      "anchors_verified": 100,
+      "file": "译稿/第三十七卷/37.4-论违遗嘱的遗产占有.md",
+      "notes": "source-p 075–202 连续覆盖，100 个锚点与底本顺序一致；遗产占有顺位、份额及校勘疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.37.5",
+      "title": "De legatis praestandis contra tabulas bonorum possessione petita / 请求违遗嘱的遗产占有时应履行的遗赠",
+      "fragments_translated": 70,
+      "source_content_paragraphs": 110,
+      "anchors_verified": 70,
+      "file": "译稿/第三十七卷/37.5-请求违遗嘱的遗产占有时应履行的遗赠.md",
+      "notes": "source-p 203–312 连续覆盖，70 个锚点与底本顺序一致；残句、异文与份额计算见译校疑难表。"
+    },
+    {
+      "locator": "D.37.6",
+      "title": "De collatione bonorum / 论财产归并",
+      "fragments_translated": 60,
+      "source_content_paragraphs": 79,
+      "anchors_verified": 60,
+      "files": [
+        "译稿/第三十七卷/37.6-论财产归并-01.md",
+        "译稿/第三十七卷/37.6-论财产归并-02.md",
+        "译稿/第三十七卷/37.6-论财产归并-03.md"
+      ],
+      "notes": "source-p 313–391 连续覆盖，60 个锚点与底本顺序一致；财产范围及多代继承人份额有待总校事项。"
+    },
+    {
+      "locator": "D.37.7",
+      "title": "De dotis collatione / 论嫁资归并",
+      "fragments_translated": 23,
+      "source_content_paragraphs": 38,
+      "anchors_verified": 23,
+      "file": "译稿/第三十七卷/37.7-论嫁资的归并.md",
+      "notes": "source-p 392–429 连续覆盖，23 个锚点与底本顺序一致；已与一般财产归并区分术语。"
+    },
+    {
+      "locator": "D.37.8",
+      "title": "De coniungendis cum emancipato liberis eius / 论与解放者共同取得遗产占有的子女",
+      "fragments_translated": 27,
+      "source_content_paragraphs": 39,
+      "anchors_verified": 27,
+      "file": "译稿/第三十七卷/37.8-论已解放者与其子女共同取得遗产占有.md",
+      "notes": "source-p 430–468 连续覆盖，27 个锚点与底本顺序一致；亲属份额计算见译校疑难表。"
+    },
+    {
+      "locator": "D.37.9",
+      "title": "De ventre in possessionem mittendo et curatore eius / 论将胎儿置于遗产占有及为其指定保佐人",
+      "fragments_translated": 48,
+      "source_content_paragraphs": 63,
+      "anchors_verified": 48,
+      "file": "译稿/第三十七卷/37.9-论胎儿取得遗产占有及其保佐人.md",
+      "notes": "source-p 469–531 连续覆盖，48 个锚点与底本顺序一致；怀孕及身份争议程序见译校疑难表。"
+    },
+    {
+      "locator": "D.37.10",
+      "title": "De Carboniano edicto / 论卡尔波尼安告示",
+      "fragments_translated": 71,
+      "source_content_paragraphs": 96,
+      "anchors_verified": 71,
+      "file": "译稿/第三十七卷/37.10-论卡尔波尼安告示.md",
+      "notes": "source-p 532–627 连续覆盖；71 个底本锚点与译稿顺序一致。"
+    },
+    {
+      "locator": "D.37.11",
+      "title": "De bonorum possessione secundum tabulas / 论依遗嘱书板取得的遗产占有",
+      "fragments_translated": 46,
+      "source_content_paragraphs": 64,
+      "anchors_verified": 46,
+      "file": "译稿/第三十七卷/37.11-论依遗嘱书板取得遗产占有.md",
+      "notes": "source-p 628–691 连续覆盖；46 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.37.12",
+      "title": "Si a parente quis manumissus sit / 论某人由尊亲属解放为自由人时的情形",
+      "fragments_translated": 16,
+      "source_content_paragraphs": 23,
+      "anchors_verified": 16,
+      "file": "译稿/第三十七卷/37.12-论某人由尊亲属解放时.md",
+      "notes": "source-p 692–714 连续覆盖；16 个底本锚点顺序一致；P711 与 P714 的词义和底本拼写疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.37.13",
+      "title": "De bonorum possessione ex testamento militis / 论依军人遗嘱取得遗产占有",
+      "fragments_translated": 6,
+      "source_content_paragraphs": 6,
+      "anchors_verified": 6,
+      "file": "译稿/第三十七卷/37.13-论依军人遗嘱取得遗产占有.md",
+      "notes": "source-p 715–720 连续覆盖，6 个底本锚点与译稿顺序一致；P718 底本拼接疑文已标注。"
+    },
+    {
+      "locator": "D.37.14",
+      "title": "De iure patronatus / 论释奴保护人权利",
+      "fragments_translated": 51,
+      "source_content_paragraphs": 89,
+      "anchors_verified": 51,
+      "files": [
+        "译稿/第三十七卷/37.14-论释奴保护人权利-01.md",
+        "译稿/第三十七卷/37.14-论释奴保护人权利-02.md",
+        "译稿/第三十七卷/37.14-论释奴保护人权利-03.md"
+      ],
+      "notes": "source-p 721–809 连续覆盖；51 个底本锚点与译稿顺序一致。P756、P777–779、P782–783、P796–798、P806 的疑点列入译校疑难表。"
+    },
+    {
+      "locator": "D.37.15",
+      "title": "De obsequiis parentibus et patronis praestandis / 论对父母与释奴保护人应尽的敬礼义务",
+      "fragments_translated": 27,
+      "source_content_paragraphs": 44,
+      "anchors_verified": 27,
+      "file": "译稿/第三十七卷/37.15-论对父母与释奴保护人应尽的敬礼义务.md",
+      "notes": "source-p 810–853 连续覆盖；27 个底本锚点顺序一致；P838、P839、P850 语义疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.38.1",
+      "title": "De operis libertorum / 论被释奴的劳务",
+      "fragments_translated": 118,
+      "source_content_paragraphs": 199,
+      "anchors_verified": 118,
+      "file": "译稿/第三十八卷/38.1-论被释奴的劳务.md",
+      "notes": "source-p 001–199 连续覆盖；118 个底本锚点与译稿顺序一致。"
+    },
+    {
+      "locator": "D.38.2",
+      "title": "De bonis libertorum / 论被释奴的财产",
+      "fragments_translated": 170,
+      "source_content_paragraphs": 249,
+      "anchors_verified": 170,
+      "file": "译稿/第三十八卷/38.2-论被释奴的财产.md",
+      "notes": "source-p 200–448 连续覆盖；170 个底本锚点与译稿顺序一致；财产处分、替补继承和担保疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.38.3",
+      "title": "De libertis universitatium / 论市镇共同体的被释奴",
+      "fragments_translated": 6,
+      "source_content_paragraphs": 6,
+      "anchors_verified": 6,
+      "file": "译稿/第三十八卷/38.3-论市镇共同体的被释奴.md",
+      "notes": "source-p 449–454 连续覆盖；6 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.38.4",
+      "title": "De adsignandis libertis / 论将被释奴指定给子女",
+      "fragments_translated": 41,
+      "source_content_paragraphs": 61,
+      "anchors_verified": 41,
+      "file": "译稿/第三十八卷/38.4-论将被释奴指定给子女.md",
+      "notes": "source-p 455–515 连续覆盖；41 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.38.5",
+      "title": "Si quid in fraudem patroni factum sit / 论为诈害释奴保护人而实施的行为",
+      "fragments_translated": 54,
+      "source_content_paragraphs": 75,
+      "anchors_verified": 54,
+      "file": "译稿/第三十八卷/38.5-论为诈害释奴保护人而实施的行为.md",
+      "notes": "source-p 516–590 连续覆盖；54 个底本锚点顺序一致；*Faviana/Fabiana* 等底本异拼见译校疑难表。"
+    },
+    {
+      "locator": "D.38.6",
+      "title": "Si tabulae testamenti nullae extabunt, unde liberi / 论无遗嘱书板时子女从何取得遗产",
+      "fragments_translated": 26,
+      "source_content_paragraphs": 40,
+      "anchors_verified": 26,
+      "file": "译稿/第三十八卷/38.6-论无遗嘱时子女取得遗产占有.md",
+      "notes": "source-p 591–630 连续覆盖；26 个底本锚点顺序一致；多代亲属、遗产占有及份额关系见译校疑难表。"
+    },
+    {
+      "locator": "D.38.7",
+      "title": "Unde legitimi / 论法定继承人",
+      "fragments_translated": 15,
+      "source_content_paragraphs": 24,
+      "anchors_verified": 15,
+      "file": "译稿/第三十八卷/38.7-论法定继承人.md",
+      "notes": "source-p 631–654 连续覆盖；15 个底本锚点顺序一致；*paratatikws* 与 *consanguinei* 等疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.38.8",
+      "title": "Unde cognati / 论按亲属关系取得遗产占有",
+      "fragments_translated": 26,
+      "source_content_paragraphs": 43,
+      "anchors_verified": 26,
+      "file": "译稿/第三十八卷/38.8-论按亲属关系取得遗产占有.md",
+      "notes": "source-p 655–697 连续覆盖；26 个底本锚点顺序一致；亲等、收养亲属和顺位递补问题见译校疑难表。"
+    },
+    {
+      "locator": "D.38.9",
+      "title": "De successorio edicto / 论继承顺位告示",
+      "fragments_translated": 21,
+      "source_content_paragraphs": 23,
+      "anchors_verified": 21,
+      "file": "译稿/第三十八卷/38.9-论继承顺位告示.md",
+      "notes": "source-p 698–720 连续覆盖；21 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.38.10",
+      "title": "De gradibus et adfinibus et nominibus eorum / 论亲等、姻亲及其称谓",
+      "fragments_translated": 55,
+      "source_content_paragraphs": 77,
+      "anchors_verified": 55,
+      "file": "译稿/第三十八卷/38.10-论亲等姻亲及其称谓.md",
+      "notes": "source-p 721–797 连续覆盖；55 个底本锚点顺序一致；P748、750、775、795、797 疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.38.11",
+      "title": "Unde vir et uxor / 论夫与妻的遗产占有",
+      "fragments_translated": 5,
+      "source_content_paragraphs": 5,
+      "anchors_verified": 5,
+      "file": "译稿/第三十八卷/38.11-论夫与妻的遗产占有.md",
+      "notes": "source-p 798–802 连续覆盖，5 个锚点顺序一致；两部尤利亚法对离婚效力关系待复核。"
+    },
+    {
+      "locator": "D.38.12",
+      "title": "De veteranorum et militum successione / 论退伍军人与军人的继承",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 7,
+      "anchors_verified": 4,
+      "file": "译稿/第三十八卷/38.12-论退伍军人与军人的继承.md",
+      "notes": "source-p 803–809 连续覆盖，4 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.38.13",
+      "title": "Quibus non competit bonorum possessio / 论哪些人不得取得遗产占有",
+      "fragments_translated": 3,
+      "source_content_paragraphs": 4,
+      "anchors_verified": 3,
+      "file": "译稿/第三十八卷/38.13-论哪些人不得取得遗产占有.md",
+      "notes": "source-p 810–813 连续覆盖，3 个锚点顺序一致；P812 底本拼接疑误见译校疑难表。"
+    },
+    {
+      "locator": "D.38.14",
+      "title": "Ut ex legibus senatusve consultis bonorum possessio detur / 论依法律或元老院决议授予遗产占有",
+      "fragments_translated": 6,
+      "source_content_paragraphs": 6,
+      "anchors_verified": 6,
+      "file": "译稿/第三十八卷/38.14-论依法或依元老院决议授予遗产占有.md",
+      "notes": "source-p 814–819 连续覆盖，6 个锚点顺序一致。"
+    },
+    {
+      "locator": "D.38.15",
+      "title": "Quis ordo in possessionibus servetur / 论遗产占有的顺序",
+      "fragments_translated": 21,
+      "source_content_paragraphs": 26,
+      "anchors_verified": 21,
+      "file": "译稿/第三十八卷/38.15-论遗产占有的顺序.md",
+      "notes": "source-p 820–845 连续覆盖，21 个底本锚点顺序一致；有效期间及胎儿顺位疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.38.16",
+      "title": "De suis et legitimis heredibus / 论自权继承人与法定继承人",
+      "fragments_translated": 53,
+      "source_content_paragraphs": 80,
+      "anchors_verified": 53,
+      "files": [
+        "译稿/第三十八卷/38.16-论自权继承人与法定继承人-01.md",
+        "译稿/第三十八卷/38.16-论自权继承人与法定继承人-02.md"
+      ],
+      "notes": "source-p 846–925 连续覆盖；53 个底本锚点与译稿顺序一致；继承资格、亲属身份、遗腹胎儿及敌俘复归疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.38.17",
+      "title": "Ad senatus consultum Tertullianum et Orphitianum / 论《特尔图良与奥尔菲提安元老院决议》",
+      "fragments_translated": 80,
+      "source_content_paragraphs": 94,
+      "anchors_verified": 80,
+      "file": "译稿/第三十八卷/38.17-论特尔图良与奥尔菲提安元老院决议.md",
+      "notes": "source-p 926–1019 连续覆盖；80 个底本锚点顺序一致；术语及疑难项见共享表。"
+    },
+    {
+      "locator": "D.39.1",
+      "title": "De operis novi nuntiatione / 论新工程告示",
+      "fragments_translated": 112,
+      "source_content_paragraphs": 148,
+      "anchors_verified": 112,
+      "file": "译稿/第三十九卷/39.1-论新工程告示.md",
+      "notes": "source-p 001–148 连续覆盖；112 个底本锚点顺序一致；程序含义与条件句疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.39.2",
+      "title": "De damno infecto et de suggrundis et proiectionibus / 论尚未发生的损害、屋檐与突出建筑物",
+      "fragments_translated": 190,
+      "source_content_paragraphs": 267,
+      "anchors_verified": 190,
+      "files": [
+        "译稿/第三十九卷/39.2-论尚未发生的损害屋檐与突出建筑物-01.md",
+        "译稿/第三十九卷/39.2-论尚未发生的损害屋檐与突出建筑物-02.md",
+        "译稿/第三十九卷/39.2-论尚未发生的损害屋檐与突出建筑物-03.md",
+        "译稿/第三十九卷/39.2-论尚未发生的损害屋檐与突出建筑物-04.md"
+      ],
+      "notes": "source-p 149–415 连续覆盖；190 个底本锚点顺序一致；文本疑难已记入译校疑难表。"
+    },
+    {
+      "locator": "D.39.3",
+      "title": "De aqua et aquae pluviae arcendae / 论水及排除雨水",
+      "fragments_translated": 117,
+      "source_content_paragraphs": 154,
+      "anchors_verified": 117,
+      "file": "译稿/第三十九卷/39.3-论水及阻止雨水侵入之诉.md",
+      "notes": "source-p 416–569 连续覆盖；117 个底本锚点顺序一致；疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.39.4",
+      "title": "De publicanis et vectigalibus et commissis / 论包税人、税赋与没收财产",
+      "fragments_translated": 78,
+      "source_content_paragraphs": 98,
+      "anchors_verified": 78,
+      "file": "译稿/第三十九卷/39.4-论包税人税赋与没收财产.md",
+      "notes": "source-p 570–667 连续覆盖；78 个底本锚点顺序一致；术语统一“公税承包人”。"
+    },
+    {
+      "locator": "D.39.5",
+      "title": "De donationibus / 论赠与",
+      "fragments_translated": 91,
+      "source_content_paragraphs": 147,
+      "anchors_verified": 91,
+      "file": "译稿/第三十九卷/39.5-论赠与.md",
+      "notes": "source-p 668–814 连续覆盖；91 个底本锚点顺序一致；相关疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.39.6",
+      "title": "De mortis causa donationibus et capionibus / 论因死亡原因的赠与与取得",
+      "fragments_translated": 74,
+      "source_content_paragraphs": 153,
+      "anchors_verified": 74,
+      "file": "译稿/第三十九卷/39.6-论因死亡而赠与及因死亡取得.md",
+      "notes": "source-p 815–967 连续覆盖；74 个底本锚点顺序一致；疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.40.1",
+      "title": "De manumissionibus / 论奴隶解放",
+      "fragments_translated": 56,
+      "source_content_paragraphs": 102,
+      "anchors_verified": 56,
+      "file": "译稿/第四十卷/40.1-论奴隶解放.md",
+      "notes": "source-p 1–102 连续覆盖；56 个底本锚点顺序一致；疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.40.2",
+      "title": "De manumissis vindicta / 论以仪式杖释奴",
+      "fragments_translated": 49,
+      "source_content_paragraphs": 92,
+      "anchors_verified": 49,
+      "file": "译稿/第四十卷/40.2-论以仪式杖释奴.md",
+      "notes": "source-p 103–194 连续覆盖；49 个底本锚点顺序一致；待核处见译校疑难表。"
+    },
+    {
+      "locator": "D.40.3",
+      "title": "De manumissionibus quae servis ad universitatem pertinentibus imponuntur / 论团体所属奴隶的释奴",
+      "fragments_translated": 4,
+      "source_content_paragraphs": 10,
+      "anchors_verified": 4,
+      "file": "译稿/第四十卷/40.3-论团体所属奴隶的释奴.md",
+      "notes": "source-p 195–204 连续覆盖；4 个底本锚点顺序一致；标题术语疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.40.4",
+      "title": "De manumissis testamento / 论遗嘱释奴",
+      "fragments_translated": 110,
+      "source_content_paragraphs": 214,
+      "anchors_verified": 110,
+      "files": [
+        "译稿/第四十卷/40.4-论遗嘱释奴-01.md",
+        "译稿/第四十卷/40.4-论遗嘱释奴-02.md",
+        "译稿/第四十卷/40.4-论遗嘱释奴-03.md",
+        "译稿/第四十卷/40.4-论遗嘱释奴-04.md",
+        "译稿/第四十卷/40.4-论遗嘱释奴-05.md"
+      ],
+      "notes": "source-p 205–418 连续覆盖；110 个底本锚点顺序一致；术语和疑难表已更新。"
+    },
+    {
+      "locator": "D.40.5",
+      "title": "De fideicommissariis libertatibus / 论遗嘱信托式释奴",
+      "fragments_translated": 225,
+      "source_content_paragraphs": 313,
+      "anchors_verified": 225,
+      "file": "译稿/第四十卷/40.5-论遗嘱信托式释奴.md",
+      "notes": "source-p 419–731 连续覆盖；225个底本锚点顺序一致；底本疑误及制度疑点见译校疑难表。"
+    },
+    {
+      "locator": "D.40.6",
+      "title": "De ademptione libertatis / 论自由身份的剥夺",
+      "fragments_translated": 2,
+      "source_content_paragraphs": 4,
+      "anchors_verified": 2,
+      "file": "译稿/第四十卷/40.6-论自由的剥夺.md",
+      "notes": "source-p 732–735 连续覆盖；2 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.40.7",
+      "title": "De statuliberis / 论附条件获释的奴隶",
+      "fragments_translated": 144,
+      "source_content_paragraphs": 205,
+      "anchors_verified": 144,
+      "file": "译稿/第四十卷/40.7-论附条件获释的奴隶.md",
+      "notes": "source-p 736–940 连续覆盖；144 个底本锚点顺序一致；底本缺文与术语疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.40.8",
+      "title": "Qui sine manumissione ad libertatem perveniunt / 论无须正式释奴而取得自由者",
+      "fragments_translated": 10,
+      "source_content_paragraphs": 28,
+      "anchors_verified": 10,
+      "file": "译稿/第四十卷/40.8-论无须正式释奴而取得自由者.md",
+      "notes": "source-p 941–968 连续覆盖；10 个底本锚点顺序一致；术语及两项身份问题见译校疑难表。"
+    },
+    {
+      "locator": "D.40.9",
+      "title": "Qui et a quibus manumissi liberi non fiunt et ad legem Aeliam Sentiam / 论哪些人及由哪些人释放仍不能成为自由人，以及《阿埃利亚·森提亚法》",
+      "fragments_translated": 86,
+      "source_content_paragraphs": 135,
+      "anchors_verified": 86,
+      "file": "译稿/第四十卷/40.9-论释奴后仍不成为自由人的人及埃利亚森提亚法.md",
+      "notes": "source-p 969–1103 连续覆盖；86 个底本锚点顺序一致；疑难项见译校疑难表。"
+    },
+    {
+      "locator": "D.40.10",
+      "title": "De iure aureorum anulorum / 论金戒指权",
+      "fragments_translated": 9,
+      "source_content_paragraphs": 20,
+      "anchors_verified": 9,
+      "file": "译稿/第四十卷/40.10-论金戒指权.md",
+      "notes": "source-p 1104–1123 连续覆盖；9个底本锚点顺序一致；术语表和译校疑难表已更新。"
+    },
+    {
+      "locator": "D.40.11",
+      "title": "De natalibus restituendis / 论恢复自由出生者身份",
+      "fragments_translated": 8,
+      "source_content_paragraphs": 17,
+      "anchors_verified": 8,
+      "file": "译稿/第四十卷/40.11-论恢复自由出生者身份.md",
+      "notes": "source-p 1124–1140 连续覆盖；8 个底本锚点顺序一致。"
+    },
+    {
+      "locator": "D.40.12",
+      "title": "De liberali causa / 论自由身份诉讼",
+      "fragments_translated": 128,
+      "source_content_paragraphs": 193,
+      "anchors_verified": 128,
+      "files": [
+        "译稿/第四十卷/40.12-论自由身份诉讼-01.md",
+        "译稿/第四十卷/40.12-论自由身份诉讼-02.md",
+        "译稿/第四十卷/40.12-论自由身份诉讼-03.md",
+        "译稿/第四十卷/40.12-论自由身份诉讼-04.md"
+      ],
+      "notes": "source-p 1141–1333 四稿连续覆盖；128个底本锚点顺序一致；截断与文本疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.40.13",
+      "title": "Quibus ad libertatem proclamare non licet / 论不得主张自由身份的人",
+      "fragments_translated": 8,
+      "source_content_paragraphs": 17,
+      "anchors_verified": 8,
+      "file": "译稿/第四十卷/40.13-论不得主张自由身份的人.md",
+      "notes": "source-p 1334–1350 连续覆盖；8个锚点顺序一致；P1347底本无独立锚点及缺文已登记。"
+    },
+    {
+      "locator": "D.40.14",
+      "title": "Si ingenuus esse dicetur / 论主张自由出生者身份",
+      "fragments_translated": 12,
+      "source_content_paragraphs": 22,
+      "anchors_verified": 12,
+      "file": "译稿/第四十卷/40.14-论主张自由出生者身份.md",
+      "notes": "source-p 1351–1372 连续覆盖；12个锚点顺序一致；年龄门槛及恢复身份后财产范围列入疑难表。"
+    },
+    {
+      "locator": "D.40.15",
+      "title": "Ne de statu defunctorum post quinquennium quaeratur / 论五年后不得再审查死者身份",
+      "fragments_translated": 13,
+      "source_content_paragraphs": 19,
+      "anchors_verified": 13,
+      "file": "译稿/第四十卷/40.15-论五年后不得再审查死者身份.md",
+      "notes": "source-p 1373–1391 连续覆盖；13个锚点顺序一致；异文及期间解释疑难见译校疑难表。"
+    },
+    {
+      "locator": "D.40.16",
+      "title": "De collusione detegenda / 论揭发串通",
+      "fragments_translated": 13,
+      "source_content_paragraphs": 21,
+      "anchors_verified": 13,
+      "file": "译稿/第四十卷/40.16-论揭发串通.md",
+      "notes": "source-p 1392–1412 连续覆盖；13个锚点顺序一致；判决复审术语及待核事项已记录。"
+    },
+    {
+      "locator": "D.41.1",
+      "title": "De adquirendo rerum dominio. / 论取得物的所有权",
+      "fragments_translated": 176,
+      "source_content_paragraphs": 282,
+      "anchors_verified": 176,
+      "notes": "source-p 1-282 continuous; 176 source anchors verified in order.",
+      "files": [
+        "译稿/第四十一卷/41.1-论取得物的所有权-01.md",
+        "译稿/第四十一卷/41.1-论取得物的所有权-02.md",
+        "译稿/第四十一卷/41.1-论取得物的所有权-03.md",
+        "译稿/第四十一卷/41.1-论取得物的所有权-04.md",
+        "译稿/第四十一卷/41.1-论取得物的所有权-05.md"
+      ]
+    },
+    {
+      "locator": "D.41.2",
+      "title": "De adquirenda vel amittenda possessione. / 论取得或丧失占有.md",
+      "fragments_translated": 179,
+      "source_content_paragraphs": 261,
+      "anchors_verified": 179,
+      "notes": "source-p 283-543 continuous; 179 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.2-论取得或丧失占有.md"
+    },
+    {
+      "locator": "D.41.3",
+      "title": "De usurpationibus et usucapionibus. / 论时效中断与取得时效.md",
+      "fragments_translated": 134,
+      "source_content_paragraphs": 215,
+      "anchors_verified": 134,
+      "notes": "source-p 544-758 continuous; 134 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.3-论时效中断与取得时效.md"
+    },
+    {
+      "locator": "D.41.4",
+      "title": "Pro emptore. / 以买受人身份占有.md",
+      "fragments_translated": 51,
+      "source_content_paragraphs": 75,
+      "anchors_verified": 51,
+      "notes": "source-p 759-833 continuous; 51 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.4-以买受人身份占有.md"
+    },
+    {
+      "locator": "D.41.5",
+      "title": "Pro herede vel pro possessore. / 以继承人或占有人身份占有.md",
+      "fragments_translated": 8,
+      "source_content_paragraphs": 15,
+      "anchors_verified": 8,
+      "notes": "source-p 834-848 continuous; 8 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.5-以继承人或占有人身份占有.md"
+    },
+    {
+      "locator": "D.41.6",
+      "title": "Pro donato. / 以受赠人身份占有.md",
+      "fragments_translated": 10,
+      "source_content_paragraphs": 21,
+      "anchors_verified": 10,
+      "notes": "source-p 849-869 continuous; 10 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.6-以受赠人身份占有.md"
+    },
+    {
+      "locator": "D.41.7",
+      "title": "Pro derelicto. / 以遗弃物占有.md",
+      "fragments_translated": 13,
+      "source_content_paragraphs": 27,
+      "anchors_verified": 13,
+      "notes": "source-p 870-896 continuous; 13 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.7-以遗弃物占有.md"
+    },
+    {
+      "locator": "D.41.8",
+      "title": "Pro legato. / 以遗赠物占有.md",
+      "fragments_translated": 10,
+      "source_content_paragraphs": 28,
+      "anchors_verified": 10,
+      "notes": "source-p 897-924 continuous; 10 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.8-以遗赠物占有.md"
+    },
+    {
+      "locator": "D.41.9",
+      "title": "Pro dote. / 以嫁资为占有原因.md",
+      "fragments_translated": 9,
+      "source_content_paragraphs": 14,
+      "anchors_verified": 9,
+      "notes": "source-p 925-938 continuous; 9 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.9-以嫁资为占有原因.md"
+    },
+    {
+      "locator": "D.41.10",
+      "title": "Pro suo. / 以自身名义占有.md",
+      "fragments_translated": 13,
+      "source_content_paragraphs": 20,
+      "anchors_verified": 13,
+      "notes": "source-p 939-958 continuous; 13 source anchors verified in order.",
+      "file": "译稿/第四十一卷/41.10-以自身名义占有.md"
+    },
+    {
+      "locator": "D.42.1",
+      "title": "De re iudicata et de effectu sententiarum et de interlocutionibus / 论既判力、裁判效力与中间裁定",
+      "fragments_translated": 124,
+      "source_content_paragraphs": 235,
+      "notes": "source-p 1-235 continuous; source anchors verified in exact order.",
+      "files": [
+        "译稿/第四十二卷/42.1-论既判力与裁判效力-01.md",
+        "译稿/第四十二卷/42.1-论既判力与裁判效力-02.md",
+        "译稿/第四十二卷/42.1-论既判力与裁判效力-03.md",
+        "译稿/第四十二卷/42.1-论既判力与裁判效力-04.md"
+      ],
+      "anchors_verified": 124
+    },
+    {
+      "locator": "D.42.2",
+      "title": "De confessis / 论自认",
+      "fragments_translated": 18,
+      "source_content_paragraphs": 32,
+      "notes": "source-p 236-267 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十二卷/42.2-论自认.md",
+      "anchors_verified": 18
+    },
+    {
+      "locator": "D.42.3",
+      "title": "De cessione bonorum / 论财产让与",
+      "fragments_translated": 13,
+      "source_content_paragraphs": 29,
+      "notes": "source-p 268-296 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十二卷/42.3-论财产让与.md",
+      "anchors_verified": 13
+    },
+    {
+      "locator": "D.42.4",
+      "title": "Quibus ex causis in possessionem eatur / 得以进入占有的事由",
+      "fragments_translated": 58,
+      "source_content_paragraphs": 80,
+      "notes": "source-p 297-376 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十二卷/42.4-得以进入占有的事由.md",
+      "anchors_verified": 58
+    },
+    {
+      "locator": "D.42.5",
+      "title": "De rebus auctoritate iudicis possidendis seu vendundis / 论依裁判官命令占有或出售的财产",
+      "fragments_translated": 87,
+      "source_content_paragraphs": 150,
+      "notes": "source-p 377-526 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十二卷/42.5-论依裁判官命令占有或出售的财产.md",
+      "anchors_verified": 87
+    },
+    {
+      "locator": "D.42.6",
+      "title": "De separationibus / 论财产分离",
+      "fragments_translated": 35,
+      "source_content_paragraphs": 44,
+      "notes": "source-p 527-570 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十二卷/42.6-论财产分离.md",
+      "anchors_verified": 35
+    },
+    {
+      "locator": "D.42.7",
+      "title": "De curatore bonis dando / 论指定财产管理人",
+      "fragments_translated": 16,
+      "source_content_paragraphs": 23,
+      "notes": "source-p 571-593 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十二卷/42.7-论指定财产管理人.md",
+      "anchors_verified": 16
+    },
+    {
+      "locator": "D.42.8",
+      "title": "Quae in fraudem creditorum facta sunt ut restituantur / 论诈害债权人的行为如何撤销",
+      "fragments_translated": 85,
+      "source_content_paragraphs": 128,
+      "notes": "source-p 594-721 continuous; source anchors verified in exact order.",
+      "files": [
+        "译稿/第四十二卷/42.8-论诈害债权人的行为如何撤销-01.md",
+        "译稿/第四十二卷/42.8-论诈害债权人的行为如何撤销-02.md"
+      ],
+      "anchors_verified": 85
+    },
+    {
+      "locator": "D.43.1",
+      "title": "De interdictis sive extraordinariis actionibus, quae pro his competunt / 论禁令及其替代性非常诉权",
+      "fragments_translated": 16,
+      "source_content_paragraphs": 23,
+      "notes": "source-p 1-23 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.1-论禁令及其替代性非常诉权.md",
+      "anchors_verified": 16
+    },
+    {
+      "locator": "D.43.2",
+      "title": "Quorum bonorum / 关于遗产财产的禁令",
+      "fragments_translated": 6,
+      "source_content_paragraphs": 8,
+      "notes": "source-p 24-31 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.2-关于遗产财产的禁令.md",
+      "anchors_verified": 6
+    },
+    {
+      "locator": "D.43.3",
+      "title": "Quod legatorum / 关于遗赠物的禁令",
+      "fragments_translated": 27,
+      "source_content_paragraphs": 28,
+      "notes": "source-p 32-59 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.3-关于遗赠物的禁令.md",
+      "anchors_verified": 27
+    },
+    {
+      "locator": "D.43.4",
+      "title": "Ne vis fiat ei, qui in possessionem missus erit / 论不得妨碍被准入占有者",
+      "fragments_translated": 26,
+      "source_content_paragraphs": 29,
+      "notes": "source-p 60-88 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.4-论不得妨碍被准入占有者.md",
+      "anchors_verified": 26
+    },
+    {
+      "locator": "D.43.5",
+      "title": "De tabulis exhibendis / 关于出示遗嘱文书的禁令",
+      "fragments_translated": 36,
+      "source_content_paragraphs": 43,
+      "notes": "source-p 89-131 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.5-关于出示遗嘱文书的禁令.md",
+      "anchors_verified": 36
+    },
+    {
+      "locator": "D.43.6",
+      "title": "Ne quid in loco sacro fiat / 不得在神圣场所实施行为",
+      "fragments_translated": 9,
+      "source_content_paragraphs": 13,
+      "notes": "source-p 132-144 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.6-不得在神圣场所实施行为.md",
+      "anchors_verified": 9
+    },
+    {
+      "locator": "D.43.7",
+      "title": "De locis et itineribus publicis / 论公共场所与道路",
+      "fragments_translated": 7,
+      "source_content_paragraphs": 11,
+      "notes": "source-p 145-155 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.7-论公共场所与道路.md",
+      "anchors_verified": 7
+    },
+    {
+      "locator": "D.43.8",
+      "title": "Ne quid in loco publico vel itinere fiat / 不得在公共场所或道路实施行为",
+      "fragments_translated": 57,
+      "source_content_paragraphs": 68,
+      "notes": "source-p 156-223 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.8-不得在公共场所或道路实施行为.md",
+      "anchors_verified": 57
+    },
+    {
+      "locator": "D.43.9",
+      "title": "De loco publico fruendo / 论公共场所的使用收益",
+      "fragments_translated": 8,
+      "source_content_paragraphs": 10,
+      "notes": "source-p 224-233 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.9-论公共场所的使用收益.md",
+      "anchors_verified": 8
+    },
+    {
+      "locator": "D.43.10",
+      "title": "De via publica et si quid in ea factum esse dicatur / 论公共道路及其上的行为",
+      "fragments_translated": 9,
+      "source_content_paragraphs": 9,
+      "notes": "source-p 234-242 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.10-论公共道路及其上的行为.md",
+      "anchors_verified": 9
+    },
+    {
+      "locator": "D.43.11",
+      "title": "De via publica et itinere publico reficiendo / 论修缮公共道路与公共通道",
+      "fragments_translated": 11,
+      "source_content_paragraphs": 14,
+      "notes": "source-p 243-256 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.11-论修缮公共道路与公共通道.md",
+      "anchors_verified": 11
+    },
+    {
+      "locator": "D.43.12",
+      "title": "De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur / 论公共河流及其河岸不得实施妨碍航行的行为",
+      "fragments_translated": 32,
+      "source_content_paragraphs": 37,
+      "notes": "source-p 257-293 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.12-论公共河流及其航行.md",
+      "anchors_verified": 32
+    },
+    {
+      "locator": "D.43.13",
+      "title": "Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit / 不得改变公共河流的水流",
+      "fragments_translated": 17,
+      "source_content_paragraphs": 17,
+      "notes": "source-p 294-310 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.13-不得改变公共河流水流.md",
+      "anchors_verified": 17
+    },
+    {
+      "locator": "D.43.14",
+      "title": "Ut in flumine publico navigare liceat / 确保公共河流可以通航",
+      "fragments_translated": 13,
+      "source_content_paragraphs": 13,
+      "notes": "source-p 311-323 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.14-确保公共河流可以通航.md",
+      "anchors_verified": 13
+    },
+    {
+      "locator": "D.43.15",
+      "title": "De ripa munienda / 论加固河岸",
+      "fragments_translated": 10,
+      "source_content_paragraphs": 10,
+      "notes": "source-p 324-333 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.15-论加固河岸.md",
+      "anchors_verified": 10
+    },
+    {
+      "locator": "D.43.16",
+      "title": "De vi et de vi armata / 论暴力与武装暴力",
+      "fragments_translated": 94,
+      "source_content_paragraphs": 129,
+      "notes": "source-p 334-462 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.16-论暴力与武装暴力.md",
+      "anchors_verified": 94
+    },
+    {
+      "locator": "D.43.17",
+      "title": "Uti possidetis / 论现占有者禁令",
+      "fragments_translated": 28,
+      "source_content_paragraphs": 33,
+      "notes": "source-p 463-495 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.17-论现占有者禁令.md",
+      "anchors_verified": 28
+    },
+    {
+      "locator": "D.43.18",
+      "title": "De superficiebus / 论地上建筑权",
+      "fragments_translated": 14,
+      "source_content_paragraphs": 16,
+      "notes": "source-p 496-511 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.18-论地上建筑权.md",
+      "anchors_verified": 14
+    },
+    {
+      "locator": "D.43.19",
+      "title": "De itinere actuque privato / 论私人通行权与驱畜权",
+      "fragments_translated": 46,
+      "source_content_paragraphs": 55,
+      "notes": "source-p 512-566 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.19-论私人通行权与驱畜权.md",
+      "anchors_verified": 46
+    },
+    {
+      "locator": "D.43.20",
+      "title": "De aqua cottidiana et aestiva / 论日常用水与夏季用水",
+      "fragments_translated": 64,
+      "source_content_paragraphs": 76,
+      "notes": "source-p 567-642 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.20-论日常用水与夏季用水.md",
+      "anchors_verified": 64
+    },
+    {
+      "locator": "D.43.21",
+      "title": "De rivis / 关于水渠",
+      "fragments_translated": 29,
+      "source_content_paragraphs": 34,
+      "notes": "source-p 643-676 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.21-关于水渠.md",
+      "anchors_verified": 29
+    },
+    {
+      "locator": "D.43.22",
+      "title": "De fonte / 关于水源",
+      "fragments_translated": 15,
+      "source_content_paragraphs": 15,
+      "notes": "source-p 677-691 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.22-关于水源.md",
+      "anchors_verified": 15
+    },
+    {
+      "locator": "D.43.23",
+      "title": "De cloacis / 关于下水道",
+      "fragments_translated": 21,
+      "source_content_paragraphs": 23,
+      "notes": "source-p 692-714 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.23-关于下水道.md",
+      "anchors_verified": 21
+    },
+    {
+      "locator": "D.43.24",
+      "title": "Quod vi aut clam / 关于以暴力或秘密方式所为之事",
+      "fragments_translated": 132,
+      "source_content_paragraphs": 162,
+      "notes": "source-p 715-876 continuous; source anchors verified in exact order.",
+      "anchors_verified": 132,
+      "files": [
+        "译稿/第四十三卷/43.24-关于以暴力或秘密方式所为之事-上.md",
+        "译稿/第四十三卷/43.24-关于以暴力或秘密方式所为之事-下.md"
+      ]
+    },
+    {
+      "locator": "D.43.25",
+      "title": "De remissionibus / 论新工程通知的撤回",
+      "fragments_translated": 9,
+      "source_content_paragraphs": 9,
+      "notes": "source-p 877-885 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.25-论撤回新工程通知.md",
+      "anchors_verified": 9
+    },
+    {
+      "locator": "D.43.26",
+      "title": "De precario / 论容忍占有",
+      "fragments_translated": 64,
+      "source_content_paragraphs": 98,
+      "notes": "source-p 886-983 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.26-论容忍占有.md",
+      "anchors_verified": 64
+    },
+    {
+      "locator": "D.43.27",
+      "title": "De arboribus caedendis / 论砍伐树木",
+      "fragments_translated": 14,
+      "source_content_paragraphs": 16,
+      "notes": "source-p 984-999 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.27-论砍伐树木.md",
+      "anchors_verified": 14
+    },
+    {
+      "locator": "D.43.28",
+      "title": "De glande legenda / 论拾取橡实",
+      "fragments_translated": 5,
+      "source_content_paragraphs": 5,
+      "notes": "source-p 1000-1004 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.28-论拾取橡实.md",
+      "anchors_verified": 5
+    },
+    {
+      "locator": "D.43.29",
+      "title": "De homine libero exhibendo / 论出示自由人",
+      "fragments_translated": 28,
+      "source_content_paragraphs": 32,
+      "notes": "source-p 1005-1036 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.29-论出示自由人.md",
+      "anchors_verified": 28
+    },
+    {
+      "locator": "D.43.30",
+      "title": "De liberis exhibendis, item ducendis / 论出示及带走子女",
+      "fragments_translated": 20,
+      "source_content_paragraphs": 27,
+      "notes": "source-p 1037-1063 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.30-论出示及带走子女.md",
+      "anchors_verified": 20
+    },
+    {
+      "locator": "D.43.31",
+      "title": "Utrubi / 论动产占有禁令",
+      "fragments_translated": 5,
+      "source_content_paragraphs": 5,
+      "notes": "source-p 1064-1068 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.31-论动产占有禁令.md",
+      "anchors_verified": 5
+    },
+    {
+      "locator": "D.43.32",
+      "title": "De migrando / 论迁出及取回物品",
+      "fragments_translated": 11,
+      "source_content_paragraphs": 13,
+      "notes": "source-p 1069-1081 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.32-论迁出及取回物品.md",
+      "anchors_verified": 11
+    },
+    {
+      "locator": "D.43.33",
+      "title": "De Salviano interdicto / 论萨尔维乌斯禁令",
+      "fragments_translated": 7,
+      "source_content_paragraphs": 9,
+      "notes": "source-p 1082-1090 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十三卷/43.33-论萨尔维乌斯禁令.md",
+      "anchors_verified": 7
+    },
+    {
+      "locator": "D.44.1",
+      "title": "De exceptionibus praescriptionibus et praeiudiciis / 论抗辩、前置抗辩与先决判断",
+      "fragments_translated": 35,
+      "source_content_paragraphs": 79,
+      "notes": "source-p 1-79 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十四卷/44.1-论抗辩前置抗辩与先决判断.md",
+      "anchors_verified": 35
+    },
+    {
+      "locator": "D.44.2",
+      "title": "De exceptione rei iudicatae / 论既判事项抗辩",
+      "fragments_translated": 70,
+      "source_content_paragraphs": 122,
+      "notes": "source-p 80-201 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十四卷/44.2-论既判事项抗辩.md",
+      "anchors_verified": 70
+    },
+    {
+      "locator": "D.44.3",
+      "title": "De diversis temporalibus praescriptionibus et de accessionibus possessionum / 论各种期间时效抗辩与占有期间的合并",
+      "fragments_translated": 39,
+      "source_content_paragraphs": 64,
+      "notes": "source-p 202-265 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十四卷/44.3-论各种期间时效抗辩与占有期间的合并.md",
+      "anchors_verified": 39
+    },
+    {
+      "locator": "D.44.4",
+      "title": "De doli mali et metus exceptione / 论恶意欺诈与胁迫抗辩",
+      "fragments_translated": 84,
+      "source_content_paragraphs": 109,
+      "notes": "source-p 266-374 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十四卷/44.4-论恶意欺诈与胁迫抗辩.md",
+      "anchors_verified": 84
+    },
+    {
+      "locator": "D.44.5",
+      "title": "Quarum rerum actio non datur / 不予诉权的事项",
+      "fragments_translated": 20,
+      "source_content_paragraphs": 21,
+      "notes": "source-p 375-395 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十四卷/44.5-哪些事项不予诉讼.md",
+      "anchors_verified": 20
+    },
+    {
+      "locator": "D.44.6",
+      "title": "De litigiosis / 关于争讼物",
+      "fragments_translated": 7,
+      "source_content_paragraphs": 11,
+      "notes": "source-p 396-406 continuous; source anchors verified in exact order.",
+      "file": "译稿/第四十四卷/44.6-关于争讼物.md",
+      "anchors_verified": 7
+    },
+    {
+      "locator": "D.44.7",
+      "title": "De obligationibus et actionibus / 论债务与诉权",
+      "fragments_translated": 133,
+      "source_content_paragraphs": 239,
+      "notes": "source-p 407-645 continuous; source anchors verified in exact order. P644 Greek transliteration and Latin gloss preserved.",
+      "file": "译稿/第四十四卷/44.7-论债务与诉权.md",
+      "anchors_verified": 133
+    },
+    {
+      "locator": "D.45.1",
+      "title": "De verborum obligationibus / 论言词债",
+      "fragments_translated": 363,
+      "source_content_paragraphs": 593,
+      "notes": "source-p 1-593 continuous across upper/lower drafts; all 363 source anchors matched in exact order. Full Book 45 audit: P1-798 and 464 anchors complete across D.45.1–3.",
+      "files": [
+        "译稿/第四十五卷/45.1-论言词债-上.md",
+        "译稿/第四十五卷/45.1-论言词债-下.md"
+      ],
+      "anchors_verified": 363
+    },
+    {
+      "locator": "D.45.2",
+      "title": "De duobus reis constituendis / 论共同债务人的设立",
+      "fragments_translated": 35,
+      "source_content_paragraphs": 67,
+      "notes": "source-p 594-660 continuous; 35 source anchors verified in exact order.",
+      "file": "译稿/第四十五卷/45.2-45.3-共同债务人与奴隶口约.md",
+      "anchors_verified": 35
+    },
+    {
+      "locator": "D.45.3",
+      "title": "De stipulatione servorum / 论奴隶的要式口约",
+      "fragments_translated": 66,
+      "source_content_paragraphs": 138,
+      "notes": "source-p 661-798 continuous; 66 source anchors verified in exact order.",
+      "file": "译稿/第四十五卷/45.2-45.3-共同债务人与奴隶口约.md",
+      "anchors_verified": 66
+    },
+    {
+      "locator": "D.46.1",
+      "title": "De fideiussoribus et mandatoribus / 论保证人与委任人",
+      "fragments_translated": 155,
+      "source_content_paragraphs": 280,
+      "notes": "D.46.1 source-p 1–280; anchors verified against the source. 155 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.1-46.2-保证人与债务更新.md",
+      "anchors_verified": 155
+    },
+    {
+      "locator": "D.46.2",
+      "title": "De novationibus et delegationibus / 论债务更新与债务移转",
+      "fragments_translated": 60,
+      "source_content_paragraphs": 118,
+      "notes": "D.46.2 source-p 281–398; anchors verified against the source. 60 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.1-46.2-保证人与债务更新.md",
+      "anchors_verified": 60
+    },
+    {
+      "locator": "D.46.3",
+      "title": "De solutionibus et liberationibus / 论清偿与免责",
+      "fragments_translated": 223,
+      "source_content_paragraphs": 413,
+      "notes": "D.46.3 translated in two files; source-p 399–811 continuous. 223 source anchors verified in order.",
+      "anchors_verified": 223,
+      "files": [
+        "译稿/第四十六卷/46.3-论清偿与免责-上.md",
+        "译稿/第四十六卷/46.3-论清偿与免责-下.md"
+      ]
+    },
+    {
+      "locator": "D.46.4",
+      "title": "De acceptilatione / 论免债要式口约",
+      "fragments_translated": 53,
+      "source_content_paragraphs": 92,
+      "notes": "Source-p 812–903 continuous. 53 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.4-46.8-要式口约与诉讼担保.md",
+      "anchors_verified": 53
+    },
+    {
+      "locator": "D.46.5",
+      "title": "De stipulationibus praetoriis / 论裁判官法上的要式口约",
+      "fragments_translated": 29,
+      "source_content_paragraphs": 47,
+      "notes": "Source-p 904–950 continuous. 29 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.4-46.8-要式口约与诉讼担保.md",
+      "anchors_verified": 29
+    },
+    {
+      "locator": "D.46.6",
+      "title": "Rem pupilli vel adulescentis salvam fore / 确保未适婚人或青年的财产无损",
+      "fragments_translated": 23,
+      "source_content_paragraphs": 45,
+      "notes": "Source-p 951–995 continuous. 23 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.4-46.8-要式口约与诉讼担保.md",
+      "anchors_verified": 23
+    },
+    {
+      "locator": "D.46.7",
+      "title": "Iudicatum solvi / 判决清偿担保",
+      "fragments_translated": 50,
+      "source_content_paragraphs": 86,
+      "notes": "Source-p 996–1081 continuous. 50 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.4-46.8-要式口约与诉讼担保.md",
+      "anchors_verified": 50
+    },
+    {
+      "locator": "D.46.8",
+      "title": "Ratam rem haberi et de ratihabitione / 论诉讼行为的追认及追认担保",
+      "fragments_translated": 56,
+      "source_content_paragraphs": 99,
+      "notes": "Source-p 1082–1180 continuous. 56 source anchors verified in order.",
+      "file": "译稿/第四十六卷/46.4-46.8-要式口约与诉讼担保.md",
+      "anchors_verified": 56
+    },
+    {
+      "locator": "D.47.1",
+      "title": "论私犯",
+      "fragments_translated": 15,
+      "source_content_paragraphs": 18,
+      "notes": "Complete; source-p coverage and source anchor order audited.",
+      "file": "译稿/第四十七卷/47.1-47.2-上.md",
+      "anchors_verified": 15,
+      "source_anchors": 15,
+      "source_p_range": "1-18",
+      "files": [
+        "译稿/第四十七卷/47.1-47.2-上.md"
+      ]
+    },
+    {
+      "locator": "D.47.2",
+      "title": "论盗窃",
+      "fragments_translated": 318,
+      "source_anchors": 318,
+      "source_content_paragraphs": 461,
+      "source_p_range": "19-479",
+      "files": [
+        "译稿/第四十七卷/47.1-47.2-上.md",
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.3",
+      "title": "论附合木材",
+      "fragments_translated": 7,
+      "source_anchors": 7,
+      "source_content_paragraphs": 9,
+      "source_p_range": "480-488",
+      "files": [
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.4",
+      "title": "论遗嘱命令获得自由的人在主人死亡后、遗产接受前窃取或损坏财物的情形",
+      "fragments_translated": 25,
+      "source_anchors": 25,
+      "source_content_paragraphs": 29,
+      "source_p_range": "489-517",
+      "files": [
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.5",
+      "title": "论针对船舶经营人、客店经营人及马厩经营人的盗窃之诉",
+      "fragments_translated": 10,
+      "source_anchors": 10,
+      "source_content_paragraphs": 10,
+      "source_p_range": "518-527",
+      "files": [
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.6",
+      "title": "论家内奴隶实施盗窃的情形",
+      "fragments_translated": 17,
+      "source_anchors": 17,
+      "source_content_paragraphs": 25,
+      "source_p_range": "528-552",
+      "files": [
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.7",
+      "title": "论秘密砍伐树木",
+      "fragments_translated": 42,
+      "source_anchors": 42,
+      "source_content_paragraphs": 60,
+      "source_p_range": "553-612",
+      "files": [
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.8",
+      "title": "论强夺财物之诉及群聚致害",
+      "fragments_translated": 53,
+      "source_anchors": 53,
+      "source_content_paragraphs": 62,
+      "source_p_range": "613-674",
+      "files": [
+        "译稿/第四十七卷/47.2-47.8-下.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.9",
+      "title": "论因火灾、坍塌、海难、木筏或船舶遭袭而发生的抢掠",
+      "fragments_translated": 34,
+      "source_anchors": 34,
+      "source_content_paragraphs": 53,
+      "source_p_range": "675-727",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.10",
+      "title": "论不法侵害与诽谤性文书",
+      "fragments_translated": 189,
+      "source_anchors": 189,
+      "source_content_paragraphs": 266,
+      "source_p_range": "728-993",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.11",
+      "title": "论非常程序追诉的犯罪",
+      "fragments_translated": 19,
+      "source_anchors": 19,
+      "source_content_paragraphs": 38,
+      "source_p_range": "994-1031",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.12",
+      "title": "论侵害坟墓",
+      "fragments_translated": 26,
+      "source_anchors": 26,
+      "source_content_paragraphs": 46,
+      "source_p_range": "1032-1077",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.13",
+      "title": "论敲诈勒索",
+      "fragments_translated": 4,
+      "source_anchors": 4,
+      "source_content_paragraphs": 7,
+      "source_p_range": "1078-1084",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.14",
+      "title": "论盗驱牲畜",
+      "fragments_translated": 14,
+      "source_anchors": 14,
+      "source_content_paragraphs": 17,
+      "source_p_range": "1085-1101",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.15",
+      "title": "论串通妨碍追诉",
+      "fragments_translated": 15,
+      "source_anchors": 15,
+      "source_content_paragraphs": 26,
+      "source_p_range": "1102-1127",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.16",
+      "title": "论窝藏者",
+      "fragments_translated": 4,
+      "source_anchors": 4,
+      "source_content_paragraphs": 7,
+      "source_p_range": "1128-1134",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.17",
+      "title": "论浴场窃贼",
+      "fragments_translated": 5,
+      "source_anchors": 5,
+      "source_content_paragraphs": 10,
+      "source_p_range": "1135-1144",
+      "files": [
+        "译稿/第四十七卷/47.9-47.17.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.18",
+      "title": "论破门者与掠夺者",
+      "fragments_translated": 7,
+      "source_anchors": 7,
+      "source_content_paragraphs": 9,
+      "source_p_range": "1145-1153",
+      "files": [
+        "译稿/第四十七卷/47.18-47.23.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.19",
+      "title": "论侵夺遗产",
+      "fragments_translated": 10,
+      "source_anchors": 10,
+      "source_content_paragraphs": 20,
+      "source_p_range": "1154-1173",
+      "files": [
+        "译稿/第四十七卷/47.18-47.23.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.20",
+      "title": "论诈欺罪",
+      "fragments_translated": 10,
+      "source_anchors": 10,
+      "source_content_paragraphs": 16,
+      "source_p_range": "1174-1189",
+      "files": [
+        "译稿/第四十七卷/47.18-47.23.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.21",
+      "title": "论移动界标",
+      "fragments_translated": 8,
+      "source_anchors": 8,
+      "source_content_paragraphs": 12,
+      "source_p_range": "1190-1201",
+      "files": [
+        "译稿/第四十七卷/47.18-47.23.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.22",
+      "title": "论社团与团体",
+      "fragments_translated": 12,
+      "source_anchors": 12,
+      "source_content_paragraphs": 17,
+      "source_p_range": "1202-1218",
+      "files": [
+        "译稿/第四十七卷/47.18-47.23.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.47.23",
+      "title": "论公益诉讼",
+      "fragments_translated": 14,
+      "source_anchors": 14,
+      "source_content_paragraphs": 27,
+      "source_p_range": "1219-1245",
+      "files": [
+        "译稿/第四十七卷/47.18-47.23.md"
+      ],
+      "notes": "Complete; source-p coverage and source anchor order audited."
+    },
+    {
+      "locator": "D.48.1",
+      "title": "De publicis iudiciis / 论公诉",
+      "fragments_translated": 22,
+      "source_anchors": 22,
+      "source_content_paragraphs": 47,
+      "source_p_range": "1-47",
+      "files": [
+        "译稿/第四十八卷/48.1-48.6.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.2",
+      "title": "De accusationibus et inscriptionibus / 论控告与控告文书",
+      "fragments_translated": 46,
+      "source_anchors": 46,
+      "source_content_paragraphs": 84,
+      "source_p_range": "48-131",
+      "files": [
+        "译稿/第四十八卷/48.1-48.6.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.3",
+      "title": "De custodia et exhibitione reorum / 论被告的拘押与出示",
+      "fragments_translated": 32,
+      "source_anchors": 32,
+      "source_content_paragraphs": 55,
+      "source_p_range": "132-186",
+      "files": [
+        "译稿/第四十八卷/48.1-48.6.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.4",
+      "title": "Ad legem Iuliam maiestatis / 论《尤利亚叛逆罪法》",
+      "fragments_translated": 24,
+      "source_anchors": 24,
+      "source_content_paragraphs": 42,
+      "source_p_range": "187-228",
+      "files": [
+        "译稿/第四十八卷/48.1-48.6.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.5",
+      "title": "Ad legem Iuliam de adulteriis coercendis / 论《尤利亚惩治通奸法》",
+      "fragments_translated": 202,
+      "source_anchors": 202,
+      "source_content_paragraphs": 268,
+      "source_p_range": "229-496",
+      "files": [
+        "译稿/第四十八卷/48.1-48.6.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.6",
+      "title": "Ad legem Iuliam de vi publica / 论《尤利亚公共暴力法》",
+      "fragments_translated": 29,
+      "source_anchors": 29,
+      "source_content_paragraphs": 49,
+      "source_p_range": "497-545",
+      "files": [
+        "译稿/第四十八卷/48.1-48.6.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.7",
+      "title": "Ad legem Iuliam de vi privata / 论《尤利亚私人暴力法》",
+      "fragments_translated": 17,
+      "source_anchors": 17,
+      "source_content_paragraphs": 30,
+      "source_p_range": "546-575",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.8",
+      "title": "Ad legem Corneliam de siccariis et veneficis / 论《科尔内利亚杀人及投毒法》",
+      "fragments_translated": 37,
+      "source_anchors": 37,
+      "source_content_paragraphs": 67,
+      "source_p_range": "576-642",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.9",
+      "title": "De lege Pompeia de parricidiis / 论《庞培弑亲法》",
+      "fragments_translated": 14,
+      "source_anchors": 14,
+      "source_content_paragraphs": 33,
+      "source_p_range": "643-675",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.10",
+      "title": "De lege Cornelia de falsis et de senatus consulto liboniano / 论《科尔内利亚伪造法》与《利波尼安元老院决议》",
+      "fragments_translated": 98,
+      "source_anchors": 98,
+      "source_content_paragraphs": 150,
+      "source_p_range": "676-825",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.11",
+      "title": "De lege Iulia repetundarum / 论《尤利亚追索非法所得法》",
+      "fragments_translated": 21,
+      "source_anchors": 21,
+      "source_content_paragraphs": 35,
+      "source_p_range": "826-860",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.12",
+      "title": "De lege Iulia de annona / 论《尤利亚粮食供应法》",
+      "fragments_translated": 9,
+      "source_anchors": 9,
+      "source_content_paragraphs": 13,
+      "source_p_range": "861-873",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.13",
+      "title": "Ad legem Iuliam peculatus et de sacrilegis et de residuis / 论《尤利亚侵吞公款法》、渎神罪及公款余额",
+      "fragments_translated": 38,
+      "source_anchors": 38,
+      "source_content_paragraphs": 64,
+      "source_p_range": "874-937",
+      "files": [
+        "译稿/第四十八卷/48.7-48.13.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.14",
+      "title": "De lege Iulia ambitus / 论《尤利亚反贿选法》",
+      "fragments_translated": 7,
+      "source_anchors": 7,
+      "source_content_paragraphs": 8,
+      "source_p_range": "938-945",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.15",
+      "title": "De lege Fabia de plagiariis / 论《法比亚拐掠人身法》",
+      "fragments_translated": 17,
+      "source_anchors": 17,
+      "source_content_paragraphs": 28,
+      "source_p_range": "946-973",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.16",
+      "title": "Ad senatus consultum Turpillianum et de abolitionibus criminum / 论《图尔皮利安元老院决议》及刑事指控撤回",
+      "fragments_translated": 58,
+      "source_anchors": 58,
+      "source_content_paragraphs": 86,
+      "source_p_range": "974-1059",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.17",
+      "title": "De requirendis vel absentibus damnandis / 论追查被列名者及缺席判罪",
+      "fragments_translated": 20,
+      "source_anchors": 20,
+      "source_content_paragraphs": 26,
+      "source_p_range": "1060-1085",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.18",
+      "title": "De quaestionibus / 论刑讯",
+      "fragments_translated": 86,
+      "source_anchors": 86,
+      "source_content_paragraphs": 121,
+      "source_p_range": "1086-1206",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.19",
+      "title": "De poenis / 论刑罚",
+      "fragments_translated": 149,
+      "source_anchors": 149,
+      "source_content_paragraphs": 221,
+      "source_p_range": "1207-1427",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.20",
+      "title": "De bonis damnatorum / 论被判刑者的财产",
+      "fragments_translated": 33,
+      "source_anchors": 33,
+      "source_content_paragraphs": 49,
+      "source_p_range": "1428-1476",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.21",
+      "title": "De bonis eorum, qui ante sententiam vel mortem / 论在判决前自杀或贿赂控告人者的财产",
+      "fragments_translated": 15,
+      "source_anchors": 15,
+      "source_content_paragraphs": 19,
+      "source_p_range": "1477-1495",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.22",
+      "title": "De interdictis et relegatis et deportatis / 论受地点禁入、限居及驱逐出境者",
+      "fragments_translated": 56,
+      "source_anchors": 56,
+      "source_content_paragraphs": 86,
+      "source_p_range": "1496-1581",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.23",
+      "title": "De sententiam passis et restitutis / 论承受判决并获恢复者",
+      "fragments_translated": 7,
+      "source_anchors": 7,
+      "source_content_paragraphs": 14,
+      "source_p_range": "1582-1595",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.48.24",
+      "title": "De cadaveribus punitorum / 论受刑者的尸体",
+      "fragments_translated": 4,
+      "source_anchors": 4,
+      "source_content_paragraphs": 10,
+      "source_p_range": "1596-1605",
+      "files": [
+        "译稿/第四十八卷/48.14-48.24.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.1",
+      "title": "De appellationibus et relegationibus / 论上诉与迁居限制",
+      "fragments_translated": 76,
+      "source_anchors": 76,
+      "source_content_paragraphs": 119,
+      "source_p_range": "1-119",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.2",
+      "title": "A quibus appellari non licet / 哪些人不得提起上诉",
+      "fragments_translated": 8,
+      "source_anchors": 8,
+      "source_content_paragraphs": 11,
+      "source_p_range": "120-130",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.3",
+      "title": "Quis a quo appelletur / 谁可以对谁提起上诉",
+      "fragments_translated": 6,
+      "source_anchors": 6,
+      "source_content_paragraphs": 11,
+      "source_p_range": "131-141",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.4",
+      "title": "Quando appellandum sit et intra quae tempora / 何时提起上诉以及应在何期间内提起",
+      "fragments_translated": 24,
+      "source_anchors": 24,
+      "source_content_paragraphs": 28,
+      "source_p_range": "142-169",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.5",
+      "title": "De appellationibus recipiendis vel non / 上诉应否受理",
+      "fragments_translated": 19,
+      "source_anchors": 19,
+      "source_content_paragraphs": 30,
+      "source_p_range": "170-199",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.6",
+      "title": "De libellis dimissoriis, qui apostoli dicuntur / 论称为 *apostoli* 的上诉移送文书",
+      "fragments_translated": 5,
+      "source_anchors": 5,
+      "source_content_paragraphs": 6,
+      "source_p_range": "200-205",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.7",
+      "title": "Nihil innovari appellatione interposita / 提起上诉后不得改变现状",
+      "fragments_translated": 8,
+      "source_anchors": 8,
+      "source_content_paragraphs": 9,
+      "source_p_range": "206-214",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.8",
+      "title": "Quae sententiae sine appellatione rescindantur / 无需上诉即可撤销的判决",
+      "fragments_translated": 13,
+      "source_anchors": 13,
+      "source_content_paragraphs": 16,
+      "source_p_range": "215-230",
+      "files": [
+        "译稿/第四十九卷/49.1-49.8.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.9",
+      "title": "An per alium causae appellationum reddi possunt / 能否由他人陈述上诉理由",
+      "fragments_translated": 3,
+      "source_anchors": 3,
+      "source_content_paragraphs": 7,
+      "source_p_range": "231-237",
+      "files": [
+        "译稿/第四十九卷/49.9-49.14.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.10",
+      "title": "Si tutor vel curator magistratusve creatus appellaverit / 监护人、保佐人或被任命的官员提起上诉时",
+      "fragments_translated": 3,
+      "source_anchors": 3,
+      "source_content_paragraphs": 7,
+      "source_p_range": "238-244",
+      "files": [
+        "译稿/第四十九卷/49.9-49.14.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.11",
+      "title": "Eum qui appellaverit in provincia defendi / 应在行省内为上诉人辩护",
+      "fragments_translated": 3,
+      "source_anchors": 3,
+      "source_content_paragraphs": 7,
+      "source_p_range": "245-251",
+      "files": [
+        "译稿/第四十九卷/49.9-49.14.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.12",
+      "title": "Apud eum, a quo appellatur, aliam causam agere compellendum / 应责令其在受上诉的裁判者面前审理其他案件",
+      "fragments_translated": 2,
+      "source_anchors": 2,
+      "source_content_paragraphs": 4,
+      "source_p_range": "252-255",
+      "files": [
+        "译稿/第四十九卷/49.9-49.14.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.13",
+      "title": "Si pendente appellatione mors intervenerit / 上诉待决期间发生死亡时",
+      "fragments_translated": 4,
+      "source_anchors": 4,
+      "source_content_paragraphs": 5,
+      "source_p_range": "256-260",
+      "files": [
+        "译稿/第四十九卷/49.9-49.14.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.14",
+      "title": "De iure fisci / 论国库法",
+      "fragments_translated": 154,
+      "source_anchors": 154,
+      "source_content_paragraphs": 236,
+      "source_p_range": "261-496",
+      "files": [
+        "译稿/第四十九卷/49.9-49.14.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.49.15",
+      "title": "De captivis et de postliminio et redemptis ab hostibus / 论俘虏、复归权及从敌人手中赎回者",
+      "fragments_translated": 89,
+      "source_anchors": 89,
+      "source_content_paragraphs": 137,
+      "source_p_range": "497-633",
+      "files": [
+        "译稿/第四十九卷/49.15-49.18.md"
+      ],
+      "notes": "Complete; source-p inventory is continuous and all source anchors were independently audited in source order."
+    },
+    {
+      "locator": "D.49.16",
+      "title": "De re militari / 论军事事务",
+      "fragments_translated": 96,
+      "source_anchors": 96,
+      "source_content_paragraphs": 116,
+      "source_p_range": "634-749",
+      "files": [
+        "译稿/第四十九卷/49.15-49.18.md"
+      ],
+      "notes": "Complete; source-p inventory is continuous and all source anchors were independently audited in source order."
+    },
+    {
+      "locator": "D.49.17",
+      "title": "De castrensi peculio / 论军营特有产",
+      "fragments_translated": 49,
+      "source_anchors": 49,
+      "source_content_paragraphs": 81,
+      "source_p_range": "750-830",
+      "files": [
+        "译稿/第四十九卷/49.15-49.18.md"
+      ],
+      "notes": "Complete; source-p inventory is continuous and all source anchors were independently audited in source order."
+    },
+    {
+      "locator": "D.49.18",
+      "title": "De veteranis / 论退伍军人",
+      "fragments_translated": 14,
+      "source_anchors": 14,
+      "source_content_paragraphs": 20,
+      "source_p_range": "831-850",
+      "files": [
+        "译稿/第四十九卷/49.15-49.18.md"
+      ],
+      "notes": "Complete; source-p inventory is continuous and all source anchors were independently audited in source order."
+    },
+    {
+      "locator": "D.50.1",
+      "title": "Ad municipalem et de incolis / 论市民与居住者",
+      "fragments_translated": 111,
+      "source_anchors": 111,
+      "source_content_paragraphs": 173,
+      "source_p_range": "1-173",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.2",
+      "title": "De decurionibus et filiis eorum / 论市议员及其子女",
+      "fragments_translated": 45,
+      "source_anchors": 45,
+      "source_content_paragraphs": 66,
+      "source_p_range": "174-239",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.3",
+      "title": "De albo scribendo / 论名册的编制",
+      "fragments_translated": 6,
+      "source_anchors": 6,
+      "source_content_paragraphs": 8,
+      "source_p_range": "240-247",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.4",
+      "title": "De muneribus et honoribus / 论公共负担与荣誉职务",
+      "fragments_translated": 104,
+      "source_anchors": 104,
+      "source_content_paragraphs": 129,
+      "source_p_range": "248-376",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.5",
+      "title": "De vacatione et excusatione munerum / 论公共负担的豁免与免责",
+      "fragments_translated": 51,
+      "source_anchors": 51,
+      "source_content_paragraphs": 70,
+      "source_p_range": "377-446",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.6",
+      "title": "De iure immunitatis / 论豁免权",
+      "fragments_translated": 26,
+      "source_anchors": 26,
+      "source_content_paragraphs": 37,
+      "source_p_range": "447-483",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.7",
+      "title": "De legationibus / 论使团",
+      "fragments_translated": 41,
+      "source_anchors": 41,
+      "source_content_paragraphs": 69,
+      "source_p_range": "484-552",
+      "files": [
+        "译稿/第五十卷/50.1-50.7.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.8",
+      "title": "De administratione rerum ad civitates pertinentium / 论城市公共财产的管理",
+      "fragments_translated": 47,
+      "source_anchors": 47,
+      "source_content_paragraphs": 65,
+      "source_p_range": "553-617",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.9",
+      "title": "De decretis ab ordine faciendis / 论议事会应作出的决议",
+      "fragments_translated": 11,
+      "source_anchors": 11,
+      "source_content_paragraphs": 21,
+      "source_p_range": "618-638",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.10",
+      "title": "De operibus publicis / 论公共工程",
+      "fragments_translated": 21,
+      "source_anchors": 21,
+      "source_content_paragraphs": 29,
+      "source_p_range": "639-667",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.11",
+      "title": "De nundinis / 论集市日",
+      "fragments_translated": 4,
+      "source_anchors": 4,
+      "source_content_paragraphs": 7,
+      "source_p_range": "668-674",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.12",
+      "title": "De pollicitationibus / 论允诺",
+      "fragments_translated": 37,
+      "source_anchors": 37,
+      "source_content_paragraphs": 60,
+      "source_p_range": "675-734",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.13",
+      "title": "De variis et extraordinariis cognitionibus et si iudex litem suam fecisse dicetur / 论各种审判及裁判者被认为使诉讼成为自己的案件",
+      "fragments_translated": 28,
+      "source_anchors": 28,
+      "source_content_paragraphs": 37,
+      "source_p_range": "735-771",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.14",
+      "title": "De proxeneticis / 论经纪佣金",
+      "fragments_translated": 5,
+      "source_anchors": 5,
+      "source_content_paragraphs": 10,
+      "source_p_range": "772-781",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.15",
+      "title": "De censibus / 论人口与财产登记",
+      "fragments_translated": 50,
+      "source_anchors": 50,
+      "source_content_paragraphs": 60,
+      "source_p_range": "782-841",
+      "files": [
+        "译稿/第五十卷/50.8-50.15.md"
+      ],
+      "notes": "Complete; source-p inventory and anchor order independently audited against the source EPUB."
+    },
+    {
+      "locator": "D.50.16",
+      "title": "De verborum significatione / 论词语的含义",
+      "fragments_translated": 408,
+      "source_anchors": 408,
+      "source_content_paragraphs": 841,
+      "source_p_range": "842-1682",
+      "files": [
+        "译稿/第五十卷/50.16-P842-1262.md",
+        "译稿/第五十卷/50.16-P1263-1682.md"
+      ],
+      "notes": "Complete; P842–P1682 source-p inventory is continuous and all 408 source anchors were independently audited in source order."
+    },
+    {
+      "locator": "D.50.17",
+      "title": "De diversis regulis iuris antiqui / 论古法的各项规则",
+      "fragments_translated": 314,
+      "source_anchors": 314,
+      "source_content_paragraphs": 694,
+      "source_p_range": "1683-2376",
+      "files": [
+        "译稿/第五十卷/50.17-P1683-2100.md",
+        "译稿/第五十卷/50.17-P2101-2376.md"
+      ],
+      "notes": "Complete; P1683–P2376 source-p inventory is continuous and all 314 source anchors were independently audited in source order."
+    }
+  ],
+  "in_progress_units": [],
+  "scope": {
+    "books": 50,
+    "book_title_entries": 432,
+    "title_index_links": 430,
+    "constitutions": [
+      "Deo auctore",
+      "Omnem",
+      "Tanta"
+    ],
+    "source_epub_title_headings": 429,
+    "source_html_title_heading_supplements": 3,
+    "translated_title_index_links": 432
+  },
+  "completed_title_entries": 432,
+  "remaining_work": "无；底本文字疑误、疑义及暂定译法均记录于译校疑难表。",
+  "next_locator": null,
+  "output_epub": "../学说汇纂_下载与EPUB_2026-09-26/Digesta_Iustiniani_学说汇纂_中文全译本.epub",
+  "note": "No full-translation EPUB is marked complete until every book, title-index entry, constitution, substantive front-matter unit, source paragraph and anchor is translated and checked. Books 30–32 have shared title headings preserved only in the original HTML snapshot; those three headings and anchor targets are explicitly supplemented in the Chinese translation.",
+  "source_supplemental_headings": [
+    {
+      "locator": "D.30.0",
+      "title": "De legatis et fideicommissis / 论遗赠与遗嘱信托",
+      "source_html": "学说汇纂_下载与EPUB_2026-09-26/source_html/d-30.htm",
+      "source_anchor": "1",
+      "note": "Heading 30.0/31.0/32.0 and anchor 1 appear in preserved original HTML but were omitted from normalized EPUB text and the title-index XHTML; restored in the translation and marked as editorial supplements."
+    },
+    {
+      "locator": "D.31.0",
+      "title": "De legatis et fideicommissis / 论遗赠与遗嘱信托",
+      "source_html": "学说汇纂_下载与EPUB_2026-09-26/source_html/d-31.htm",
+      "source_anchor": "1",
+      "note": "Heading 30.0/31.0/32.0 and anchor 1 appear in preserved original HTML but were omitted from normalized EPUB text and the title-index XHTML; restored in the translation and marked as editorial supplements."
+    },
+    {
+      "locator": "D.32.0",
+      "title": "De legatis et fideicommissis / 论遗赠与遗嘱信托",
+      "source_html": "学说汇纂_下载与EPUB_2026-09-26/source_html/d-32.htm",
+      "source_anchor": "1",
+      "note": "Heading 30.0/31.0/32.0 and anchor 1 appear in preserved original HTML but were omitted from normalized EPUB text and the title-index XHTML; restored in the translation and marked as editorial supplements."
+    }
+  ],
+  "substantive_front_matter": [
+    {
+      "unit": "Deo auctore",
+      "file": "译稿/前置材料/Deo-auctore-中文译稿.md",
+      "source_anchors": 15,
+      "status": "translated; anchor order matches source"
+    },
+    {
+      "unit": "Omnem",
+      "file": "译稿/前置材料/Omnem-中文译稿.md",
+      "source_anchors": 12,
+      "status": "translated; anchor order matches source"
+    },
+    {
+      "unit": "Tanta",
+      "file": "译稿/前置材料/Tanta-中文译稿.md",
+      "source_anchors": 36,
+      "status": "translated; anchor order matches source"
+    }
+  ],
+  "source_index_anchor_repairs": {
+    "books": {
+      "1": 22,
+      "2": 15,
+      "3": 6,
+      "6": 1,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 2,
+      "39": 5,
+      "40": 16,
+      "41": 10
+    },
+    "total": 81,
+    "notes": "Restored 81 missing title-index anchor targets in translated source files for Books 1–3, 6–10, and 39–41; corrected a misplaced duplicate id=7 in D.7.1. Books 1–45 now match source title-index numeric anchor sequence; Books 30–32 use the three explicitly documented original-HTML supplements. Restored all non-index source IDs in Books 1–3 (1482 total anchors now match source order). Two additional navigational anchors, 6.1.80 and 6.3.3, label unanchored but present passages in source XHTML. Removed the duplicate D.7.8 title-index stub after a uniqueness/link audit."
+  },
+  "source_unanchored_passages": [
+    {
+      "locator": "D.6.1.80",
+      "anchor": "6.1.80",
+      "source_location": "book-06.xhtml, unanchored paragraph immediately after 6.1.79",
+      "note": "Added a navigational label to the unanchored Furius passage; source text is present and translated."
+    },
+    {
+      "locator": "D.6.3.3",
+      "anchor": "6.3.3",
+      "source_location": "book-06.xhtml, paragraph following 6.3.2 heading",
+      "note": "Source text includes the separate title number 6.3.3 inline but has no anchor; separated and labeled it for navigation."
+    }
+  ],
+  "earlier_source_paragraph_audit": {
+    "method": "Counted XHTML <p> elements in normalized source EPUB book files and grouped them by D.book.title headings; compared against completed-unit source_content_paragraphs.",
+    "result": "For Books 1–29 and 33–47, recorded source paragraph totals now match the source XHTML counts. D.1.1, D.1.2, D.5.6, D.6.3, D.16.3, and D.17.2 were corrected from direct source counts. Books 30–32 use a different normalized markup and are tracked separately with their source anchor audit and documented supplements.",
+    "caveat": "This count audit confirms paragraph inventory metadata, not a semantic line-by-line comparison of every earlier translation. Earlier translated files may combine source title or author paragraphs into a single heading; original anchor-order audit is separate."
+  },
+  "title_index_audit": {
+    "unique_entries": 432,
+    "broken_source_targets": 0,
+    "untranslated_placeholders": 0,
+    "pending_by_book": {},
+    "notes": "D.1–D.50 标题均已译入索引；移除了重复的 D.7.8 占位项。D.30.0、D.31.0、D.32.0 是据原始HTML补入的编者标题；所有内部链接目标均已校验。",
+    "index_entries": 432,
+    "digest_title_entries": 429,
+    "supplemental_book_heading_entries": 3
+  },
+  "final_validation": {
+    "validated_at": "2026-09-27",
+    "translation_scope": {
+      "books": 50,
+      "constitutions": [
+        "Deo auctore",
+        "Omnem",
+        "Tanta"
+      ],
+      "title_index_entries": 432,
+      "in_progress_units": 0
+    },
+    "source_alignment": "五十卷锚点及顺序与译稿相符；第1—29卷和第31—50卷的段落清单与规范化 EPUB 数量相符。第30—50卷逐段 source-p 标记均连续；第30卷另有原始 HTML 末尾空段 1 处，原因和处理见 source_paragraph_exceptions。",
+    "epub_validation": {
+      "zip_crc": "passed",
+      "mimetype": "first entry, uncompressed",
+      "xml_documents": "parsed",
+      "duplicate_ids": 0,
+      "broken_internal_links": 0,
+      "internal_links_checked": 26478,
+      "archive_files": 60,
+      "xhtml_files": 56,
+      "title_index_links": 432
+    },
+    "typography_check": "CSS 正文字重 400；字体优先序为 Noto Serif CJK SC、Songti SC、STSong、Noto Serif、serif。",
+    "source_paragraph_audit": {
+      "books_1_29": "progress 中逐题段落清单与规范化 EPUB 的 p 数量逐卷相符。",
+      "books_30_50": {
+        "30": "1-647",
+        "31": "1-419",
+        "32": "1-528",
+        "33": "1-848",
+        "34": "1-808",
+        "35": "1-880",
+        "36": "1-758",
+        "37": "1-853",
+        "38": "1-1019",
+        "39": "1-967",
+        "40": "1-1412",
+        "41": "1-958",
+        "42": "1-721",
+        "43": "1-1090",
+        "44": "1-645",
+        "45": "1-798",
+        "46": "1-1180",
+        "47": "1-1245",
+        "48": "1-1605",
+        "49": "1-850",
+        "50": "1-2376"
+      },
+      "book_30_exception": "原始 HTML 有647个 p，其中末尾1个为空；规范化 EPUB 有646个非空 p。译稿的source-p序列覆盖1–647并明确标记空段。"
+    }
+  },
+  "source_paragraph_exceptions": [
+    {
+      "book": 30,
+      "source_file": "source_html/d-30.htm",
+      "archived_html_paragraphs": 647,
+      "normalized_epub_paragraphs": 646,
+      "exceptional_source_p": "647",
+      "reason": "原始 HTML 的末尾第647个 <p> 为空段；规范化 EPUB 未保留该空 <p>。原 HTML 与 EPUB 的非空段落序列一致。",
+      "translation_treatment": "译稿保留 source-p 647，并在对应位置标注“〔底本空段〕”；该项不计作实质正文。"
+    }
+  ]
+}

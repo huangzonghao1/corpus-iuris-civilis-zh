@@ -1,0 +1,81 @@
+{
+  "version": "v2026.10.11",
+  "repository": "huangzonghao1/corpus-iuris-civilis-zh",
+  "editions": [
+    {
+      "work": "institutiones",
+      "path": "works/institutiones/Justinian_Institutes_Krueger.epub",
+      "asset": "Justinian_Institutes_Krueger.epub",
+      "bytes": 146415,
+      "sha256": "7c47d57c07a26b93c5896a15d2bf33634c545c72c5b08c36ce0f0b6a2a7f10b2"
+    },
+    {
+      "work": "digesta",
+      "path": "works/digesta/学说汇纂_下载与EPUB_2026-09-26/Digesta_Iustiniani_Mommsen_Krueger.epub",
+      "asset": "Digesta_Iustiniani_Mommsen_Krueger.epub",
+      "bytes": 2291932,
+      "sha256": "57ada2a0d96fe9654eb1bc3a09abef6ae7a9d1e2c262be84f274e2f7edc2e2f3"
+    },
+    {
+      "work": "digesta",
+      "path": "works/digesta/学说汇纂_下载与EPUB_2026-09-26/Digesta_Iustiniani_学说汇纂_中文全译本.epub",
+      "asset": "Digesta_Iustiniani_学说汇纂_中文全译本.epub",
+      "bytes": 2532261,
+      "sha256": "b2fe85064ab26188a8555c826dcd5e01fefd49b1bfe897270833f0257266ed05"
+    },
+    {
+      "work": "codex",
+      "path": "works/codex/Codex_Iustinianus_Krueger_Latin_source.epub",
+      "asset": "Codex_Iustinianus_Krueger_Latin_source.epub",
+      "bytes": 1149141,
+      "sha256": "50b3a5e1dc434062f6718a3da9f197f22dca32622b2e5071fc64dd0094b63265"
+    },
+    {
+      "work": "codex",
+      "path": "works/codex/Codex_Iustinianus_Krueger_Latin.epub",
+      "asset": "Codex_Iustinianus_Krueger_Latin.epub",
+      "bytes": 1147041,
+      "sha256": "3e43ac7c9d311f634c7ca9e50e57c544d951f603ef741db13cdd3f27cf937d85"
+    },
+    {
+      "work": "codex",
+      "path": "works/codex/Codex_Iustinianus_Krueger_Chinese.epub",
+      "asset": "Codex_Iustinianus_Krueger_Chinese.epub",
+      "bytes": 1488611,
+      "sha256": "c33697a5ec1239886b9ca39a5445426526af1d2e9f0c45fa9465e73ea1abc9f4"
+    },
+    {
+      "work": "codex",
+      "path": "works/codex/Codex_Iustinianus_Krueger_bilingual.epub",
+      "asset": "Codex_Iustinianus_Krueger_bilingual.epub",
+      "bytes": 2734695,
+      "sha256": "8575c5be7eaa67bdde150219a0b81aa318280ce4e4834a2928289688ec47ce41"
+    },
+    {
+      "work": "novellae",
+      "path": "works/novellae/Novellae_Schoell_Kroll_Latin.epub",
+      "asset": "Novellae_Schoell_Kroll_Latin.epub",
+      "bytes": 967210,
+      "sha256": "a73e4f5f2d4f2b5658d7598c003ac4454e0390d42efd40ac3b53043b9bb9a4db"
+    },
+    {
+      "work": "novellae",
+      "path": "works/novellae/Novellae_Schoell_Kroll_Chinese.epub",
+      "asset": "Novellae_Schoell_Kroll_Chinese.epub",
+      "bytes": 712991,
+      "sha256": "e7dba1b322979aeff417a9d7133270d6c351f5733a1dfb2a91a4e0e177100f4e"
+    },
+    {
+      "work": "novellae",
+      "path": "works/novellae/Novellae_Schoell_Kroll_Chinese_Bilingual.epub",
+      "asset": "Novellae_Schoell_Kroll_Chinese_Bilingual.epub",
+      "bytes": 1398760,
+      "sha256": "2e17ded50bc66d3f5ef1d7ae1cc63e06f6797e4c985a804b3992b5f29ce7ea24"
+    }
+  ],
+  "bundle": {
+    "asset": "corpus-iuris-civilis-zh-v2026.10.11-epub.zip",
+    "bytes": 14510907,
+    "sha256": "4898e11d4d57ac7f5467d314a95596de92d866c8aff43fc87521f1844dae3fc3"
+  }
+}

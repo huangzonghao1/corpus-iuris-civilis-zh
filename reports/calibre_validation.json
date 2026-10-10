@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "tool": "Calibre 7.22.0",
+  "results": [
+    {
+      "file": "Codex_Iustinianus_Krueger_Chinese.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 1141608
+    },
+    {
+      "file": "Codex_Iustinianus_Krueger_Latin.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 2780738
+    },
+    {
+      "file": "Codex_Iustinianus_Krueger_Latin_source.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 2781104
+    },
+    {
+      "file": "Codex_Iustinianus_Krueger_bilingual.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 3838441
+    },
+    {
+      "file": "Digesta_Iustiniani_Mommsen_Krueger.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 6161513
+    },
+    {
+      "file": "Digesta_Iustiniani_学说汇纂_中文全译本.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 2494320
+    },
+    {
+      "file": "Justinian_Institutes_Krueger.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 379052
+    },
+    {
+      "file": "Novellae_Schoell_Kroll_Chinese.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 748690
+    },
+    {
+      "file": "Novellae_Schoell_Kroll_Chinese_Bilingual.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 2434472
+    },
+    {
+      "file": "Novellae_Schoell_Kroll_Latin.epub",
+      "calibre_conversion": "PASS",
+      "text_characters": 1868711
+    }
+  ]
+}

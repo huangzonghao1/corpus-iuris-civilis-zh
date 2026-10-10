@@ -1,0 +1,446 @@
+{
+  "source_base": "https://droitromain.univ-grenoble-alpes.fr/Corpus/",
+  "downloaded": "2026-09-26",
+  "files": [
+    {
+      "file": "digest.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/digest.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/digest.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 31511,
+      "sha256": "788e6f11b3fb046a0bda887ffc4928b18025dcbfd3f22896c7c049f16b5d6584"
+    },
+    {
+      "file": "compositio.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/compositio.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/compositio.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 16671,
+      "sha256": "0d9c82a1fa32b1e06280c5bf37637fb7f798859395d5acc5357a9dc61c243a6e"
+    },
+    {
+      "file": "omnem.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/omnem.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/omnem.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 25062,
+      "sha256": "9dfe5d484b2ac896c6d9aad631203b51396c60673a5a46be710c206e7adc5213"
+    },
+    {
+      "file": "confirmatio.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/confirmatio.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/confirmatio.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 38036,
+      "sha256": "1aa6fcd2ab2a4347ed65102d32883d8a8ed65015bbed5be7b6c12e034c7f1dcc"
+    },
+    {
+      "file": "tituli.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/tituli.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/tituli.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 147346,
+      "sha256": "71ca1fe58170cffa42c12b0aa45e7b647f23bd426993f20db7e212c8f9f5cb1f"
+    },
+    {
+      "file": "d-01.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-01.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 264995,
+      "sha256": "563bfd5d3d70a63dda88c4311383ac07d0bc25f7bdbd4c653f5d73ea3d11d854"
+    },
+    {
+      "file": "d-02.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-02.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-02.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 274229,
+      "sha256": "7ac6cd23b3707b0026b4abf5acd4bce2c3711c185589e24cc60d0e8179b262f0"
+    },
+    {
+      "file": "d-03.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-03.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-03.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 227996,
+      "sha256": "b47b5f0f54065787700eabcc8f27b3c0997075ac46445c3f939385eb3026772d"
+    },
+    {
+      "file": "d-04.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-04.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-04.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 354903,
+      "sha256": "9cf0043b4cd388d2b0d94fa562e3afc5815f8b83d0f8ffd4f3c6a564607f1061"
+    },
+    {
+      "file": "d-05.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-05.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-05.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 252438,
+      "sha256": "5db9f3b4b5aba0f34a04134504dc1d02824952c11056947bec43b7d4bdba3ee8"
+    },
+    {
+      "file": "d-06.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-06.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-06.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 114909,
+      "sha256": "31695025d154525c5058b722f486ef638bf25d1c335fce15c9afa051600c4676"
+    },
+    {
+      "file": "d-07.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-07.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-07.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 228009,
+      "sha256": "0660cf065dc5d05ab2c864293bbf42e98c63508eb129299a51c4b5de1e97bf8d"
+    },
+    {
+      "file": "d-08.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-08.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-08.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 185893,
+      "sha256": "3ec75e39acaf6de8e5a956945cc902c0b86e96c587f3be429f93d57d8450a04e"
+    },
+    {
+      "file": "d-09.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 177371,
+      "sha256": "a033599c631bad41f0d7cf0d2086d83a3213c7963446d9ce4ca6b84d9e555a57"
+    },
+    {
+      "file": "d-10.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-10.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-10.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 183622,
+      "sha256": "c83249ed7d25c27085e8de7fb63196bd8729088b3334831981e73ff850cec86b"
+    },
+    {
+      "file": "d-11.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-11.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-11.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 144874,
+      "sha256": "6806a7104b480d8fdf87eefdeb1fb2dff5761b4b10946a18e620ee817ccdd7cc"
+    },
+    {
+      "file": "d-12.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-12.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-12.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 236395,
+      "sha256": "c472ca25cb10766b5658bd95577f430401455e06cdcc221e08c0ced02b68a436"
+    },
+    {
+      "file": "d-13.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-13.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-13.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 167556,
+      "sha256": "3a66b2337b8a7f429471bb9cf8370b973c8c425f91b443f7634ae132a44f488e"
+    },
+    {
+      "file": "d-14.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-14.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-14.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 135128,
+      "sha256": "cbbdc26db7101c66c8d153fb3201054122dd577c397b7bd3d22703f4b7cffc01"
+    },
+    {
+      "file": "d-15.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-15.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-15.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 147838,
+      "sha256": "bd4080134f35dce2f07f6431c0c3f9c684452af4a524788a91aa2722812dcc15"
+    },
+    {
+      "file": "d-16.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-16.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-16.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 130162,
+      "sha256": "e7d394be4ab77d782f8a99659eafd04c6363474fa8882d8ad08bf39777d00f0b"
+    },
+    {
+      "file": "d-17.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-17.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-17.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 219932,
+      "sha256": "751c93b7b083f936d5008601c93a152650ffd8f580831fae129d59a05a49c375"
+    },
+    {
+      "file": "d-18.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-18.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-18.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 210572,
+      "sha256": "e1f717cb9f06c4ab0502c47b5cbc99897203eb388eb248effafd8b3965e8a2b3"
+    },
+    {
+      "file": "d-19.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-19.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-19.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 228942,
+      "sha256": "88506531f3d2b51a74ce63b95078568d9d51c006c8045ed7959def6077d81f10"
+    },
+    {
+      "file": "d-20.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-20.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-20.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 156316,
+      "sha256": "a0c7a30b0723ee586281e5fc28ccd87e05e24aaa150bace63682880a887e83c8"
+    },
+    {
+      "file": "d-21.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-21.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-21.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 194634,
+      "sha256": "1d458570245a887d93357f2d8c979dac480db770ecb004a565355d460c8e1f52"
+    },
+    {
+      "file": "d-22.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-22.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 152340,
+      "sha256": "6c76265de7d70f13bbde17ffe756e5cff02c9e75a08de99a4d5589db50e7fcf9"
+    },
+    {
+      "file": "d-23.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-23.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-23.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 260297,
+      "sha256": "8d02372ce8c0b6cc586707a91e2eed1c35c2d7518ab86460195557802aa207db"
+    },
+    {
+      "file": "d-24.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-24.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-24.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 230017,
+      "sha256": "206bd46573ef7cb5ab8c878c4a6b66bacaec2b05733d72fbf3ba92700b4913cc"
+    },
+    {
+      "file": "d-25.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-25.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-25.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 110056,
+      "sha256": "a0849ec88b28203ebe106afb57afc4866c9435ac263fe69ad746cd69de6b2f2d"
+    },
+    {
+      "file": "d-26.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-26.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-26.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 297969,
+      "sha256": "4454d2024b5a807c0d5bddd7252a3c3e01185518aeea2be4c5f017e1ba02390c"
+    },
+    {
+      "file": "d-27.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-27.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-27.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 275277,
+      "sha256": "85c09e3812cc2b0199b888cf73769310cc245ff9ba143198b4befad9a938b223"
+    },
+    {
+      "file": "d-28.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-28.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 319950,
+      "sha256": "262af74b50fe914523391d00a29f8567e65bfc6369e1aeeb0efd78703971c45c"
+    },
+    {
+      "file": "d-29.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-29.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-29.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 321303,
+      "sha256": "902ccf7ec4384cf68341e9760fb21abd12857b18259a020e24e97c42f9b726a0"
+    },
+    {
+      "file": "d-30.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-30.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 207225,
+      "sha256": "5801d713dd500fd0fea957d4291b0f38f63e832b285052ad8ec27303e1d444f0"
+    },
+    {
+      "file": "d-31.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-31.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 152794,
+      "sha256": "50fff3674b4cfc370c426df10997a4c21eb07d05ebe85ace521bc817847108dd"
+    },
+    {
+      "file": "d-32.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-32.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 210787,
+      "sha256": "e68be0d31b16bda519796ef5085d83a4701ea43df9cdd549e31f2a1451e82e22"
+    },
+    {
+      "file": "d-33.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-33.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-33.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 303935,
+      "sha256": "6953bdba7c34fe6a499224f6eca9a3568742420b7ec1c2e873a6f479251813f5"
+    },
+    {
+      "file": "d-34.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-34.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-34.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 286969,
+      "sha256": "04e1845d42deea9c9fe6aa2a24669913553b78e51597f06e5e4603c2168c3ae6"
+    },
+    {
+      "file": "d-35.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-35.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-35.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 296967,
+      "sha256": "f7b660b4a47e13a97c9ffe41888031781a3dc8d2f0840657415f77841bdf1f79"
+    },
+    {
+      "file": "d-36.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-36.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-36.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 319358,
+      "sha256": "b25fc4a88c7ac76ca76e013dbee22d12000454aee4375b7804d1fa9c8447c8d7"
+    },
+    {
+      "file": "d-37.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-37.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-37.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 286421,
+      "sha256": "92cdb3823b5ada9d7c4787dac684670806636272b42e0ad4945e5125ef11254f"
+    },
+    {
+      "file": "d-38.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-38.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 445012,
+      "sha256": "42d9ef9c8f00dc4813613d633b52273b2fd88465f60da02ac87afac1aa805e04"
+    },
+    {
+      "file": "d-39.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-39.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 277247,
+      "sha256": "76677abfa6e3d02d0c14acb0da553f2348c3e6f77590883a72b4c01e48c15a5c"
+    },
+    {
+      "file": "d-40.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-40.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-40.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 482327,
+      "sha256": "dd4729bf7771eb35771a65ebe524a0c09d80cf18fd9d3c14965b06eab9737798"
+    },
+    {
+      "file": "d-41.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-41.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-41.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 270302,
+      "sha256": "2102c4dbe0872f276bc9fd1141f134916f346f187a0fde6115897e7872931459"
+    },
+    {
+      "file": "d-42.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-42.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-42.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 228878,
+      "sha256": "503487e55f550b3649c643bdaf994d361d8ed77c391a83b1b22c0260ffd2ce0c"
+    },
+    {
+      "file": "d-43.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-43.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-43.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 377001,
+      "sha256": "0505c178707d929fc190bedd32269dfa51e89aa02ccd62484469047a877b26d4"
+    },
+    {
+      "file": "d-44.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-44.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-44.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 217153,
+      "sha256": "afbdcfb593ef705df82d23c59f1108d7fe0c932354d82da5a3f77ddb78a357d4"
+    },
+    {
+      "file": "d-45.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-45.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-45.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 269760,
+      "sha256": "a1ad4f016a138463f7e728b223e90ca59680ece50325350ae18200821bd9f1ac"
+    },
+    {
+      "file": "d-46.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-46.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-46.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 371690,
+      "sha256": "e4a3ff8a95333462b8a10c5f8754c86531cc28ae655f42427c6ba3764da82b51"
+    },
+    {
+      "file": "d-47.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-47.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-47.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 410943,
+      "sha256": "26eaaa5231f0006d2491768f0ec749fe4fb20afc1c77bbc8f3b94a6a46c24558"
+    },
+    {
+      "file": "d-48.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-48.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 489551,
+      "sha256": "08cbd609d00957c49e19b5c3fab50c2873761b1f32135fa3f7d460406a5a322c"
+    },
+    {
+      "file": "d-49.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-49.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-49.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 292252,
+      "sha256": "e13c68bead70033084391900c52d965282630e96c5d4b3f7014fa9a9f03255f7"
+    },
+    {
+      "file": "d-50.htm",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-50.htm",
+      "final_url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-50.htm",
+      "http_content_type": "text/html; charset=UTF-8",
+      "bytes": 602460,
+      "sha256": "a611d29bfe23e99b08949a87504eaa3e30f3fe857ea6a5edfda44edd2f4f5949"
+    }
+  ]
+}

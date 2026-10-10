@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "case": "changed archived source",
+      "rejected": true
+    },
+    {
+      "case": "broken EPUB navigation target",
+      "rejected": true
+    }
+  ]
+}

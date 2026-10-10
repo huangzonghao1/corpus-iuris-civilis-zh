@@ -1,0 +1,19 @@
+{
+  "manifest_rows": 187,
+  "source_sha_mismatches": [],
+  "offline_mirror_mismatches": [],
+  "epub_source_text_mismatches": [],
+  "epub_source_text_mismatches_by_edition": {
+    "Novellae_Schoell_Kroll_Latin.epub": {
+      "mismatches": [],
+      "checked_pages": 187
+    },
+    "Novellae_Schoell_Kroll_Chinese_Bilingual.epub": {
+      "standalone_source_pages_embedded": 0,
+      "paired_translation_documents": 19,
+      "layout": "Latin source paragraphs and Chinese translations are adjacent within each paired document"
+    }
+  },
+  "checked_epub_pages": 187,
+  "known_normalization": "The standalone Latin EPUB omits non-content Google Analytics script text present in some original HTML pages and renders two French-translation image-button alt labels as accessible text; exact original bytes remain archived."
+}

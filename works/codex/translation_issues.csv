@@ -1,0 +1,186 @@
+﻿issue_id,source_location,issue_type,description,proposed_handling,status
+CJ-PREF-COMP-002,Componendo.htm §2; phrase iuris zdqua divisione,transcription_error,网页原文作 zdqua；Krueger 1877 版《法典》序言 De novo codice componendo §2 的 Internet Archive 扫描 OCR 读作 aliqua diuisione；Holubeanu 转录 PDF 亦作 aliqua。OCR 只作转录见证，尚未逐字核看扫描页图。,网页拉丁文原样保留 zdqua；中译暂按 aliqua 译作“法律上的某种区分”，显式记校记，不静默改字。,corroborated_by_1877_edition_OCR_image_check_pending
+CJ5-5.70.7.1a-01,CJ5.htm §5.70.7.1a; Licet Åertullianus,encoding_or_transcription_corruption,网页源字节含 Latin-1 0xC5，按页面声明 ISO-8859-1 解码为 Åertullianus；Krueger 1877 扫描 OCR（印刷页496）读作 Tertullianus。,原始网页及拉丁源版保持原字节/可见字符；学术中译按版本见证标注疑似 Tertullianus，不对源作静默更改。,corroborated_by_1877_edition_OCR_image_check_pending
+CJ5-5.70.7-02,CJ5.htm §5.70.7; petitio bonorum possessionis Ñonstantiniana lege,encoding_or_transcription_corruption,网页源字节含 Latin-1 0xD1，按页面声明 ISO-8859-1 解码为 Ñonstantiniana；Krueger 1877 扫描 OCR（印刷页497）读作 Constantiniana lege。,原始网页及拉丁源版保持原字节/可见字符；学术中译按版本见证标注为疑似 Constantiniana，不对源作静默更改。,corroborated_by_1877_edition_OCR_image_check_pending
+CJ1-1.17.2-12(13)-UNANCHORED,"CJ1.htm; paragraph numbered 12(13), between anchors #1.17.2.12 and #1.17.2.13",unanchored_source_paragraph,The HTML contains a separately numbered paragraph 12(13) but provides no named anchor for it. It falls between 1.17.2.12 and 1.17.2.13 and may reflect the edition’s alternate numbering.,Preserve the displayed number and paragraph as an explicitly unanchored item in the translation; do not invent an HTML anchor or renumber neighboring paragraphs. Include it separately in coverage and bilingual EPUB audits.,tracked_in_translation_CJ1_1.17.md
+CJ2-2.17.4-01,"CJ2.htm, 2.17.4; phrase invidiam fiscalem contra creditoribus faciendam",duplicated_source_phrase,The webpage transcription repeats “invidiam fiscalem contra creditoribus faciendam” in the same sentence.,Retain the exact Latin transcription; translate the recoverable sentence once and record the duplication in a translator note pending collation against a verified print witness.,source_transcription_issue_logged
+CJ5-5.19.1-01,CJ5.htm §5.19.1; dos in matrimonio refusa,parallel_text_interpretation,网页《查士丁尼法典》条文规定妻死后其继承人向丈夫返还嫁资及孳息，并保护共同子女对财产的权利；《狄奥多西法典》3.13.3附释进一步说明夫仅享用益权、夫死后财产归共同子女。,正文仅译网页明文；将附释解释作为译者校记明确标注为平行文本见证。,corroborated_by_Codex_Theodosianus_Interpretatio
+CJ5-5.25.4-01,CJ5.htm §5.25.4; final word examinabi,truncated_source_text,原网页条文末尾止于 examinabi，疑为被截断的 examinabit；原始网页没有后续完整词句。,拉丁文按网页原状保留；中文仅译可辨内容并标明疑似残缺，不补正文。,unresolved_source_truncation
+CJ5-5.28.4-01,CJ5.htm §5.28.4; final word tenentu,truncated_source_text,网页原文末尾止于 tenentu，疑似截断的 tenentur；无后续内容可据以校核。,照录网页残缺词形；译文仅依可辨句义译出，并明确标注残缺。,unresolved_source_truncation
+CJ5-5.29.2-01,CJ5.htm §5.29.2; final word cesseri,truncated_source_text,网页原文末尾止于 cesseri，疑似截断词形；无后续内容可据以校核。,照录网页残缺词形；译文依上下文处理，不补改拉丁文。,unresolved_source_truncation
+CJ6-6.2.9-01,CJ6.htm; 6.2.9 phrase quamvis hoc rebus humanis non oblatum fuerit exemptum,ambiguous_source_wording,网页底本的句法及关键分句含义不清，现阶段无法确定该条件具体指何种法律事实。拉丁引文完整保留。,中文译文明确标出该分句含义不明，只翻译确定的规则部分；不得据推测补写被盗奴隶的法律状态。待核对Krueger印本页图及可靠校勘本。,unresolved_pending_print_witness_check
+CJ6-6.58.14-01,CJ6.htm §6.58.14; numbering “6. (1)”,irregular_source_numbering,网页在条文内部呈现编号“6. (1)”，层级及其与前段编号的关系不清。,拉丁原文和译文均保留网页编号，不静默改排；待核验Krueger版页面。,unresolved_source_numbering
+CJ6-6.59.5-01,CJ6.htm §6.59.5.1; amitini tui alio etiam patre nati ... eorum matri privigni sunt,ambiguous_kinship_reference,后半句中的表亲、继子及“他们的母亲”指代关系不清，且涉及继子身份与同父血亲的区分。,保留网页拉丁文；中译作试译并在条后明确标注指代疑义，待可靠校勘本及案情语境复核。,unresolved_interpretation
+CJ6-6.59.11-01,CJ6.htm §6.59.11; phrase frater no consortio,transcription_word_split,网页将 fraterno 断作“frater no”，疑为词内断开；未据其他见证静默改动底本。,拉丁引文照录网页字样；译文按上下文试译为兄弟关系，并在译者校记说明。,unresolved_print_witness_check
+CJ7-7.10.4-01,"CJ7.htm §7.10.4; ministerium ancillae ... libertatem mancipio dando ea, quae precarium usum haberet",ambiguous_source_syntax,关于女奴的劳役使用利益、临时使用及其释放对所有权的影响，网页拉丁句法关系不够清楚。,拉丁文照录网页；译文依据可辨句义作试译，明确保留使用权与所有权的区分，不补写现代物权规则。待核对校勘本或平行文本。,unresolved_interpretation
+CJ7-7.14.10-01,CJ7.htm §7.14.10; ad recognoscendos singulos nomina comparata ... ob celandos natales ...,ambiguous_source_syntax,网页条文的句法、断句及姓名核对与隐瞒自由出身之间的关系不明。,拉丁原文照录；中文按网页词序作试译并在条后提示疑义，不据推测校改。待核验Krueger印本页图及可靠校勘本。,unresolved_interpretation
+CJ7-7.16.01,"CJ7.htm §§7.16.8, 7.16.11, 7.16.19, 7.16.32",source_date_or_transcription_anomaly,网页保留一处残缺日期、两处条文末词截断（cognoscetu；poteri）；7.16.11整句结构亦有明显缺损，现有网页不足以恢复其法律关系；7.16.32题署录作 M1XIM。,拉丁文、日期与题署均照录；对截断和结构缺损仅译可辨部分并作校记，不补词或推拟法律效果；待核验Krueger印本页图。,unresolved_print_witness_check
+CJ7-7.16.02,"CJ7.htm §§7.16.21, 7.16.31, 7.16.36, 7.16.41–42",ambiguous_source_syntax,多处句法压缩；7.16.31程序关系不明，7.16.41的 cognationis eius 指涉不明，7.16.42含修辞语 cum lucis auctoribus。,保留原文，中文依可辨法律关系试译并标出程序及指涉疑问；不把推测写成定论。,unresolved_interpretation
+CJ7-7.41.1-01,CJ7.htm §7.41.1; final phrase cuius fundus cresci,truncated_source_text,网页原文在条末止于 cresci，末句未完，无法仅据网页还原完整句法或词尾。,拉丁文照录网页；译文依可辨添附规则处理并在校记标明截断，不补写原文。,unresolved_source_truncation
+CJ7-7.37.3-01,CJ7.htm §7.37.3; phrase panes civiles,ambiguous_source_wording,网页拉丁语 panes civiles 含义不明，无法据此确认具体财物或身份。,照录拉丁文；中文保留疑义并待校勘本核验，不静默改作其他词形。,unresolved_interpretation
+CJ7-7.38.2-01,CJ7.htm §7.38.2; public/temple land and tenants,ambiguous_source_syntax,涉及国有或寺庙土地及佃户的长句中，主体与关系句法含混。,照录原文；译文依明确的程序后果作试译，未确定部分在译者校记中标出，待可靠校勘本复核。,unresolved_interpretation
+CJ7-7.51.5-01,CJ7.htm §7.51.5; webpage editorial note,missing_greek_text,网页仅以编者说明表示此处原有希腊文，尚未收入其图书馆；未提供可译的希腊文正文。,保留并翻译网页编者说明，不臆造希腊文正文；如后续找到平行版本，须作为外部见证另行标注。,source_text_not_provided
+CJ7-7.60.2-01,CJ7.htm §7.60.2; final word poteri,truncated_source_text,网页条文末尾止于 poteri，词形及句子均未完；仅凭本页无法确定完整词尾。,原文按网页照录；译文仅处理可辨的权利不因缺席分割而减损之意，并标明网页末尾残缺，不补写拉丁文。,unresolved_source_truncation
+CJ8-8.17.4-01,CJ8.htm §8.17.4; rem publicam heliopolitanorum,legal_institution_ambiguity,条文所称赫利奥波利斯的 res publica 在此为特定城邦公共机关、财政主体或其他公法人，单凭网页措辞不宜进一步具体化。,正文暂译“赫利奥波利斯的公共团体”，并保留 res publica；不擅自确定为市库或其他机关。,translation_cautious_pending_context
+CJ8-8.17.11-01,"CJ8.htm §8.17.11; licet condicionales sint, quos vulgo tabularios appellant",syntax_or_terminology_ambiguity,网页句中 condicionales 与 tabularios 的指涉和句法关系不够清楚，且会影响对私人文书制作、证人或相关人员身份的理解。,拉丁原文照录；中译暂保留 condicionales、tabularii 两术语并明示关系未详，不径直解释为公证人或特定身份人员。,unresolved_print_witness_check
+CJ8-8.36.4-01,CJ8.htm §8.36.4; body before A 501 date,missing_source_text,网页保留8.36.4锚点及星号、日期题署，但该法条正文缺载。,原文照录现存标记和日期；中文注明未载可译正文，不依相邻条文补造。,unresolved_source_truncation
+CJ8-8.42.18-01,"CJ8.htm §8.42.18; ipsius, cui negotium gerendum mandaveras",syntax_or_reference_ambiguity,结尾关于清偿所用款项并非本人之款、而是受托处理事务者之款的指涉压缩，相关主体不完全明确。,正文依网页句法作谨慎试译；保留代理关系，未把付款来源扩写为确定的第三人法律关系。,translation_cautious_pending_context
+CJ8-8.42.23-01,CJ8.htm §8.42.23; litterarum Auxanonis,name_or_reference_ambiguity,网页中的 Auxanonis 为人名或转录形式，其与致阿里斯托书信及付款委托的关系仅据本句难以完全确定。,拉丁原文照录；中文暂音译为“奥克萨农”，保留阿里斯托和未完成委托的程序关系，不作外部人物识别。,translation_cautious_pending_context
+CJ8-8.42.24-01,CJ8.htm §8.42.24; eius industriam vel eventum meliorem,legal_effect_ambiguity,以地产代偿后，经营收益、价值变化或处分盈亏由何方承担的关系，条文句法压缩。,译文保留皇帝所否定的单向主张及盈亏不对称问题，不补入更具体的风险分配规则；待可靠校勘本或平行法源复核。,unresolved_print_witness_check
+CJ8-8.47.10-01,CJ8.htm §8.47.10; adoption to extraneous person and succession,legal_effect_ambiguity,该敕令区分收养给外人与收养给祖辈等亲属时自然继承权、养家继承权及解放后的回归效果，涉及遗嘱违反义务之诉、用益权、祖辈继承和《阿菲尼安元老院决议》；层次复杂。,保留网页的1、1a–1g、2–5层级；正文按各款翻译，不压缩为一般规则；相关制度效果标为待可靠校勘本及罗马法注释复核。,unresolved_print_witness_check
+CJ8-8.47.10-02,CJ8.htm §8.47.10.3; ex Afiniano senatus consulto ex tribus maribus,historical_legal_reference_ambiguity,网页引用《阿菲尼安元老院决议》及 ex tribus maribus 的适用人群，单据本条难以确定其具体身份或制度背景。,拉丁文照录；中文保留 ex tribus maribus，不将其解释为“三名男子安排”；待核罗马法平行法源或校勘注释。,unresolved_print_witness_check
+CJ9-9.3.2-01,CJ9.htm §9.3.2.2; copia nundinandi,ambiguous_procedural_term,负责解送被告到庭者不得取得“nundinandi”的机会；该词可指交易、议价或其他商业活动，单凭本句难以限定。,译文谨慎处理为不得借机与被告交易或议价，并保留拉丁词提示；待校勘本或罗马诉讼程序研究核验。,unresolved_interpretation
+CJ9-9.4.2-01,CJ9.htm §9.4.2; auditus apud acta ... poenam carceris ... postmodum eductus ... audiatur,procedural_sequence_ambiguity,条文在案卷听审、监禁刑及此后再行听审之间的程序先后表达紧缩，网页措辞未给出进一步解释。,按网页句序直译，并保留程序疑义；不据此补写实体规则或程序阶段。,translation_cautious_pending_context
+CJ9-9.4.6-01,CJ9.htm §9.4.6,missing_greek_text,网页仅提示此处有希腊文，称尚未收入图书馆，未提供可译的希腊文正文。,保留并翻译网页编者说明；不补拟希腊文。,source_text_not_provided
+CJ9-9.6.1-01,CJ9.htm §9.6.1,missing_greek_text,网页显示此处有希腊文，但图书馆版本没有收录希腊文正文。,照录和翻译网页英文提示；不补写缺失希腊文。,source_text_not_provided
+CJ9-9.12.4-01,CJ9.htm §9.12.4; a fuscinillo,name_or_reference_ambiguity,a + 夺格及“遭受殴打”的语境支持将 fuscinillo 视为施事者人名，而非器具名；网页不足以确认该人名的词形与身份。,译文暂按“遭 Fuscinillus 殴打”处理，并保留拉丁词形及待核说明；不推定其身份。,unresolved_interpretation
+CJ9-9.12.8-01,CJ9.htm §9.12.8.3; molliorem puam,transcription_anomaly,网页转录作 molliorem puam，句法上似存在转录异常，但仅据网页无法可靠校复。,拉丁文照录；中译依可辨句义谨慎处理，并明确未静默校改。,unresolved_print_witness_check
+CJ9-9.1.17-01,CJ9.htm §9.1.17; experir; date <A 299 >,transcription_truncation,网页末词作 experir，疑有词尾缺损；日期题署亦不完整。,拉丁文及题署照录；中译依可辨句义处理，不补字或日期。,unresolved_source_truncation
+CJ9-9.1.18-01,CJ9.htm §9.1.18; Maiestatis autem crimen excipimu,transcription_truncation,网页末词 excipimu 似缺少词尾，整句亦在该处截断。,照录网页；译文仅据上下文作谨慎释义，并标明词尾缺损。,unresolved_source_truncation
+CJ9-9.1.20-01,CJ9.htm §9.1.20; secretarium,institutional_term_ambiguity,secretarium 指向审判机关内部的特定审理场所，网页未说明其制度边界。,暂译“审判官密议厅”并保留拉丁词，不等同现代法院空间。,translation_cautious_pending_context
+CJ9-9.2.8-01,CJ9.htm §9.2.8; stationarii,institutional_term_ambiguity,stationarii 的具体职务及其与治安机构的关系不明。,暂译“驻站官员”，必要处保留拉丁文，待制度史资料核验。,translation_cautious_pending_context
+CJ9-9.2.11-01,CJ9.htm §9.2.11; praevaricatio,legal_term_ambiguity,praevaricatio 涉及控告失败或控告方不当行为，具体罪名边界不宜仅凭网页确定。,暂译“徇私纵容罪”，保留拉丁词并说明其程序语境，待罗马刑法资料核验。,unresolved_interpretation
+CJ9-9.6.6-01,CJ9.htm §9.6.6; relegatio/deportatio; particularis publicatio,penalty_term_ambiguity,本条区分不同流放刑罚，并规定部分财产没收；具体刑罚效果不宜合并处理。,分别译作“迁徙地流放”“流放”及“部分财产没收”，不互相替代。,translation_cautious_pending_context
+CJ9-9.8.5-01,CJ9.htm §9.8.5; falcidia,legal_institution_ambiguity,条文多款涉及《法尔基丢法》份额计算，遗产扣除与份额范围关系较复杂。,保留拉丁制度名，译作“法尔基丢份额”，逐款翻译，不简化计算规则。,unresolved_interpretation
+CJ9-9.8.6-01,CJ9.htm §9.8.6; depitiani; rationales,name_or_office_ambiguity,depitiani 人名拼写可疑；rationales 为具体财政官职称谓。,原文照录 depitiani，暂音译；rationales 暂译“财政官员”，待版本及官制资料复核。,unresolved_print_witness_check
+CJ9-9.9.35-01,CJ9.htm §9.9.35; ipse videlicet imminens,syntax_or_reference_ambiguity,ipse videlicet imminens 的指涉与句法关系不够清晰。,暂按丈夫本人行使相关诉权译出；说明 imminens 亦可指诉讼迫近或推进，不增添其遭受另一项控告的事实。,unresolved_interpretation
+CJ9-9.13.1-01,CJ9.htm §9.13.1; raptus; sine fori praescriptione,legal_term_ambiguity,raptus 涉及暴力带走、强迫婚配或贞洁侵害；sine fori praescriptione 的程序含义不明。,raptus 暂译“劫掠”，不缩限为现代绑架；程序语暂作不得援用程序性时效抗辩，列为待校事项。,unresolved_interpretation
+CJ9-9.14.1-01,CJ9.htm §9.14.1; dierum distinctione sive interpretatione depulsa,syntax_or_reference_ambiguity,开篇关于日数区分或解释的表述，其技术所指不够清晰。,依上下文试译并在条后说明疑义，不将推测写成确定的免责规则。,translation_cautious_pending_context
+CJ9-9.16.1-01,CJ9.htm §9.16.1; iustum,name_or_reference_ambiguity,网页作小写 iustum；依相近异文或可读作人名 Iustus，但本网页本身不能确认。,原文小写照录；暂按人名 Iustus 翻译，待校勘本核实，不静默大写。,unresolved_print_witness_check
+CJ9-9.18.5-01,CJ9.htm §9.18.5; denegave,transcription_truncation,网页条文末词 denegave 形态未完。,照录词形，仅依可见词干翻译命令关系，不补写词尾。,unresolved_source_truncation
+CJ9-9.18.6-01,CJ9.htm §9.18.6; manibus accitis,religious_term_ambiguity,manibus accitis 涉及罗马宗教语境中的召请行为，具体所指有解释空间。,暂理解为召请亡灵或冥府之灵，保留原文并标示解释性。,unresolved_interpretation
+CJ9-9.19.3-01,CJ9.htm §9.19.3,transcription_or_syntax_ambiguity,该条存在疑似讹句，网页文本不足以支持静默校复。,拉丁文照录；中文仅按可辨内容试译并标明待校。,unresolved_print_witness_check
+CJ9-9.20.1-01,CJ9.htm §9.20.1; intender,transcription_truncation,网页正文末尾以 intender 截断。,原文照录；中译不补写缺失词尾或未载句子。,unresolved_source_truncation
+CJ9-9.20.4-01,CJ9.htm §9.20.4; procurator,institutional_term_ambiguity,procurator 可能指行政或财政职能代理官，具体官职依该条无法完全确定。,暂译“代理官”，并保留拉丁词，待官制资料核验。,translation_cautious_pending_context
+CJ9-9.20.14-01,CJ9.htm §9.20.14,syntax_or_reference_ambiguity,关于身份误认的句法关系含混，影响行为主体及法律效果。,依可辨词序谨慎翻译并保留校记，不补定未明身份。,unresolved_interpretation
+CJ9-9.22.22-01,CJ9.htm §9.22.22; tamquam ad imitationem relationis,procedural_term_ambiguity,该比拟语涉及晚期帝国审理或报告程序，制度背景不明。,暂保留“报告程序”的字面线索，不据此认定具体程序，待核。,translation_cautious_pending_context
+CJ9-9.27.4-01,CJ9.htm §9.27.4; EDICTUM AD P,truncated_source_heading,网页编辑性署名或附记止于 EDICTUM AD P。,依网页照录截断署名，不补足或猜测后文。,unresolved_source_truncation
+CJ9-9.27.3-01,CJ9.htm §9.27.3; cognitor ... mercator,institutional_term_ambiguity,cognitor 与 mercator 的职务或身份关系不明。,保留其并列关系并作字面试译，不擅自确定其为法官或商人代表。,unresolved_interpretation
+CJ9-9.30.1-01,CJ9.htm §9.30.1; suscipere plebem,syntax_or_reference_ambiguity,suscipere plebem 在骚乱语境中的行为方式未由网页进一步说明。,暂译“召集或聚集平民”，保留解释余地。,unresolved_interpretation
+CJ9-9.32.1-01,CJ9.htm §9.32.1; derelinquenda es,transcription_truncation,网页末句作 derelinquenda es，词尾或谓语形式疑有截断或讹误。,拉丁文照录；中译按可辨语义谨慎处理，不静默补词。,unresolved_source_truncation
+CJ9-9.34.4-01,CJ9.htm §9.34.4.1; quasi anteriorem personam,legal_reference_ambiguity,通过 quasi anteriorem personam 实施欺诈的结构与所谓优先身份关系不明。,保留“仿佛享有优先权者”的试译，并列为待核，不进一步推定担保顺位。,unresolved_interpretation
+CJ10-10.1.4-01,CJ10.htm §10.1.4; metoecis,institutional_status_ambiguity,metoeci 指奉君主之命迁往另一城市的一类人，其准确身份及原有财产制度背景不详。,暂译“外来定居者”并保留拉丁词，不进一步推断其公民或财产身份。,translation_cautious_pending_context
+CJ10-10.1.7-01,CJ10.htm §10.1.7; condicionales servi,institutional_term_ambiguity,调查国库财产时所用 condicionales servi 的具体身份和证据功能未由本页说明。,暂译“条件奴隶”并保留原词，避免把其证言能力或程序身份写成确定规则。,unresolved_interpretation
+CJ10-10.1.9-01,CJ10.htm §10.1.9; irenarcho et optione,office_title_ambiguity,irenarchus 与 optio 为行政或治安职衔，其在本条涉及的财政供给职掌不清。,保留拉丁职衔并按原文说明遵守旧制，不套用现代官职。,unresolved_print_witness_check
+CJ10-10.1.11-01,CJ10.htm §10.1.11,missing_greek_text,网页仅提示此处有希腊文，未提供可译的希腊文正文。,保留并翻译网页编者说明，不补写希腊文。,source_text_not_provided
+CJ10-10.3.7-01,CJ10.htm §10.3.7,missing_greek_text,网页仅提示此处有希腊文，资料库未收录正文。,保留并翻译网页编者说明，不补写希腊文。,source_text_not_provided
+CJ10-10.22.4-01,CJ10.htm §10.22.4,missing_greek_text,网页仅提示此处有希腊文，未提供其正文。,保留并翻译网页编者说明，不补写希腊文。,source_text_not_provided
+CJ10-10.27.2-4-01,CJ10.htm §§10.27.2–10.27.4,missing_greek_text,网页连续三处仅以英文说明原有希腊文尚未收入图书馆，未提供可译正文。,逐处保留并翻译网页说明，不合并臆补缺文。,source_text_not_provided
+CJ10-10.28.1-01,CJ10.htm §10.28.1; canon; relevata/donata/adaerata/translata,fiscal_category_ambiguity,条文区分定额税及获减免、赠与、货币折算、转移等财产类别，并涉及既往欠额与将来负担，语义关系压缩。,按原文逐项翻译并保留拉丁类别词；不自行重构现代税制，待财政制度资料核验。,translation_cautious_pending_context
+CJ10-10.30.2-01,CJ10.htm §10.30.2; discussoribus seu apparatioribus,office_title_ambiguity,税务核查官与 apparatioribus 的具体官署身份及凭证出具职掌不明。,暂译为税务核查官或管理官，并保留原文拼写；待校勘本及官制资料核验。,unresolved_interpretation
+CJ10-10.30.3-01,CJ10.htm §10.30.3; honorati; comitiva consistoriana; iugorum,office_and_tax_unit_ambiguity,所列荣誉官阶范围及土地税额单位 iugum 的制度背景具有时代专属性。,保留官阶与 iugum 术语并依语境解释，不换算为现代职务或面积。,translation_cautious_pending_context
+CJ10-10.30.4-01,CJ10.htm §10.30.4,missing_greek_text,网页提示此处有希腊文，但图书馆未载希腊文正文。,保留并翻译网页编者说明，不补拟正文。,source_text_not_provided
+CJ10-10.32.53-01,CJ10.htm §10.32.53; fascinum,transcription_or_office_term_ambiguity,网页作 fascinum；结合双人长官不得越出城界行使权力的语境，可能涉及 fasces 等官权标志，但本页不足以确认。,原文照录；译文使用“官权标志”并保留 fascinum，不静默改成 fasces。,unresolved_print_witness_check
+CJ10-10.32.65-01,CJ10.htm §10.32.65,missing_greek_text,网页只提示此处有希腊文，未载可译正文。,保留并翻译网页编者说明，不补造希腊文。,source_text_not_provided
+CJ10-10.32.67.3-01,CJ10.htm §10.32.67.3; principes argentium,office_title_ambiguity,principes argentium 的确切职掌仅据该条无法确定。,保留拉丁职称，暂不等同于特定铸币或财政职务。,unresolved_interpretation
+CJ10-10.32.67.6-01,CJ10.htm §10.32.67.6; ex tribus maribus,historical_legal_reference_ambiguity,ex tribus maribus 所指特许与父亲、最高元老院之间的关系未由本条解释。,保留拉丁短语，译文仅作宽泛描述，不补入具体身份或制度内容。,unresolved_print_witness_check
+CJ10-10.32.68-01,CJ10.htm §10.32.68,missing_source_text,网页在该锚点后仅列点线占位，没有法条正文。,照录点线并注明未载可译文本，不根据上下文补写。,source_text_not_provided
+CJ10-10.34.2-01,CJ10.htm §10.34.2; rei hereditariae ... debitoris hereditarii ... liberatio,procedural_scope_ambiguity,城市议员团体取得的遗产财产出售与已清偿继承债务人解除责任的适用条件句法紧缩。,译文依现有语序谨慎处理，保留审批及资金用途关系，待校勘本复核。,translation_cautious_pending_context
+CJ10-10.34.3-01,CJ10.htm §10.34.3; ex tabella decretum recitari,transcription_or_syntax_ambiguity,关于裁定文书宣读、城市议员团体报告及确认买卖判决的末句句法异常。,依可辨结构谨慎试译，原文照录，不擅自补写程序步骤。,unresolved_print_witness_check
+CJ10-10.34.4-5-01,CJ10.htm §§10.34.4–10.34.5,missing_greek_text,网页连续两处只说明存在未收录的希腊文。,分别保留并翻译编者提示，不补造希腊文正文。,source_text_not_provided
+CJ10-10.35.2-01,CJ10.htm §10.35.2; pars quarta curiae; paragraphs 1–9,complex_succession_rule,城市议员遗产四分之一的抽签分割、债权债务分配、女性后代婚姻、等待期限及豁免条件互相关联。,逐款保留网页层级与条件，不将规则概括为单一一般命题；待继承法专题校核。,unresolved_print_witness_check
+CJ10-10.35.3-01,CJ10.htm §10.35.3; fourth share and querella inofficiosi,complex_succession_rule,遗嘱违反义务之诉、男性后代承担城市议员义务的财产份额及已婚女儿豁免规则交错。,逐款译出并保留四分之一份额、亲属范围及婚姻条件，待继承法专题复核。,unresolved_print_witness_check
+CJ10-10.35.4-5-01,CJ10.htm §§10.35.4–10.35.5,missing_greek_text,网页连续两处只提示希腊文未收录，未提供可译正文。,逐处保留并翻译网页说明，不补写希腊文。,source_text_not_provided
+CJ11-11.62.4-01,"CJ11.htm §11.62.4; phrase “ea, quae in nostra possessione positi praestiterint, et in posterum dissolvant”",ambiguous_source_syntax,网页句末以 *dissolvant* 收束；该动词所承接的宾语及前句 *ea* 的指向不够明确，关系到受领皇室地产者今后需继续承担何种缴纳义务。,拉丁文按网页保留；暂译为继续履行其既有缴纳义务，不补入具体给付对象；待核Krüger印本页图或可靠校勘注释。,unresolved_interpretation
+CJ11-11.62.14-01,CJ11.htm §11.62.14; “agonothetici seu relevatorum iugorum”,institutional_term_ambiguity,四十年取得时效条文列有 *agonothetici* 与 *relevatorum iugorum* 等地产类别；两类术语具体制度含义及其与地产权利的关系不能仅据网页确定。,照录拉丁文；中文维持暂译并保留原词，待查相关晚期罗马财政制度研究及校勘注释。,unresolved_interpretation
+CJ11-11.65.4-01,CJ11.htm §11.65.4; “intra ianuariarum iduum diem”,source_date_or_syntax_anomaly,网页使用不寻常的日期表述 “intra ianuariarum iduum diem”，其句法形式与规范的罗马历日期公式不完全相合；中文暂按一月十五日以内理解。,原文照录；暂译为一月十五日以内，不静默规范拉丁文，待核印本或校勘本。,unresolved_print_witness_check
+CJ11-11.66.7-01,"CJ11.htm §11.66.7.1; “nec temporis ... praescriptione, excepto vetustatis auxilio”",legal_effect_ambiguity,本款禁止以时效对抗皇室地产请求，却又明示“长期占有之助益除外”；该例外范围及其与禁止规则的适用关系不明。,依网页原文保留两项规则；中译暂按长期占有例外处理，不推定其年限或完整适用要件；待核平行法源与校勘注释。,unresolved_interpretation
+CJ11-11.69.0-01,CJ11.htm menu §11.69.0; title ends “... aliisque liberare condicionis (..)”,truncated_source_heading,网页目录中的11.69题名在“De praediis tamiacis et de his qui ex colonis dominicis aliisque liberare condicionis”后标有蓝色“(..)”，显示题名后半缺载。,保留目录可见题名及缺载标记；不依正文补拟题名，待查印本目录或其他可靠见证。,unresolved_source_truncation
+CJ11-11.70.5-01,CJ11.htm §11.70.5; “agnotheticas possessiones”,transcription_or_institutional_term_ambiguity,网页正文作 *agnotheticas possessiones*；该拼写及所指地产制度不能仅据本条确定，可能涉及竞赛管理人相关地产类别。,拉丁文照录；中文暂译并保留原词，不擅自改作其他拼写；待校勘本与城市地产制度资料核验。,unresolved_print_witness_check
+CJ11-11.71.0-01,CJ11.htm menu §11.71.0; title ends “... sive rei privatae (..)”,truncated_source_heading,网页目录中的11.71题名在“De locatione praediorum civilium vel fiscalium sive templorum sive rei privatae”后标有蓝色“(..)”，题名显系未完整显示。,照录可见题名及省略标记；不依各条内容补拟后半题名，待查印本目录或其他可靠见证。,unresolved_source_truncation
+CJ11-11.74.0-01,CJ11.htm menu §11.74.0; title ends “... vel civitatum (..)”,truncated_source_heading,网页目录中的11.74题名在“De collatione fundorum fiscalium vel rei privatae vel dominicae vel civitatum”后标有蓝色“(..)”，题名后半缺载。,保留目录可见题名及省略标记；不根据正文补拟缺失标题，待查印本目录或其他可靠见证。,unresolved_source_truncation
+CJ11-11.75.4-01,"CJ11.htm §11.75.4; initial punctuation before “Imperatores Honorius, Theodosius”",transcription_anomaly,本条拉丁正文在皇帝题署前多出句点（“. Imperatores”）；无法仅据网页判断为转录标点还是印本原貌。,底本引文暂按网页保留该句点；待核Krüger印本页图后再决定是否仅在编辑说明中处理。,unresolved_print_witness_check
+CJ11-11.78.2-01,CJ11.htm §11.78.2; “alytarcha”,office_title_ambiguity,条文指定 *alytarcha* 不得砍伐达芙妮林苑柏树，并规定相应替代给付；该职官在本条所涉城市管理或仪典中的准确身份、职责仍待核。,保留拉丁职称，中文暂用音译并说明待考；核查安条克地方职官制度及相关校勘注释。,unresolved_interpretation
+CJ10-10.31.0-01,"CJ X, 10.31.0（目录题名）",missing_source_text,网页在第10.31题仅显示点线占位，未载题名或正文。,照录占位并明确说明无可译内容；不依相邻题名补造。,译文已作保留处理；仍待独立复核。
+CJ10-10.36.1-01,"CJ X, 10.36.1；descriptionis onus siliquarum quattuor",translator_uncertainty,四枚 siliquae 所涉缴纳义务及课税基数关系不够明确。,保留数量与货币单位，不换算现代币值；待校勘本及财政史复核。,译文已作保留处理；仍待独立复核。
+CJ10-10.40-01,"CJ X, 10.40.2、10.40.7；就学住所、adlectio",translator_uncertainty,十年就学住所规则及 adlectio 对公民身份的制度效果未由网页充分说明。,保留期限、身份和授予关系，不套用现代住所或入籍概念；待制度史复核。,译文已作保留处理；仍待独立复核。
+CJ10-10.41.1-01,"CJ X, 10.41.1；未成年子、可委任义务与父保证",translator_uncertainty,未成年子承担或转委公共义务及父亲担保的主体、范围关系紧密。,依原文保留主体、担保及义务次序，不扩张责任范围；待专题复核。,译文已作保留处理；仍待独立复核。
+CJ10-10.42.8-01,"CJ X, 10.42.8；protostasia、decaprotia",translator_uncertainty,两项职务或负担所涉资格与财产责任具有晚期罗马制度背景。,保留拉丁职称并作暂译，不等同现代行政职位；待制度史复核。,译文已作保留处理；仍待独立复核。
+CJ10-10.48-01,"CJ X, 10.48.4、.6、.12、.15；器物、官署语与处罚公式",translator_uncertainty,hydraulae、veneratoribus、paraveredi/parangariae、capitulum 与 temo 等专门词及莱蒂亚例外难确释；10.48.15处罚公式不规则。,原文照录，保留暂译和例外结构；capitulum、temo 暂保留拉丁词，不规范化处罚公式；待印本与制度资料核验。,卷十已完成人工二校；专门词及异常处罚公式仍待印本或制度资料核验。
+CJ10-10.66.1-01,"CJ X, 10.66.1；希腊来源工匠名录",translator_uncertainty,网页以拉丁字母转写的希腊工匠名录可能包含讹误词形。,照录网页形式，不反向补拟希腊文；待校勘本核验。,译文已作保留处理；仍待独立复核。
+CJ10-10.71-01,"CJ X, 10.71.2、.4；casuale ministerium 与职务分派",translator_uncertainty,casuale ministerium 的确切义项及相关职务关系不明。,保留拉丁语并依上下文暂译，不代入现代公务员概念。,译文已作保留处理；仍待独立复核。
+CJ10-10.72-01,"CJ X, 10.72.2、.9、.11、.13、.15；度量、账目与财政职称",translator_uncertainty,度量及六十 modii、比例、vini susceptoribus、largitionalis、arcarius/comes aerarii 涉及专门财政制度。,保留原数量与职称，不作现代单位折算；待财政史及校勘本复核。,译文已作保留处理；仍待独立复核。
+CJ10-10.77.1-01,"CJ X, 10.77.1；irenarchae",translator_uncertainty,irenarchae 的任命及司法、治安职掌因地方与时期而异。,保留拉丁职称，不与现代警察或司法职位等同。,译文已作保留处理；仍待独立复核。
+CJ11-11.8-01,"CJ XI, 11.8.2、.4、.10；染色物、quintum animal 与织物材料",translator_uncertainty,商品及织物名称、quintum animal 的计数对象难以仅据网页确释。,保留拉丁词并作有保留的暂译，不据现代商品名回填。,译文已作保留处理；仍待独立复核。
+CJ11-11.9.4-01,"CJ XI, 11.9.4；abiurato pretio",translator_uncertainty,该语的法律效果及其与价款返还或否认的关系存在解释空间。,暂按上下文译出并保留拉丁短语，不补写请求权或责任后果。,译文已作保留处理；仍待独立复核。
+CJ11-11.10.3-01,"CJ XI, 11.10.3；替代人员及退款",translator_uncertainty,替代人员指定与已收款返还的主体关系表达紧缩。,依原文次序翻译并保留退款条件，不添加未明示程序。,译文已作保留处理；仍待独立复核。
+CJ11-11.14-01,"CJ XI, 11.14；decuriae、decuriales",translator_uncertainty,术语可能涉及官署编组、成员身份或公共负担，须依款项区分。,按语境区分组织与人员，不一概译作城市议会；保留拉丁词。,译文已作保留处理；仍待独立复核。
+CJ11-11.25.2-01,"CJ XI, 11.25.2；parapeteuma",translator_uncertainty,该词具体建筑或地产制度含义不能由网页条文确定。,保留原词并作暂译，不径定为现代设施类别。,译文已作保留处理；仍待独立复核。
+CJ11-11.26.1-01,"CJ XI, 11.26.1；身份等级与从属关系",translator_uncertainty,身份等级与依附关系依赖晚期罗马社会身份制度，网页无补充说明。,依字面结构谨慎翻译，不补定身份类别。,译文已作保留处理；仍待独立复核。
+CJ12-12.1-01,"CJ XII, 12.1.4、.16、.18；temonariae、羁押替代、revocatoria",translator_uncertainty,temonariae 的具体运输负担、12.1.16 的狱外替代羁押措施，以及 revocatoria 与 comitatus 的制度关系，均依赖官制或程序语境。,保留相关拉丁术语并按可辨语序谨慎翻译；12.1.16 不径定为保证或现代保释，不补造程序效果。,已完成人工二校；具体制度含义仍待印本或专门资料核验。
+CJ12-12.2.2-01,"CJ XII, 12.2.2；gleba、follis",translator_uncertainty,财政负担或核算术语的适用基础与折算不明。,保留原词或暂译，不换算现代税额。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.3-01,"CJ XII, 12.3.4–5；conaularibus、bideantur",translator_uncertainty,网页词形疑含转录或语法异常，未核印本前不能静默校正。,照录拉丁文，中文据可辨结构试译并标疑。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.5.4-01,"CJ XII, 12.5.4；句法结构",translator_uncertainty,句法与修饰范围不清，影响规则主体或条件。,依网页语序谨慎翻译，不增补隐含主体。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.7-01,"CJ XII, 12.7.2、12.9.1；网页疑似拼写错误",translator_uncertainty,两处词形可能有转录问题，未核印本无法确定校改读法。,原文照录并标疑，不静默订正。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.8.3-01,"CJ XII, 12.8.3",missing_source_text,网页该处仅有点线占位，无可辨正文。,保留占位并说明缺文，不补拟法条。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.16-01,"CJ XII, 12.16.3；decuriones 的人数与适用范围",translator_uncertainty,条文中三十名 decuriones 与另列三人的关系、人数计算及适用范围不明，且不能径按城市议员理解。,保留原有数字、人数关系和拉丁职称；依宫廷组织语境谨慎翻译，不补定组织编制。,已完成人工二校；人数与组织范围仍待制度资料核验。
+CJ12-12.17-01,"CJ XII, 12.17.1、.3、.5；礼仪词、句法与希腊文缺载",translator_uncertainty,第1款 osculandi 及 vicarios tui culminis 的礼仪、职务含义不明；第3款 desides...numerat 句结构疑有缺损；第5款网页提示希腊文但未载正文。,拉丁文照录并依可辨结构谨慎翻译；不补拟缺损句及缺载希腊文，也不将礼仪或职务语套用现代称谓。,已完成人工二校；礼仪、句法及缺载希腊文问题仍待专门资料核验。
+CJ12-12.19-01,"CJ XII, 12.19.1、.4、.9、.11；费用与职掌",translator_uncertainty,descriptionis、venalicium/temo 等词形及其与费用、官署职掌的关系不明；第9款请假安排与第11款金额和受领人关系亦需制度语境核定。,逐项保留金额、对象和职位；疑词按原文标示，不合并为现代费用类别，不补定请假或给付关系。,已完成人工二校；费用和官署关系仍待印本或制度资料核验。
+CJ12-12.20-01,"CJ XII, 12.20.3、.5；官职题名与名册",translator_uncertainty,第3款 matriculam...amittentes 的主语、对象关系不明；第5款官署术语及职衔层级不能单凭题名确认。,依原文保留名册、职衔和主体关系；暂译并保留拉丁职称，不套用现代同名职务。,已完成人工二校；名册句法与制度职衔仍待专门资料核验。
+CJ12-12.23.7-01,"CJ XII, 12.23.7–8；官阶名录缺项与 cingulo liberentur",source_gap,第7款原文官阶名录存在缺项或空缺；第8款 cingulo liberentur 的身份及官职效果不明。,保留缺项位置，不按常见序列补入内容；第8款依可辨语义谨慎翻译，不把 cingulum 的具体法律效果写成定论。,已完成人工二校；网页缺项保留，第8款制度含义仍待核。
+CJ12-12.37-40-01,"CJ XII, 12.37.18–19、12.40.12；希腊文缺载",missing_greek_text,网页标示相关处原有希腊文，但未提供正文。,保留并翻译网页编者说明，不拟写希腊文。,已完成人工二校；网页未载希腊文，仍按编者说明保留，不拟补正文。
+CJ12-12.39.4-01,"CJ XII, 12.39.4；五与第六的数量表述",translator_uncertainty,同处出现“五”与“第六”相关表述，可能涉及五分之六或文本异常。,暂按五分之六理解并作校记；保留原文数词，不静默改动。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.41-01,"CJ XII, 12.41；salgama",translator_uncertainty,该词物品类别及供给语境须由专门词汇资料确认。,采用暂译并保留拉丁词，不替换为未经核实的现代商品名。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.42-43-01,"CJ XII, 12.42.2、12.43；官阶、职衔、登记与 schola",translator_uncertainty,官阶算法、宫廷职称、人口登记及 schola 均具制度专属性。,保留制度术语并分项依文翻译，不作现代编制类比。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.45-46-01,"CJ XII, 12.45.1.3、.2、12.46.1–4；句法、身份与军职管辖",translator_uncertainty,subiturunt、tractoriae、社会类别及退役军人管辖规则有句法或制度史疑点。,谨慎翻译，保留拉丁术语及层级，不补未明示的管辖效果。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.48-01,"CJ XII, 12.48；金重量与币值",translator_uncertainty,金重量单位及币值缺少网页提供的现代换算依据。,保留原单位、数量和币名，不作现代换算。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.49-01,"CJ XII, 12.49.7、.10、.12；轮值、赛会账务与官职",translator_uncertainty,轮值规则、赛会账务人员及题名涉及特定行政制度。,分别译出人员职责，保留拉丁职称，不合并不同岗位。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.50-01,"CJ XII, 12.50.4、.6、.8以下；马匹、网页词形与公共交通",translator_uncertainty,parhippus、Evictionum、ex utraque parte 及 cursus clavularis、tractoriae、stativa 等词须分别校核。,网页原文照录；疑词标明待核，交通职务与文书按原层级翻译。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.55.2-01,"CJ XII, 12.55.2；membra rei publicae",translator_uncertainty,短语具体指公共体制成员或组成部分，须依制度背景判断。,按上下文暂译并保留拉丁语，不等同现代法人概念。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.57-01,"CJ XII, 12.57；stationarii、pastus primipili 与证据",translator_uncertainty,驻站人员、primipilus 供给与证据规则涉及多层官职和财政安排。,保留职称、供给名目及证据关系，不以现代军警或税务概念替代。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.59.10-01,"CJ XII, 12.59.10；五类官员名录",translator_uncertainty,五类官员的次序与类别边界关系到职责分配。,保留原有五项及次序，不合并职称。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.60-01,"CJ XII, 12.60；强制执行范围",translator_uncertainty,执行条款的对象及地域或身份范围须结合上下文确定。,保留条文适用对象与条件，不扩张效力范围。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.61-01,"CJ XII, 12.61；ducenarii、centenarii",translator_uncertainty,职称在不同官署可能对应不同等级、薪俸或职掌。,保留拉丁名并作暂译，不据字面推定实际编制人数。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ12-12.63-01,"CJ XII, 12.63；indices nummarii",translator_uncertainty,职务名称和职责不能由字面直接确定。,保留拉丁职称并作暂译，不等同现代货币检验或会计职位。,独立二校完成；保留的制度或词义疑点仍待专项资料核验。
+CJ4-4.20.6-10-GAP,"CJ IV, 4.20.6–4.20.10、4.20.21",source_gap,4.20.6–4.20.10仅有编号锚点而无拉丁正文；4.20.21仅保留省略号。,按原网页保留编号、空白/省略标记并明确说明缺文；不从平行条文或推测补写。,译稿已标明缺文；底本空缺照录。
+CJ9-9.51.1-01,CJ9.htm §9.51.1; starred narrative from CUM SALUTATUS through AB A<XX >,transcription_truncation,网页在规范复文后以星号接入一段题署叙述，句法及主体承接不完整，末尾止于 AB A<XX >。,保留网页串接与截断；将可辨叙述单列翻译并标注为残文，照录 A<XX >，不据他本补足。,unresolved_source_truncation
+CJ6-6.34.4-MD,CJ6.htm §6.34.4,missing_greek_text,网页没有希腊文正文，仅有编者说明该处原有希腊文但尚未收入资料库。,保留并翻译网页提示，不补入希腊文；待查印本或其他可靠版本。,source_text_not_provided
+CJ6-6.35.4-MD,CJ6.htm §6.35.4; final word poterun,transcription_truncation,网页正文末尾为不完整词形，疑似截断；网页本身未提供后续内容。,拉丁文照录 poterun 并在译文标明截断，不补写词尾。,unresolved_source_truncation
+CJ6-6.35.11-MD,CJ6.htm §6.35.11; suorum gen itorum commodum,transcription_word_split,网页将 genitorum 拆分为 gen itorum，无法确认是转录排版问题还是源版字间异常。,拉丁文按网页原样照录；译文暂按上下文理解为“父母的利益”，待印本页图核验。,unresolved_print_witness_check
+CJ6-6.36.7-MD,CJ6.htm §6.36.7; D. III... IUN.,transcription_truncation,日期公式在网页转录中省略或截断，具体日数不可据现有文本确认。,日期拉丁文及中译均保留缺略，不按常见公式补齐；待查印本页图。,unresolved_source_truncation
+CJ6-6.37.23-MD,CJ6.htm §6.37.23; clause numbering,irregular_source_numbering,网页编号为1、1a、1b、1c、2. (1)、2a，层级与顺序不规则。,原文及译文保留网页编号和顺序，不自行改排；建议对照印本核验。,source_issue_preserved
+CJ6-6.35.1-MD,CJ6.htm §6.35.1; usuras semisses,legal_term_ambiguity,usuras semisses 可理解为半额利息或半额利率，网页上下文未提供具体换算说明。,暂译“半额利息”，不在正文作具体利率换算；需结合罗马利息制度和校勘本复核。,unresolved_interpretation
+CJ6-6.49.4-6.49.7-MD,"CJ6.htm §§6.49.4, 6.49.6–6.49.7",complex_succession_rule,特雷贝利亚努姆决议下遗产接受、四分之一保留、替补受益及诉权移转的法律关系复杂；网页正文未给出解释性材料。,拉丁文照录；中文依上下文翻译，并在译者校记标明建议专题复核处。,unresolved_print_witness_check
+CJ6-6.50.18-MD,CJ6.htm §6.50.18; repleri quidem quod ad Falcidiam deest,legal_effect_ambiguity,法尔基迪亚法份额如何在遗嘱人预先要求付款的情形下补足，句法与计算关系较复杂。,按本条所述目的暂译为补足法定份额，不补入具体算法；建议对照校勘本及罗马法资料复核。,unresolved_interpretation
+CJ6-6.51.1-categories-MD,CJ6.htm §6.51.1; pro non scriptis; in causa caduci; caduca,legal_term_ambiguity,条文区分处分视同未书写、尚处于失权状态及遗嘱人死亡后真正失权三类情形，并规定不同的利益归属及负担承受规则。,依第2a款建立对应译名并在全文保持区分；第1b款古法与《帕皮亚法》的关系暂按语境译出，待权威校勘本核验。,unresolved_interpretation
+CJ6-6.51.1-coniunctim-MD,CJ6.htm §6.51.1.10–11; coniunctim / disiunctim,complex_succession_rule,共同或分别指定的继承人、受遗赠人，在份额落空时的增添及负担规则层次繁复。,按条文分别译作“共同指定／分别指定”，完整保留款次及规则；建议法律史专题审校。,unresolved_print_witness_check
+CJ6-6.53.1-6.53.6-MD,"CJ6.htm §§6.53.1, 6.53.6; SUPPOSITA",editorial_marking_ambiguity,网页题署以 SUPPOSITA 标出所载日期，属于编辑标记，非正文日期公式。,拉丁原文照录，译文同时保留该标记及相应日期；不将补入日期冒充无标识的原始记载。,source_editorial_mark_preserved
+CJ6-6.53.4-MD,"CJ6.htm §6.53.4; et eius proprietas, cum liberos habuerit, nato filio",legal_effect_ambiguity,条文规定妻子生育子女及儿子出生对所有权遗赠请求权发生时间的影响，但未明示所有权受遗赠人。,译文不补定受益人，仅保留“遗赠该地产所有权”的结构；待校勘本及背景资料复核。,unresolved_interpretation
+CJ6-6.53.5-MD,CJ6.htm §6.53.5; Aeliae Severinae filiae et secundae decem,ambiguous_source_wording,遗嘱引文中受益人称谓、et 连接关系及“十”的计量单位均不够清楚。,原文照录；中译保留艾利娅·塞维莉娜、塞昆达及数量表达，不补入币种或其他单位，并于校记标疑。,unresolved_interpretation
+CJ7-7.7.1-split-MD,CJ7.htm §7.7.1; heredes ei us,transcription_word_split,网页在 eius 一词内部录作 ei us。,拉丁文照录网页断词；译文据句法暂释为“他的继承人”，未静默改动底本。,unresolved_print_witness_check
+CJ7-7.8.2-7.9.2-dates-MD,"CJ7.htm §§7.8.2, 7.8.6–7.8.7, 7.9.1–7.9.2; empty date formula",missing_source_metadata,网页题署为空，未提供日期或执政官信息。,原文空题署照录，译文说明底本无日期记载；不从相邻条文推补。,source_issue_preserved
+CJ7-7.7.1-valuation-MD,CJ7.htm §7.7.1.5–5c; valuation of enslaved persons,historical_legal_reference_ambiguity,按技艺类别、年龄、性别及阉人身份规定估值上限，属于特定历史价格制度。,数额及类别依网页逐项保留；译文不换算为现代货币，宜结合罗马释奴法专题复核。,unresolved_print_witness_check
+CJ7-7.9.3-MD,CJ7.htm §7.9.3; ex liberis ingenuo suscepto,ambiguous_source_syntax,网页句子中“自由出生者”与其所生之子的身份关系语法含混。,拉丁文照录；译文暂按“与自由出生者所生之子”理解，并列为待校勘项。,unresolved_interpretation
+CJ3-3.1.13-01,CJ3.htm §3.1.13 §2a; sacramento fugientis manifestanda,ambiguous_source_syntax,网页在确定诉讼费用时使用 sacramento fugientis（逃避诉讼者之宣誓）；由逃避者宣誓确认其应承担费用的金额，主体关系在上下文中反常，现有网页不足以确认是否为转录或句法问题。,拉丁文及网页顺序照录；译文按可辨字面译并保留译者校记，不据法理将宣誓主体改作对方或费用主张方；待核Krueger印本页图与平行文本。,unresolved_interpretation
+CJ6-6.49.3-01,CJ6.htm §6.49.3; quartae partis et fructus eius vobis restitutio competit,ambiguous_legal_effect,本句以 restitutio 表述依特雷贝利亚努姆元老院决议享有四分之一及其孳息的法律效果；仅据网页不能完全确定应理解为取得返还、返还请求还是份额保留。,拉丁文照录；译文暂按字面译为有权获得四分之一份额及其孳息的返还，并明确 restitutio 的具体程序效果待核；不静默改写为份额保留。,unresolved_interpretation
+CJ7-7.2.7-01,CJ7.htm §7.2.7; subscription “GORD. A..TAE.”,corrupted_superscription,网页题署中的收件人形式作 “A..TAE”，姓名残缺，不能据现有网页可靠还原。,拉丁题署原样保留；译文不补写收件人姓名，并在校记注明网页字形残缺；待核Krueger印本页图。,unresolved_transcription_anomaly
+CJ7-7.6.1-01,"CJ7.htm §7.6.1; “et non inutilis quidem pars eius deminuitur, quod autem ex ipsa rationabile est...”",ambiguous_source_syntax,首句关于“不无益处的部分”被削减以及“合理部分”纳入完善法制的两分句关系含混，且与前句问意的衔接不明。,拉丁文照录；中文按可辨词义保留问句并明确句法、逻辑关系待核，不改写为“废除无用部分、保留合理部分”的确定政策表述。,unresolved_interpretation
+CJ12-12.25.4-01,"CJ XII, 12.25.4；程序性条件压缩",ambiguous_source_syntax,条文将条件、程序或法律后果压缩表达，特权的适用范围不宜仅据译文顺畅程度推定。,依网页原文顺序谨慎翻译并保留校记；不补写未明示的程序阶段或法律效果。,已完成人工二校；程序关系仍待印本或专门资料核验。
+CJ12-12.29.1-01,"CJ XII, 12.29.1；domestici",translator_uncertainty,domestici 在此处可能指特定宫廷/军事编制或相应成员身份，不能只按字面确定组织层级。,保留拉丁职称并按条文关系暂译；不直接等同现代内务或家务职位。,已完成人工二校；具体编制含义仍待制度资料核验。
+CJ7-7.33.7-01,"CJ VII, 7.33.7；partem securitatem",ambiguous_source_syntax,网页作 partem securitatem，词形与句法可疑，不能仅据现有转录确定该短语的准确结构。,拉丁文照录；中文依上下文作保守理解并标明词形疑点，不静默改字；待核Krueger印本页图。,已完成人工二校；仍待印本页图核验。
+CJ7-7.33.9-01,"CJ VII, 7.33.9；cuius initio contestationem haberi sufficit",compressed_source_syntax,关于十年期间起算及诉讼争点确定时点的关系表达紧缩，修饰范围存在解释空间。,依上下文谨慎译出时间与程序关系，并保留译者说明；不将一种句法理解写成定论。,已完成人工二校；句法解释仍有余地。
+CJ7-7.34.1-01,"CJ VII, 7.34.1；per novercam tuam subtraxit",ambiguous_source_syntax,该短语中 subtraxit 的宾语和 per novercam tuam 的句法关系不甚明晰，不能据网页补定文书被取走的具体事实。,拉丁文照录；依可辨关系直译并保留校记，不补写行为过程或主观事实。,已完成人工二校；句法关系仍待校勘。
+CJ7-7.62.22-01,"CJ VII, 7.62.22；indignis legibus cogentibus",ambiguous_source_syntax,该句的 indignis 与 legibus cogentibus 的句法关系压缩；“不配享有者的财产依法被剥夺”是 Scott 1932 年平行英译所支持的解释。,中文暂依该平行译文译作“依法从不配享有者手中强制剥夺的财产”；保留拉丁文，不改动网页底本，并在译者说明中注明解释来源。,已完成人工二校；句法关系仍有解释余地。
+CJ12-12.33.5-01,"CJ XII, 12.33.5；复合官职例外清单",translator_uncertainty,该款对兼任或组合职务的例外清单表达紧缩，项目边界及其与前文身份类别的关系不完全明确。,保留原有列举顺序并按可辨结构翻译；不合并或补入未明示的职位。,已完成人工二校；例外清单仍待制度史资料核验。
+CJ12-12.35.18-01,"CJ XII, 12.35.18，尤第2a款；principia/ad responsum",ambiguous_source_syntax,该条程序文字密集；第2a款的 principia、ad responsum 与相关主体、诉讼步骤关系难以仅据网页确定。,依原文顺序谨慎翻译并保留拉丁术语；不补写具体程序阶段或主体义务。,已完成人工二校；程序关系仍待专题核验。
+CJ12-12.37.12-01,"CJ XII, 12.37.12；resistentes species/stillatura",translator_uncertainty,resistentes species 与 stillatura 的对象类别和制度含义不能由网页语境完全确认。,暂译并保留拉丁词，不推定为特定现代物资或生产流程。,已完成人工二校；术语含义仍待专门资料核验。
+CJ12-12.37.16-01,"CJ XII, 12.37.16；principia 与账务交易",ambiguous_source_syntax,principia 所指及相关账务交易条款的主体、对象与操作关系存在解释空间。,保留拉丁术语和原有主体层级；依可辨句法试译，不补足会计制度细节。,已完成人工二校；制度关系仍待核验。
+CJ12-12.38.1-01,"CJ XII, 12.38.1；nullis consistentibus familiis",ambiguous_source_syntax,nullis consistentibus familiis 的句法及其限定对象不明，影响本款所设条件的范围。,拉丁文照录；译文保留条件关系的不确定性，不补定家庭或群体类别。,已完成人工二校；句法及适用范围仍待核验。
+CJ12-12.39.2-01,"CJ XII, 12.39.2；iugum/caput 与黄金摊派",translator_uncertainty,土地税核算单位 iugum/caput 与黄金给付基数之间的对应关系不明，网页未提供换算或计算说明。,照录单位、数量和给付对象；不作现代换算或推定计算公式。,已完成人工二校；财政核算关系仍待专业资料核验。
+CJ12-12.40.3-01,"CJ XII, 12.40.3；praetoria",translator_uncertainty,praetoria 在此处的具体含义及所指建筑、空间或设施类别不能仅据网页确定。,暂保留拉丁词并谨慎翻译，不套用现代建筑或行政设施名称。,已完成人工二校；术语所指仍待核验。
+CJ12-12.40.7-01,"CJ XII, 12.40.7；in pedeplanis suis",ambiguous_source_syntax,in pedeplanis suis 的词义及其与条文所涉装备或给付对象的关系不确定。,保留拉丁短语并按上下文试译，不擅自确定具体器物或适用对象。,已完成人工二校；术语含义仍待核验。
+CJ3-3.28.33.1-01,"CJ III, 3.28.33.1；nec suam ma turam fallere",source_transcription_anomaly,网页将短语录作 ma turam；词内断开或底本文字疑有讹误，现有网页及可检索转录未能确定应如何校读。,拉丁文按网页照录；中文不据可疑词形推定含义，在译文及校记中明示疑点，待核Krueger印本页图或可靠校勘本。,已完成人工二校；原文读法仍待核验。
+CJ8-8.53.1-01,"CJ VIII, 8.53.1；网页词形 tarditis",possible_transcription_error,网页拉丁文作 tarditis；结合句义疑为 traditis（交付），但未核印本页图，不能据推测改动底本。,拉丁引文照录 tarditis；中文暂按“文书已经交付”理解，并在译者校记标明疑读。,独立二校完成；网页词形与疑读仍待Krueger印本页图核验。
+CJ12-12.51.1-01,"CJ XII, 12.51.1；his dimissis",ambiguous_reference,his dimissis 的指代及 dimittere 在本句中的具体含义不明，可能涉及随员、牲畜交付或相关人员遣散，影响五日期限的起算关系。,保留译文的谨慎理解并在校记标疑；不据上下文补定具体对象或起算规则。,独立二校完成；指代及期限起算仍待专门资料核验。
+CJ12-12.53.1-01,"CJ XII, 12.53.1；urbique praefecti ... attingere purpuram",ambiguous_syntax,urbique praefecti 与 attingere purpuram 的语序和修饰关系不清，影响其所指觐见对象及官署人员资格。,译文依可辨礼仪语境谨慎处理，并在译者校记明示句法解释的不确定性；不将其改写为确定制度规则。,独立二校完成；句法与制度所指仍待印本及官制资料核验。
+CJ12-12.59.9-01,"CJ XII, 12.59.9 §1；proscriptionis stilum subire",penalty_interpretation,proscriptionis stilum subire 的具体制裁含义及其与后文没收全部财产的关系不能仅凭网页译文确定。,暂译并保留拉丁语；不将其确定等同于流放、财产没收或其他现代刑罚类别，待专门法律史资料核验。,独立二校完成；制裁性质和财产效果仍待核。
+CJ4-4.54.7-01,"CJ IV, 4.54.7; soluta fuerit data quantitas",ambiguous_payment_direction,原文称已给付金额在一定期限内得到清偿，但未明言清偿主体、收款人或资金流向；“返还价款”只能结合交易语境推断。,正文采用“已给付的款项在一定期限内结清”的中性译法；校记说明不补定具体返价义务。,独立二校完成；清偿主体及方向仍属解释疑点，已在译文中保留。
+CJ4-4.40.4-01,"CJ IV, 4.40.4；stilum proscriptionis",penalty_interpretation,身份较高者适用的 stilum proscriptionis 具体指何种财产或身份制裁，仅凭网页词句无法确定。,暂译为财产没收之罚并在校记标明疑点；不径定其为某一现代刑罚类别。,独立二校完成；制裁形态仍待罗马法史资料核验。
+CJ4-4.55.1-01,"CJ IV, 4.55.1 §§1–2；卖奴约款、城市例外与国库追索",ambiguous_condition,条文区分运出境外之奴隶、约定排除的城市、释放前后及国库追索；城市例外与重新出售为永久奴隶的条件关系较难确定。,保留各项条件与时序，依网页语序谨慎翻译；不补入未明示的地点或追索程序。,独立二校完成；地理例外和国库追索关系仍待制度资料核验。
+CJ4-4.55.2-01,"CJ IV, 4.55.2；homo quidem fisco commissus est",ambiguous_legal_effect,在权利人放弃强制扣押而改约定罚金后，homo fisco commissus 与受约定罚金者依 stipulatio 起诉的关系不明。,暂按“该人应归国库，你可依口约起诉”译出；保留拉丁短语并不推定国库处分程序。,独立二校完成；homo fisco commissus 的具体法效果仍待核。
+CJ4-4.56.1-01,"CJ IV, 4.56.1；自由身份诉讼与数手转售",ambiguous_reference,条文涉及妇女被迫卖淫、权利人容忍违法状态、liberalis causa 程序及所有权经多手转让后回到最初违法者，主体关系与程序衔接紧缩。,依可辨字面谨慎翻译，保留自由身份争讼及所有权链条；不补写未明示的诉讼主体。,独立二校完成；程序主体与转手后的法律效果仍待专题核验。
+CJ4-4.57.5-01,"CJ IV, 4.57.5 §2；召至 procurator 官署",ambiguous_argument,为何曾在买卖中加入不得释放条件者可以传唤收信人至 procurator 官署，且皇帝来信未记载收信人本人释放奴隶，论证关系不清。,依网页原文保留问句和否定理由，不补充责任主体或程序根据。,独立二校完成；末款论证关系仍有疑义，已在译者说明中标示。
+CJ4-4.61.13-01,"CJ IV, 4.61.13；duas portione",transcription_or_grammar,网页词形 duas portione 语法不整；依上下文译为旧制将三分之二缴入国库、余下三分之一留归城市。,拉丁引文照录；中文按上下文解释并明示疑词，不静默校改。,独立二校完成；比例解释仍待印本或可靠校勘本核验。
+CJ4-4.65.7-01,"CJ IV, 4.65.7；cum idem Hermes in conductionem ut idoneus detinerentur",ambiguous_syntax,此处词形及句法紧缩；其与赫尔墨斯作为合格承租人继续承租及保证责任期间的关系不易仅据网页确定。,正文暂按“以合格承租人身份继续承租”理解；校记说明词组结构待核，不据此扩张保证责任。,独立二校完成；句法及保证期间关系仍待核。
+CJ4-4.65.23-01,"CJ IV, 4.65.23；所有权错误与租赁合意",ambiguous_legal_effect,对自身所有权不知情、租赁合意无效以及当事人败诉后租赁契约未成立之间的论证关系紧缩。,保留原文推理次序并按网页字面谨慎翻译，不补入现代合同成立规则。,独立二校完成；句法与租赁效力关系仍待专题核验。
+CJ4-4.65.35-01,"CJ IV, 4.65.35 §§1–2；军人承租禁令与出租人后果",ambiguous_scope,第一款的十一支 scholae 与盟军职务类别具有制度专属性；第二款允许军人承租者不得向其强制收租、并可能丧失收益的主体与适用范围不完全明确。,保留原有军职列举及出租人后果，依字面翻译；不补造现代编制或额外责任。,独立二校完成；制度范围和第二款后果仍待专题核验。

@@ -1,0 +1,77 @@
+{
+  "epub": "./Novellae_Schoell_Kroll_Chinese_Bilingual.epub",
+  "zip_test": "passed",
+  "mimetype_first_uncompressed": true,
+  "xhtml_xml_parse": "passed",
+  "xml_errors": [],
+  "internal_href_missing": [],
+  "missing_fragments": [],
+  "layout": "paired original/Chinese translation passages; standalone source pages omitted",
+  "source_pages_embedded": 0,
+  "navigation_spot_check": {
+    "nav_manifest_item_present": true,
+    "toc_nav_count": 1,
+    "toc_language": "zh-Hans",
+    "navigation_link_count": 2341,
+    "translated_heading_ids": 2320,
+    "translated_heading_nav_missing": []
+  },
+  "paired_passage_spot_check": {
+    "latin_passage_present": true,
+    "chinese_translation_present": true,
+    "original_marker_present": true,
+    "translation_marker_present": true
+  },
+  "spot_checks": [
+    {
+      "file": "translations/translation-Novellae_001-056_Chinese.xhtml",
+      "xhtml_valid": true,
+      "replacement_character": false,
+      "greek_characters": 0,
+      "chinese_characters": 159423,
+      "text_characters": 736341
+    },
+    {
+      "file": "translations/translation-Novellae_057-112_Chinese.xhtml",
+      "xhtml_valid": true,
+      "replacement_character": false,
+      "greek_characters": 0,
+      "chinese_characters": 91638,
+      "text_characters": 439666
+    },
+    {
+      "file": "translations/translation-Novellae_113-168_Chinese.xhtml",
+      "xhtml_valid": true,
+      "replacement_character": false,
+      "greek_characters": 39,
+      "chinese_characters": 96556,
+      "text_characters": 455908
+    },
+    {
+      "file": "translations/translation-Edicta_001-012_Chinese.xhtml",
+      "xhtml_valid": true,
+      "replacement_character": false,
+      "greek_characters": 0,
+      "chinese_characters": 5015,
+      "text_characters": 22897
+    },
+    {
+      "file": "translations/translation-Appendix_001-009_Chinese.xhtml",
+      "xhtml_valid": true,
+      "replacement_character": false,
+      "greek_characters": 0,
+      "chinese_characters": 10047,
+      "text_characters": 42812
+    },
+    {
+      "file": "translations/translation-Epitome_Juliani_081-124_Chinese.xhtml",
+      "xhtml_valid": true,
+      "replacement_character": false,
+      "greek_characters": 0,
+      "chinese_characters": 50999,
+      "text_characters": 293040
+    }
+  ],
+  "sha256": "2e17ded50bc66d3f5ef1d7ae1cc63e06f6797e4c985a804b3992b5f29ce7ea24",
+  "epubcheck": "not available on PATH"
+}

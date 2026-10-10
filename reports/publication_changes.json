@@ -1,0 +1,16 @@
+[
+  {
+    "file": "works/codex/Codex_Iustinianus_Krueger_Chinese.epub",
+    "original_sha256": "b4f1e482d704deb1e53d4086ed98fbb0522459992b94bf075292a5276ef64b19",
+    "published_sha256": "c33697a5ec1239886b9ca39a5445426526af1d2e9f0c45fa9465e73ea1abc9f4",
+    "changed_member": "EPUB/nav.xhtml",
+    "change": "Volume X entry now targets the existing Volume X front matter; all body documents and source bytes are unchanged."
+  },
+  {
+    "file": "works/codex/Codex_Iustinianus_Krueger_bilingual.epub",
+    "original_sha256": "7a181ccbfdeff5164d1b21d5074994918020cacc5e353f7785e66e5947b69d5f",
+    "published_sha256": "8575c5be7eaa67bdde150219a0b81aa318280ce4e4834a2928289688ec47ce41",
+    "changed_member": "EPUB/nav.xhtml",
+    "change": "Volume X entry now targets the existing Volume X front matter; all body documents and source bytes are unchanged."
+  }
+]

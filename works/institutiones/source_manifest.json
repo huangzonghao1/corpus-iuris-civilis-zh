@@ -1,0 +1,82 @@
+{
+  "retrieved": "2026-09-26",
+  "source_main": "https://droitromain.univ-grenoble-alpes.fr/Corpus/iust_institut.html",
+  "edition_attribution": "Recognovit Paulus Krueger (Corpus Iuris Civilis, vol. I), as shown on source page",
+  "proofreading_credit": "Dr. Philippe Paschel, as shown on source pages",
+  "scope": "Prooemium, Liber I-IV, Index titulorum",
+  "files": [
+    {
+      "name": "iust_institut.html",
+      "bytes": 12308,
+      "encoding": "latin-1",
+      "sha256": "52a971110169c923727b67ca2f32f245c1988fc88ca1f94bdf14166cf4190bdb",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/iust_institut.html"
+    },
+    {
+      "name": "just_proem.htm",
+      "bytes": 11080,
+      "encoding": "latin-1",
+      "sha256": "3244742654213a5bf33a0ac8817ab85253badcca0449aac11938215a7aae5d4d",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/just_proem.htm"
+    },
+    {
+      "name": "just1.gr.htm",
+      "bytes": 108406,
+      "encoding": "utf-8",
+      "sha256": "f875f9c2db78bf96681f871fd97d7bcafe16ca01be1f4f0c79293cb4f912705b",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/just1.gr.htm"
+    },
+    {
+      "name": "just2.gr.htm",
+      "bytes": 192941,
+      "encoding": "utf-8",
+      "sha256": "6a160377bae93ea4b89330ff9e46cc75e8b29f1a3b5a4a1cf9514660fbc41185",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/just2.gr.htm"
+    },
+    {
+      "name": "just3.gr.htm",
+      "bytes": 166481,
+      "encoding": "utf-8",
+      "sha256": "7e023be0a0c7fa52a454d91a2c59be21bc31ca5899093a9eb5e8d12b323c6e2e",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/just3.gr.htm"
+    },
+    {
+      "name": "just4.gr.htm",
+      "bytes": 140146,
+      "encoding": "utf-8",
+      "sha256": "215b8c63f0db9e63c8e111f64d6a0ff924c0f06928a8dfb0a8a6635131b7a0e9",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/just4.gr.htm"
+    },
+    {
+      "name": "iust_tit.htm",
+      "bytes": 19159,
+      "encoding": "latin-1",
+      "sha256": "6393f5bd8d379d65b4e4228b6147a8cb50ddfcbb583a5bf4c42dbe4ae1e06904",
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/iust_tit.htm"
+    }
+  ],
+  "chapters": {
+    "1": {
+      "titleCount": 26,
+      "paragraphAnchors": 173,
+      "unnumberedSourceBlocks": 4
+    },
+    "2": {
+      "titleCount": 25,
+      "paragraphAnchors": 253,
+      "unnumberedSourceBlocks": 0
+    },
+    "3": {
+      "titleCount": 29,
+      "paragraphAnchors": 217,
+      "unnumberedSourceBlocks": 7
+    },
+    "4": {
+      "titleCount": 18,
+      "paragraphAnchors": 181,
+      "unnumberedSourceBlocks": 3
+    }
+  },
+  "prooemiumParagraphAnchors": 8,
+  "indexTitleLinks": 98
+}

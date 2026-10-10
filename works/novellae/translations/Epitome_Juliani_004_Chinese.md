@@ -1,0 +1,210 @@
+# 《尤利安新律拉丁摘要》第一卷：Constitutio IV 中译工作稿
+
+> 本篇拉丁文本据网页所列 Hänel, Leipzig 1873；网页说明这部摘要由尤利安将《查士丁尼新律》自希腊文译成拉丁文。以下保留网页转录的拼写（包括 u/v 用法）、章号和段号。
+> 来源：`source_original/epitome_julien_1.htm`；页面题为 *Iuliani Epitome Latina Novellarum Iustiniani: Const. 1–80 (Hänel)*，网页来源见 [原页](https://droitromain.univ-grenoble-alpes.fr/Corpus/epitome_julien_1.htm)。
+
+## Constitutio IV — De monasteriis
+
+**篇号原文：** `CONST. IV`
+
+**逐段对读**
+
+### kp. 12 — Constitutio IV, paragraph 1
+
+**原文（拉丁文）**
+
+> 1. Qui uult aedificare monasterium, prius episcopum uocet, et illum exoret, ut sanctam crucem imponat, et postea imponatur aedificium.
+
+**中文译文**
+
+> 1. 凡欲建造修道院者，应先召请主教，请他安置圣十字架，然后方可动工建造。
+
+### Caput 13 — De monachis et ascetriis
+
+**原文（拉丁文）**
+
+> kp. 13 De monachis et ascetriis.
+
+**中文译文**
+
+> 第十三章：关于修士和隐修女（女修道者）。
+
+### Constitutio IV, paragraph 2
+
+**原文（拉丁文）**
+
+> 2. Si quis monachus fieri uult, siue liber sit, siue seruus, non statim monachus fiat, sed per triennium tonsura quidem et ueste laicorum utatur, et diuinas scripturas discat et confiteatur suam condicionem, id est, utrum ingenuus sit, an seruus, uel alterius cuiuscumque status, et narret causas, propter quas ad solitariam uitam migrare desiderauerit, ne forte malus sit, et Deo displiceat. Oportet autem et monachos uerba ei adferre, quae mores eius et uitam corrigere poterunt. Et si per triennium talis appareat, ut uideatur dignus tonsura et ueste religiosa, tunc et tondeatur, et stolam monachicam uestiat, siue liber sit, siue seruus, et nulla molestia inferatur ei, neque de seruili, neque de libertina condicione. Sin autem aliquis intra triennium retrahere eum ut seruum suum uoluerit, et dicat, quod res suas furatus ad monasterium cucurrit, non statim eum abstrahat, sed prius probet, quod et seruus est, et pro furto uel uita mala, et peccatis atrocibus timuit, et fugit. Et si haec uera sint, reddatur seruus domino suo cum rebus subreptis, si etiam ipsae quoque res in monasterio fuerint; dominus autem eum recipiens fidem ei praestet, quod nullo eum malo propter haec, quae iam peccauit, affecturus sit. Quod si nullo delicto seruum suppositum esse dominus probare potuerit, et ipse seruus ex castitate morum suorum bona testimonia habeat, etsi nondum triennium praeterierit, tamen maneat in eodem uenerabili monasterio; triennio autem semel transacto, et inter monachos seruo numerato, nulla licentia sit postea qualemcumque molestiam ei inferre, siue reuera famulus sit, siue ingenuus, sed omnimodo solitariae uitae permaneat, etsi peccatum ab eo in priore uita admissum sit. Ea autem, quae furto subrepta sunt, procul dubio, si inueniantur, domino reddi oportet.
+
+**中文译文**
+
+> 2. 凡愿成为修士者，无论自由人还是奴隶，都不得立即成为修士，而应先经过三年：在此期间，他应留平民发式、穿平民衣服，学习神圣经典，并说明自己的身份，即究竟是自由出生者、奴隶，还是其他身份；还应说明其希望转入独居生活的缘由，以免其品行不端、令上帝不悦。修士们也应向他陈说可以纠正其品行和生活的教诲。若三年期间他表现良好，足以被认为配受剃发并穿宗教服装，则届时应为其剃发并令其穿上修士长衣，无论他是自由人还是奴隶；不得因其奴隶身份或获释者身份而对他施加任何骚扰。若有人在三年期限内试图将他作为自己的奴隶带走，并称他盗窃自己的财物后逃入修道院，则不得立即将他带走；应先证明他确为奴隶，而且因畏惧盗窃、恶劣生活或严重罪行而逃走。若这些事实属实，就应将奴隶连同被盗财物一并交还主人，但以那些财物也确实在修道院内为限；主人接回奴隶时，应向他作出保证，不会因他先前犯下的这些过错而伤害他。若主人不能证明该奴隶曾有任何不法行为，而奴隶又因其品行贞洁而有良好声誉，即使三年尚未届满，也应让他继续留在同一所受尊崇的修道院。三年一旦届满、该奴隶已列入修士之中，任何人此后均不得对他施加任何骚扰；无论他事实上是奴隶还是自由出生者，都应一概继续独居生活，即使他此前生活中曾犯过罪也是如此。若发现被盗财物，当然应将其归还主人。
+
+### Caput 14 — Idem
+
+**原文（拉丁文）**
+
+> kp. 14 Idem.
+
+**中文译文**
+
+> 第十四章：同前。
+
+### Constitutio IV, paragraph 3
+
+**原文（拉丁文）**
+
+> 3. Sin autem seruitutem effugiens uenerit quis ad monasterium, postea autem reliquerit uenerabilem locum, et in aliam uitae figuram transierit, liceat domino extrahere eum, et probanti quod seruus est, ut seruum eum habere.
+
+**中文译文**
+
+> 3. 若有人为逃避奴役而来到修道院，后来却离开受尊崇之处，改过另一种生活，则主人可以将他带走；在证明他是奴隶后，主人可以继续将他作为奴隶持有。
+
+### Caput 15 — Idem
+
+**原文（拉丁文）**
+
+> kp. 15 Idem.
+
+**中文译文**
+
+> 第十五章：同前。
+
+### Constitutio IV, paragraph 4
+
+**原文（拉丁文）**
+
+> 4. In omnibus monasteriis, siue paucos siue complures monachos habeant, nulla licentia monachis sit separatim conuersandi, nec unusquisque monachus suum proprium cubiculum habeat, sed communiter ad excolendum Deum congregentur, et in communi loco dormiant: singulis quidem in culcitis suis, humi uidelicet constratis, iacentibus, omnibus autem in una domo dormientibus. Quod si tantus sit monachorum numerus, ut una domus eis non sufficiat, tunc et in duabus pluribusue habitationibus dormiant, non autem separatim per se, sed in communi loco, sicut iam praediximus: nisi forte quidam ex his tales sint, ut iuste debeant segregari ab alia monachorum multitudine, quos summae uitae constitutos Graeci ‘anakhôrêtas’ et ‘hêsukhastas’ dicunt.
+
+**中文译文**
+
+> 4. 在所有修道院中，无论其中修士人数多寡，修士均不得分散而各自独居；每个修士也不得拥有自己的私人寝室。他们应共同聚集敬奉上帝，并在共同场所睡眠：每人躺在自己的床褥上，床褥铺在地面上，但所有人都睡在同一座房屋内。若修士人数众多，一座房屋不足以容纳，则可在两座或更多房屋内睡眠；但仍不得各自分开居住，而应像前述那样处于共同场所。唯有其中某些人确有正当理由应与其他修士隔离时例外；希腊人将这些达到至高修行境界的人称为“隐修者”（anakhôrêtas）和“静修者”（hêsukhastas）。
+
+### Caput 16 — Idem
+
+**原文（拉丁文）**
+
+> kp. 16 Idem.
+
+**中文译文**
+
+> 第十六章：同前。
+
+### Constitutio IV, paragraph 5
+
+**原文（拉丁文）**
+
+> 5. Si quis in monasterio se consecrauerit, et postquam religiosa ueste uestitus est, a monasterio recesserit, omnia bona ipsius, quae in monasterium introduxit, ad ipsum monasterium pertineant. Idem est ex alia constitutione, et si non introduxerit; omnes enim res eius dominii monasterii sint.
+
+**中文译文**
+
+> 5. 若有人在修道院中立誓献身，并在穿上宗教服装后离开修道院，则他带入修道院的全部财产归该修道院所有。另一宪令也规定，即使他没有带入财产，结果亦同；因为他的全部财产都应归修道院所有。
+
+### Caput 17 — Idem
+
+**原文（拉丁文）**
+
+> kp. 17 Idem.
+
+**中文译文**
+
+> 第十七章：同前。
+
+### Constitutio IV, paragraph 6
+
+**原文（拉丁文）**
+
+> 6. Si uir uel mulier liberos habens ad solitariam uitam peruenerit, si quidem iam donauerit filio suo uel filiae suae tantum, quantum lex Falcidia facit, siue occasione propter nuptias donationis, quam pro filio suo dedit, siue dotis causa, quam pro filia sua praestitit: si igitur habeant legis Falcidiae quantitatem, cetera bona eius ab omni inquietudine liberentur, siue pater sit siue mater, qui quaeue in monasterium introierit, ut in reliquis rebus eorum nullam habeant liberi communionem, utpote cum lege Falcidia satis eis factum sit. Quod si nihil eis uel minus Falcidia pater uel mater praestiterit, tunc etiam monacho facto patre uel consecrata matre, libera facultas filiis sit uel totam Falcidiam, uel quod ei deest, a monasterio uindicare. Inter uirum autem et uxorem talis obseruatio teneat, ut siue maritus, siue uxor intrauerit in monasterium, hoc consequatur laica persona, quod ex casu mortis ei competisset secundum dotalium pactionum tenorem.
+
+**中文译文**
+
+> 6. 有子女的男子或女子转入独居生活时，若其此前已经向儿子或女儿给付相当于法尔基第份额的财产——或者是为儿子作婚前赠与，或者是为女儿给付嫁资——且已达到法尔基第法规定的数额，则其余财产应免受一切扰扰；无论进入修道院的是父亲还是母亲，子女均不得对其其余财产主张任何权利，因为依该法其应得份额已经满足。若父亲或母亲未给子女任何财产，或给付低于法尔基第份额，则即使父亲已成为修士或母亲已献身修道，子女仍可自由向修道院请求全部法尔基第份额，或请求补足其不足部分。夫妻之间亦适用如下规则：无论丈夫还是妻子进入修道院，留在世俗生活中的配偶均应取得依嫁资契约条款、在对方死亡时本可取得的财产。
+
+### Caput 18 — Idem
+
+**原文（拉丁文）**
+
+> kp. 18 Idem.
+
+**中文译文**
+
+> 第十八章：同前。
+
+### Constitutio IV, paragraph 7
+
+**原文（拉丁文）**
+
+> 7. Si quis introierit in monasterium, et post religiosam uestem recesserit, uel militauerit, uel simpliciter laicus factus fuerit, exspolietur cingulo militari, et uita libera non potiatur, sed officio praesidis prouinciae seruire cogatur. Substantia autem eius in monasterio maneat.
+
+**中文译文**
+
+> 7. 若有人进入修道院，后来脱下宗教服装离开，或转而服兵役，或仅仅恢复平民身份，就应被剥夺军用腰带，不得享有自由生活，而应被强令为行省长官的官署服役。他的财产则留在修道院。
+
+### Caput 19 — Idem
+
+**原文（拉丁文）**
+
+> kp. 19 Idem.
+
+**中文译文**
+
+> 第十九章：同前。
+
+### Constitutio IV, paragraph 8
+
+**原文（拉丁文）**
+
+> 8. Si quis in monasterio consecratus fuerit, posteaque in aliud monasterium transire maluerit, substantia quidem eius a priore monasterio uindicetur, aliorum autem monasteriorum primates prohibeant eum transire, ut in alio monasterio non recipiatur. Et de hoc curare debent non solum religiosissimi episcopi, sed etiam reuerendissimi archimandritae.
+
+**中文译文**
+
+> 8. 若有人在修道院中献身为修士，之后希望转往另一修道院，则其财产应由原修道院追取；其他修道院的院长应禁止其转往别处，不得在另一修道院接纳他。不仅至虔敬的主教，连可敬的修院院长也应对此加以监管。
+
+### Caput 20 — Idem
+
+**原文（拉丁文）**
+
+> kp. 20 Idem.
+
+**中文译文**
+
+> 第二十章：同前。
+
+### Constitutio IV, paragraph 9
+
+**原文（拉丁文）**
+
+> 9. Si quis monachus constitutus clericatus honorem acceperit, nullam habeat facultatem uxorem ducendi, quamuis eius gradus sit, cuius clericus non prohibetur uxorem habere, qualis est gradus cantorum et lectorum. Non solum autem uxorem ducere prohibetur, sed etiam concubinam habere. Si quis autem monachus ante constitutus clericatus occasione uel duxerit uxorem, uel concubinam habuerit, eiiciatur de clero, et sit priuatus, ad nullam militiam uel professionem aliam audens uenire, nisi forte uelit in antefatas poenas incidere.
+
+**中文译文**
+
+> 9. 修士一旦取得神职身份，即不得结婚，即使他所任的神职等级原本并不禁止神职人员结婚也不例外，例如歌咏者和读经者的等级。他不仅不得结婚，也不得有妾。若某人先已成为修士，后来因取得神职而结婚或纳妾，则应将其逐出神职，使其失去相应身份；他不得再进入任何其他服役或职业，除非他愿意承受上述处罚。
+
+### Caput 21 — De archimandritis, et ut constitutio communis sit monachorum et sanctimonialium
+
+**原文（拉丁文）**
+
+> kp. 21 De archimandritis, et ut constitutio communis sit monachorum et sanctimonialium.
+
+**中文译文**
+
+> 第二十一章：关于修院院长，并规定本宪令同样适用于修士与女修士。
+
+### Constitutio IV, paragraph 10
+
+**原文（拉丁文）**
+
+> 10. Primi monachi creatio non secundum ordinem temporis fiat, neque qui tempore prior est, primi loci creationem sibi praesumat, nec qui secundus forte uel tertius est, sed qui et uitae castitate, et diuinarum rerum scientia, et animi grauitate praecellit, is habeat loci prioris honorem, idque procedere debet secundum electionem atque iudicium religiosissimi episcopi. Quae autem diximus et in prioribus et in istis constitutionibus de clericis, uel monachis, uel monasteriis, ea non solum de masculis, sed etiam de feminis sanctimonialibus intelligere debemus.
+
+> DAT. KAL. APRIL. CONSTANTINOPOLI BELISARIO V. C. CONS. (535)
+
+**中文译文**
+
+> 10. 任命首席修士不得依据时间先后；资历较长者不得自行占据首席，也不得仅因自己位居第二或第三便取得首位。应由在生活贞洁、神学知识和心志庄重方面最为出众者享有首位；这一任命应依至虔敬主教的选择和判断进行。我们在先前及本宪令中关于神职人员、修士或修道院所说的一切，不仅适用于男子，也应理解为适用于献身修道的女子。
+
+
+日期程式（译文）：颁布于君士坦丁堡，四月朔日（4月1日），显贵贝利撒留任执政官之年（535年）。
+## 译者注
+
+1. *anakhôrêtas* 与 *hêsukhastas* 是希腊语音译，网页以拉丁字母转录；译文保留音译并给出概括性释义。
+2. 第六段的 *lex Falcidia* 按罗马继承法术语译作“法尔基第法／法尔基第份额”；具体份额适用仍应结合相应原典核对。
+3. 第七段 *officio praesidis prouinciae seruire* 直译为“为行省长官的官署服役”，原文未说明具体职务。

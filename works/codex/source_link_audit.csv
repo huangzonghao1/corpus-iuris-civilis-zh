@@ -1,0 +1,63 @@
+﻿source_page,original_href,source_target_status,offline_target,treatment
+CJ1.htm,#3,missing anchor in original page,#1.3,Mapped stale TOC target to the extant title anchor; raw source unchanged.
+CJ1.htm,#27,missing anchor in original page,#1.27,Mapped stale TOC target to the extant title anchor; raw source unchanged.
+CJ1.htm,01_57.htm#22,HTTP 404 at linked URL,#1.22,Mapped stale TOC target to the extant title anchor; raw source unchanged.
+CJ1.htm,./01_57_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ2.htm,./01_58_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ7.htm,./001_75_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ8.htm,./001_58_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ9.htm,./01_51_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ10.htm,./01_78_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ11.htm,./001_78_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+CJ12.htm,./01_63_fichiers/editdata.mso,legacy Word metadata; not required for reading,,Removed from derived offline copy; exact source preserved.
+codjust.htm,http://amshistorica.cib.unibo.it/diglib.php?inv=176&int_ptnum=4,checked 2026-09-27: HTTP 200 redirects to generic https://historica.unibo.it/home,,External edition link retained as found; target no longer resolves to the item.
+codjust.htm,http://pds.lib.harvard.edu/pds/view/14856910?n=3205&imagesize=1200&jp2Res=.25&printThumbnails=no,checked 2026-09-27: HTTP 429 rate limited; item target not confirmed,,External edition link retained as found; access could not be verified because the host rate-limited the request.
+codjust.htm,http://digi.ub.uni-heidelberg.de/diglit/justinian1627bd4?sid=b392e981e706545effa2d13bb1a9ae9f,checked 2026-09-27: HTTP 200; resolves to the digitized edition page,,External edition link retained as found.
+codjust.htm,http://www.archive.org/stream/codexiustinianu00kruegoog#page/n8/mode/2up,checked 2026-09-27: HTTPS HTTP 200; redirects to Internet Archive item page,,External edition link retained as found; Internet Archive metadata separately records the 1877 scan.
+codjust.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+codjust.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+Componendo.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+Componendo.htm,../Images/Justinien.jpg,archived locally; HTTP 200,Images/Justinien.jpg,Rebased the image path in the derived offline copy; raw source preserved.
+Componendo.htm,../Images/traduction.gif,archived locally; HTTP 200,Images/traduction.gif,Rebased the image path in the derived offline copy; raw source preserved.
+Componendo.htm,../Francogallica/preface1_fran_Tissot.htm,archived locally; HTTP 200,Francogallica/preface1_fran_Tissot.htm,Replaced the JavaScript popup with a direct local link; raw source preserved.
+Componendo.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+Confirmando.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+Confirmando.htm,../Images/Justinien.jpg,archived locally; HTTP 200,Images/Justinien.jpg,Rebased the image path in the derived offline copy; raw source preserved.
+Confirmando.htm,../Images/traduction.gif,archived locally; HTTP 200,Images/traduction.gif,Rebased the image path in the derived offline copy; raw source preserved.
+Confirmando.htm,../Francogallica/preface2_fran_Tissot.htm,archived locally; HTTP 200,Francogallica/preface2_fran_Tissot.htm,Replaced the JavaScript popup with a direct local link; raw source preserved.
+Confirmando.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+Emendatio.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+Emendatio.htm,../Images/Justinien.jpg,archived locally; HTTP 200,Images/Justinien.jpg,Rebased the image path in the derived offline copy; raw source preserved.
+Emendatio.htm,../Images/traduction.gif,archived locally; HTTP 200,Images/traduction.gif,Rebased the image path in the derived offline copy; raw source preserved.
+Emendatio.htm,../Francogallica/preface3_fran_Tissot.htm,archived locally; HTTP 200,Francogallica/preface3_fran_Tissot.htm,Replaced the JavaScript popup with a direct local link; raw source preserved.
+Emendatio.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ1.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ1.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ2.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ2.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ3.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ3.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ4.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ4.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ5.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ5.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ6.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ6.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ7.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ7.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ8.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ8.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ9.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ9.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ10.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ10.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ11.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ11.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+CJ12.htm,../Images/marbre2.jpg,archived locally; HTTP 200,Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+CJ12.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+Francogallica/preface1_fran_Tissot.htm,../Images/marbre2.jpg,archived locally; HTTP 200,../Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+Francogallica/preface1_fran_Tissot.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+Francogallica/preface2_fran_Tissot.htm,../Images/marbre2.jpg,archived locally; HTTP 200,../Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+Francogallica/preface2_fran_Tissot.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.
+Francogallica/preface3_fran_Tissot.htm,../Images/marbre2.jpg,archived locally; HTTP 200,../Images/marbre2.jpg,Rebased the background image path in the derived offline copy; raw source preserved.
+Francogallica/preface3_fran_Tissot.htm,http://www.google-analytics.com/urchin.js,external legacy analytics script,,Removed analytics script from derived offline copy; raw source preserved.

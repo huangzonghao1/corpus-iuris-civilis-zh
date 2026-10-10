@@ -1,0 +1,5 @@
+*.epub binary
+works/**/source_original/** -text
+works/**/source_html/** -text
+*.py text eol=lf
+*.md text eol=lf
